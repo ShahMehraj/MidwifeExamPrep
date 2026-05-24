@@ -78,6 +78,14 @@ header .subtitle {
     cursor: pointer;
     transition: background 0.2s;
     color: white;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.btn-icon .icon-label {
+    font-size: 0.7rem;
+    font-weight: 600;
 }
 
 .btn-icon:hover {
@@ -87,6 +95,12 @@ header .subtitle {
 .btn-icon.active {
     background: rgba(255,255,255,0.35);
     box-shadow: 0 0 0 2px rgba(255,255,255,0.5);
+}
+
+@media (max-width: 768px) {
+    .btn-icon .icon-label {
+        display: none;
+    }
 }
 
 .container {
