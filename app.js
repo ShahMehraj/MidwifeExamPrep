@@ -1,7 +1,27 @@
 // App State
-let currentIndex = 0;
+let currentIndex = loadCurrentIndex();
 let selectedOption = null;
-let answered = {};
+let answered = loadProgress();
+
+// LocalStorage helpers
+function saveProgress() {
+    localStorage.setItem('mcq_answered', JSON.stringify(answered));
+    localStorage.setItem('mcq_currentIndex', currentIndex);
+}
+
+function loadProgress() {
+    try {
+        const saved = localStorage.getItem('mcq_answered');
+        return saved ? JSON.parse(saved) : {};
+    } catch (e) {
+        return {};
+    }
+}
+
+function loadCurrentIndex() {
+    const saved = localStorage.getItem('mcq_currentIndex');
+    return saved ? parseInt(saved, 10) : 0;
+}
 
 // DOM Elements
 const questionText = document.getElementById('question-text');
@@ -33,6 +53,18 @@ function init() {
     prevBtnBottom.addEventListener('click', () => navigate(-1));
     nextBtnBottom.addEventListener('click', () => navigate(1));
 
+    // Reset button
+    document.getElementById('reset-btn').addEventListener('click', () => {
+        if (confirm('Reset all progress? This cannot be undone.')) {
+            answered = {};
+            currentIndex = 0;
+            localStorage.removeItem('mcq_answered');
+            localStorage.removeItem('mcq_currentIndex');
+            renderQuestion();
+            updateProgress();
+        }
+    });
+
     // Keyboard navigation
     document.addEventListener('keydown', (e) => {
         if (e.key === 'ArrowLeft') navigate(-1);
@@ -59,6 +91,7 @@ function buildSectionNav() {
                 currentIndex = firstQ;
                 renderQuestion();
                 updateSectionNav();
+                saveProgress();
             }
         });
         sectionList.appendChild(li);
@@ -143,6 +176,7 @@ function submitAnswer() {
     answered[currentIndex] = selectedOption;
     showResult(selectedOption);
     updateProgress();
+    saveProgress();
 }
 
 // Show result
@@ -185,6 +219,7 @@ function navigate(direction) {
     if (newIndex >= 0 && newIndex < questions.length) {
         currentIndex = newIndex;
         renderQuestion();
+        saveProgress();
     }
 }
 
