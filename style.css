@@ -1,0 +1,371 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f0f4f8;
+    color: #1a1a2e;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(135deg, #003366, #004d99);
+    color: white;
+    text-align: center;
+    padding: 1.5rem 1rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+header h1 {
+    font-size: 1.6rem;
+    margin-bottom: 0.3rem;
+}
+
+header .subtitle {
+    font-size: 0.95rem;
+    opacity: 0.85;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.5rem;
+    gap: 1.5rem;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 250px;
+    flex-shrink: 0;
+    background: white;
+    border-radius: 12px;
+    padding: 1.2rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    max-height: calc(100vh - 140px);
+    overflow-y: auto;
+    position: sticky;
+    top: 1rem;
+}
+
+.sidebar h3 {
+    color: #003366;
+    margin-bottom: 0.8rem;
+    font-size: 1rem;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 0.5rem;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar ul li {
+    padding: 0.5rem 0.6rem;
+    margin-bottom: 0.3rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.82rem;
+    transition: all 0.2s;
+    color: #333;
+}
+
+.sidebar ul li:hover {
+    background: #e8f0fe;
+    color: #003366;
+}
+
+.sidebar ul li.active {
+    background: #003366;
+    color: white;
+    font-weight: 600;
+}
+
+.progress-box {
+    margin-top: 1.2rem;
+    padding-top: 1rem;
+    border-top: 2px solid #e0e0e0;
+}
+
+.progress-box h4 {
+    font-size: 0.85rem;
+    color: #555;
+    margin-bottom: 0.5rem;
+}
+
+.progress-bar {
+    height: 8px;
+    background: #e0e0e0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #00a86b, #00cc88);
+    border-radius: 4px;
+    transition: width 0.4s ease;
+    width: 0%;
+}
+
+#progress-text {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 0.4rem;
+}
+
+/* Main Content */
+.main-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.bottom-controls {
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+.question-counter {
+    font-weight: 600;
+    color: #003366;
+    font-size: 0.95rem;
+}
+
+.btn {
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.btn-nav {
+    background: #e8f0fe;
+    color: #003366;
+}
+
+.btn-nav:hover:not(:disabled) {
+    background: #003366;
+    color: white;
+}
+
+.btn-submit {
+    display: block;
+    width: 100%;
+    margin-top: 1.2rem;
+    padding: 0.9rem;
+    background: linear-gradient(135deg, #003366, #004d99);
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.btn-submit:hover:not(:disabled) {
+    background: linear-gradient(135deg, #004d99, #0066cc);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0,51,102,0.3);
+}
+
+.btn-submit:disabled {
+    background: #ccc;
+    color: #666;
+}
+
+/* Question Card */
+.question-card {
+    background: white;
+    border-radius: 14px;
+    padding: 2rem;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
+}
+
+.section-badge {
+    display: inline-block;
+    background: #990000;
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.question-text {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #000099;
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
+}
+
+/* Options */
+.options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+}
+
+.option {
+    display: flex;
+    align-items: flex-start;
+    padding: 1rem 1.2rem;
+    border: 2px solid #e0e0e0;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 1rem;
+}
+
+.option:hover {
+    border-color: #004d99;
+    background: #f5f9ff;
+}
+
+.option.selected {
+    border-color: #004d99;
+    background: #e8f0fe;
+    box-shadow: 0 0 0 3px rgba(0,77,153,0.15);
+}
+
+.option.correct {
+    border-color: #00a86b;
+    background: #e6f9f0;
+    box-shadow: 0 0 0 3px rgba(0,168,107,0.15);
+}
+
+.option.incorrect {
+    border-color: #dc3545;
+    background: #fde8ea;
+    box-shadow: 0 0 0 3px rgba(220,53,69,0.15);
+}
+
+.option.disabled {
+    cursor: default;
+    pointer-events: none;
+}
+
+.option-letter {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    border-radius: 50%;
+    background: #f0f0f0;
+    font-weight: 700;
+    margin-right: 1rem;
+    font-size: 0.9rem;
+    color: #333;
+}
+
+.option.selected .option-letter {
+    background: #004d99;
+    color: white;
+}
+
+.option.correct .option-letter {
+    background: #00a86b;
+    color: white;
+}
+
+.option.incorrect .option-letter {
+    background: #dc3545;
+    color: white;
+}
+
+.option-text {
+    padding-top: 0.3rem;
+}
+
+/* Result Box */
+.result-box {
+    margin-top: 1.5rem;
+    padding: 1.2rem 1.5rem;
+    border-radius: 10px;
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.result-box.correct {
+    background: #e6f9f0;
+    border-left: 5px solid #00a86b;
+}
+
+.result-box.incorrect {
+    background: #fde8ea;
+    border-left: 5px solid #dc3545;
+}
+
+.result-header {
+    font-weight: 700;
+    font-size: 1.05rem;
+    margin-bottom: 0.6rem;
+}
+
+.result-box.correct .result-header {
+    color: #00a86b;
+}
+
+.result-box.incorrect .result-header {
+    color: #dc3545;
+}
+
+.rationale {
+    color: #444;
+    font-size: 0.92rem;
+    line-height: 1.6;
+    font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .sidebar {
+        width: 100%;
+        position: static;
+        max-height: none;
+    }
+
+    .question-card {
+        padding: 1.2rem;
+    }
+
+    .question-text {
+        font-size: 1rem;
+    }
+
+    .option {
+        padding: 0.8rem 1rem;
+    }
+
+    header h1 {
+        font-size: 1.3rem;
+    }
+}

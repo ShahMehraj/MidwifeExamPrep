@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Obstetric & Maternal Health Nursing - MCQs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Obstetric & Maternal Health Nursing</h1>
+        <p class="subtitle">Multiple Choice Questions</p>
+    </header>
+
+    <div class="container">
+        <!-- Sidebar Navigation -->
+        <nav class="sidebar" id="sidebar">
+            <h3>Sections</h3>
+            <ul id="section-list"></ul>
+            <div class="progress-box">
+                <h4>Progress</h4>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <p id="progress-text">0 / 0 answered</p>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="controls">
+                <button id="prev-btn" class="btn btn-nav" disabled>&larr; Previous</button>
+                <span class="question-counter" id="question-counter">Q1 of 400</span>
+                <button id="next-btn" class="btn btn-nav">Next &rarr;</button>
+            </div>
+
+            <div class="question-card" id="question-card">
+                <div class="section-badge" id="section-badge"></div>
+                <div class="question-text" id="question-text"></div>
+                <div class="options-container" id="options-container"></div>
+                <button class="btn btn-submit" id="submit-btn" disabled>Submit Answer</button>
+                <div class="result-box" id="result-box" style="display:none;">
+                    <div class="result-header" id="result-header"></div>
+                    <div class="rationale" id="rationale"></div>
+                </div>
+            </div>
+
+            <div class="controls bottom-controls">
+                <button id="prev-btn-bottom" class="btn btn-nav" disabled>&larr; Previous</button>
+                <button id="next-btn-bottom" class="btn btn-nav">Next &rarr;</button>
+            </div>
+        </main>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
