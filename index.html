@@ -1,28 +1,85 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Obstetric & Maternal Health Nursing - MCQs</title>
+    <title>MidwifeExamPrep - OBG MCQs</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#003366">
+    <link rel="apple-touch-icon" href="icon-192.png">
 </head>
 <body>
     <header>
-        <h1>Obstetric & Maternal Health Nursing</h1>
-        <p class="subtitle">Multiple Choice Questions for Rabiya Black</p>
+        <div class="header-content">
+            <div>
+                <h1>Obstetric & Maternal Health Nursing</h1>
+                <p class="subtitle">Multiple Choice Questions for Rabiya Black</p>
+            </div>
+            <div class="header-actions">
+                <button class="btn btn-icon" id="theme-toggle" title="Toggle dark mode">🌙</button>
+                <button class="btn btn-icon" id="stats-toggle" title="View score summary">📊</button>
+                <button class="btn btn-icon" id="shuffle-toggle" title="Shuffle questions">🔀</button>
+            </div>
+        </div>
     </header>
+
+    <!-- Stats Modal -->
+    <div class="modal-overlay" id="stats-modal" style="display:none;">
+        <div class="modal">
+            <div class="modal-header">
+                <h2>Score Summary</h2>
+                <button class="btn btn-icon modal-close" id="stats-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="stats-grid">
+                    <div class="stat-card stat-total">
+                        <div class="stat-number" id="stat-total">0</div>
+                        <div class="stat-label">Total</div>
+                    </div>
+                    <div class="stat-card stat-correct">
+                        <div class="stat-number" id="stat-correct">0</div>
+                        <div class="stat-label">Correct</div>
+                    </div>
+                    <div class="stat-card stat-incorrect">
+                        <div class="stat-number" id="stat-incorrect">0</div>
+                        <div class="stat-label">Incorrect</div>
+                    </div>
+                    <div class="stat-card stat-unanswered">
+                        <div class="stat-number" id="stat-unanswered">0</div>
+                        <div class="stat-label">Unanswered</div>
+                    </div>
+                </div>
+                <div class="stat-percentage" id="stat-percentage">0% accuracy</div>
+                <h3 style="margin-top:1.2rem;">Section Breakdown</h3>
+                <div class="section-breakdown" id="section-breakdown"></div>
+            </div>
+        </div>
+    </div>
 
     <div class="container">
         <!-- Sidebar Navigation -->
         <nav class="sidebar" id="sidebar">
             <h3>Sections</h3>
             <ul id="section-list"></ul>
+
+            <div class="filter-box">
+                <h4>Filter</h4>
+                <select id="filter-select">
+                    <option value="all">All Questions</option>
+                    <option value="unanswered">Unanswered Only</option>
+                    <option value="incorrect">Incorrect Only</option>
+                    <option value="bookmarked">Bookmarked Only</option>
+                </select>
+            </div>
+
             <div class="progress-box">
                 <h4>Progress</h4>
                 <div class="progress-bar">
                     <div class="progress-fill" id="progress-fill"></div>
                 </div>
                 <p id="progress-text">0 / 0 answered</p>
+                <p id="score-text" class="score-text"></p>
                 <button class="btn btn-reset" id="reset-btn">Reset Progress</button>
             </div>
         </nav>
@@ -36,7 +93,10 @@
             </div>
 
             <div class="question-card" id="question-card">
-                <div class="section-badge" id="section-badge"></div>
+                <div class="card-top-row">
+                    <div class="section-badge" id="section-badge"></div>
+                    <button class="btn btn-bookmark" id="bookmark-btn" title="Bookmark this question">☆</button>
+                </div>
                 <div class="question-text" id="question-text"></div>
                 <div class="options-container" id="options-container"></div>
                 <button class="btn btn-submit" id="submit-btn" disabled>Submit Answer</button>
@@ -52,6 +112,9 @@
             </div>
         </main>
     </div>
+
+    <!-- Confetti canvas -->
+    <canvas id="confetti-canvas"></canvas>
 
     <script src="questions.js"></script>
     <script src="app.js"></script>
