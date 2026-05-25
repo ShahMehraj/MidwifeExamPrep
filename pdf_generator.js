@@ -138,15 +138,13 @@ function exportToPDF() {
                 doc.setFont('helvetica', 'italic');
                 doc.setFontSize(7);
                 const expLines = doc.splitTextToSize(`Explanation: ${q.rationale}`, colW - 3);
-                const ansLines = doc.splitTextToSize(`Correct Answer: ${q.correct}`, colW - 3);
 
                 // Total block height
                 const blockHeight = qLines.length * 3.5
                     + 1
                     + optsTotal
-                    + 1
+                    + 3   // tiny answer line
                     + 1.5  // top line
-                    + ansLines.length * 3
                     + expLines.length * 3
                     + 1.5  // bottom line
                     + 4;   // spacing after
@@ -169,19 +167,18 @@ function exportToPDF() {
                     setY(getY() + lines.length * 3.5);
                 });
 
+                // Tiny answer at bottom-right of question (below options)
+                doc.setFont('helvetica', 'normal');
+                doc.setFontSize(5.5);
+                doc.setTextColor(180, 180, 180);
+                doc.text(`[Ans: ${q.correct}]`, getX() + colW, getY() + 2, { align: 'right' });
+                setY(getY() + 3);
+
                 // Top border line for explanation block
-                setY(getY() + 1);
                 doc.setDrawColor(120, 120, 120);
                 doc.setLineWidth(0.2);
                 doc.line(getX(), getY(), getX() + colW, getY());
                 setY(getY() + 1.5);
-
-                // Correct answer (small, gray, bold)
-                doc.setFont('helvetica', 'bold');
-                doc.setFontSize(7);
-                doc.setTextColor(0, 102, 0);
-                doc.text(ansLines, getX(), getY());
-                setY(getY() + ansLines.length * 3);
 
                 // Explanation
                 doc.setFont('helvetica', 'italic');
