@@ -144,10 +144,10 @@ function exportToPDF() {
                     + 1
                     + optsTotal
                     + 3   // tiny answer line
-                    + 1.5  // top line
+                    + 3   // top line gap
                     + expLines.length * 3
-                    + 1.5  // bottom line
-                    + 4;   // spacing after
+                    + 3   // bottom line gap
+                    + 5;  // spacing after
 
                 checkColumnSpace(blockHeight, currentSection);
 
@@ -178,7 +178,7 @@ function exportToPDF() {
                 doc.setDrawColor(120, 120, 120);
                 doc.setLineWidth(0.2);
                 doc.line(getX(), getY(), getX() + colW, getY());
-                setY(getY() + 1.5);
+                setY(getY() + 3);
 
                 // Explanation
                 doc.setFont('helvetica', 'italic');
@@ -188,11 +188,11 @@ function exportToPDF() {
                 setY(getY() + expLines.length * 3);
 
                 // Bottom border line
-                setY(getY() + 1);
+                setY(getY() + 3);
                 doc.setDrawColor(120, 120, 120);
                 doc.setLineWidth(0.2);
                 doc.line(getX(), getY(), getX() + colW, getY());
-                setY(getY() + 4);
+                setY(getY() + 5);
             });
 
             drawFooter();
