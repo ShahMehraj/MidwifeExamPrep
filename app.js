@@ -76,6 +76,9 @@ function init() {
     // Shuffle toggle
     document.getElementById('shuffle-toggle').addEventListener('click', toggleShuffle);
 
+    // Export PDF
+    document.getElementById('export-pdf').addEventListener('click', exportToPDF);
+
     // Reset
     document.getElementById('reset-btn').addEventListener('click', () => {
         if (confirm('Reset all progress? This cannot be undone.')) {
@@ -438,6 +441,120 @@ function fireConfetti() {
         else ctx.clearRect(0, 0, canvas.width, canvas.height);
     }
     animate();
+}
+
+// Export PDF
+function exportToPDF() {
+    const btn = document.getElementById('export-pdf');
+    const originalText = btn.innerHTML;
+    btn.innerHTML = '⏳<span class="icon-label">Generating...</span>';
+    btn.disabled = true;
+
+    // Use setTimeout to allow UI update before heavy work
+    setTimeout(() => {
+        try {
+            const { jsPDF } = window.jspdf;
+            const doc = new jsPDF({ unit: 'mm', format: 'a4' });
+
+            const pageW = doc.internal.pageSize.getWidth();
+            const pageH = doc.internal.pageSize.getHeight();
+            const margin = 10;
+            const usableW = pageW - 2 * margin;
+            let y = margin;
+
+            // Title page
+            doc.setFontSize(18);
+            doc.setTextColor(0, 51, 102);
+            doc.setFont('helvetica', 'bold');
+            doc.text('Obstetric & Maternal Health Nursing', pageW / 2, 30, { align: 'center' });
+            doc.setFontSize(13);
+            doc.text('Multiple Choice Questions for Rabiya Black', pageW / 2, 40, { align: 'center' });
+            doc.setFontSize(10);
+            doc.setTextColor(100, 100, 100);
+            doc.setFont('helvetica', 'normal');
+            doc.text(`Total Questions: ${questions.length}`, pageW / 2, 55, { align: 'center' });
+            doc.text(`Generated: ${new Date().toLocaleDateString()}`, pageW / 2, 62, { align: 'center' });
+
+            doc.addPage();
+            y = margin;
+
+            let currentSection = '';
+            const letters = ['A', 'B', 'C', 'D'];
+
+            questions.forEach((q, i) => {
+                // Section header
+                if (q.section !== currentSection) {
+                    currentSection = q.section;
+                    if (y > pageH - 40) { doc.addPage(); y = margin; }
+                    y += 4;
+                    doc.setFontSize(12);
+                    doc.setFont('helvetica', 'bold');
+                    doc.setTextColor(153, 0, 0);
+                    const sectionLines = doc.splitTextToSize(`Section: ${currentSection}`, usableW);
+                    doc.text(sectionLines, margin, y);
+                    y += sectionLines.length * 6;
+                    doc.setDrawColor(153, 0, 0);
+                    doc.line(margin, y, pageW - margin, y);
+                    y += 4;
+                }
+
+                // Estimate space needed
+                const qLines = doc.splitTextToSize(`Q${i+1}. ${q.question}`, usableW);
+                const ratLines = doc.splitTextToSize(q.rationale, 80);
+                const blockHeight = qLines.length * 5 + q.options.length * 5 + ratLines.length * 3 + 18;
+
+                if (y + blockHeight > pageH - margin) { doc.addPage(); y = margin; }
+
+                // Question
+                doc.setFontSize(10);
+                doc.setFont('helvetica', 'bold');
+                doc.setTextColor(0, 0, 153);
+                doc.text(qLines, margin, y);
+                y += qLines.length * 5 + 2;
+
+                // Options
+                doc.setFontSize(10);
+                doc.setFont('helvetica', 'normal');
+                doc.setTextColor(0, 0, 0);
+                q.options.forEach((opt, idx) => {
+                    const optText = `${letters[idx]}. ${opt}`;
+                    const optLines = doc.splitTextToSize(optText, usableW - 5);
+                    doc.text(optLines, margin + 5, y);
+                    y += optLines.length * 5;
+                });
+
+                // Push answer down and to the right, smaller, lighter
+                y += 3;
+                doc.setFontSize(7);
+                doc.setFont('helvetica', 'bold');
+                doc.setTextColor(120, 120, 120);
+                doc.text(`Answer: ${q.correct}`, pageW - margin - 80, y);
+                y += 3.5;
+                doc.setFontSize(6);
+                doc.setFont('helvetica', 'italic');
+                doc.setTextColor(140, 140, 140);
+                doc.text(ratLines, pageW - margin - 80, y);
+                y += ratLines.length * 3 + 5;
+            });
+
+            // Footer with page numbers
+            const totalPages = doc.internal.getNumberOfPages();
+            for (let p = 1; p <= totalPages; p++) {
+                doc.setPage(p);
+                doc.setFontSize(8);
+                doc.setFont('helvetica', 'italic');
+                doc.setTextColor(150, 150, 150);
+                doc.text(`Page ${p} of ${totalPages}`, pageW / 2, pageH - 5, { align: 'center' });
+            }
+
+            doc.save('OBG_MCQs_RabiyaBlack.pdf');
+        } catch (err) {
+            alert('Error exporting PDF: ' + err.message);
+        } finally {
+            btn.innerHTML = originalText;
+            btn.disabled = false;
+        }
+    }, 50);
 }
 
 // Start
