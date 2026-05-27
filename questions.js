@@ -4798,5 +4798,3089 @@ const questions = [
     ],
     "correct": "B",
     "rationale": "Pregnancy = hypercoagulable state (Virchow's triad in action). Stasis: uterus compresses IVC. Endothelial damage: at delivery. Hypercoagulability: estrogen increases factors I, II, VII, IX, X, fibrinogen; decreases protein S; impairs fibrinolysis. Risk: VTE 5-10x. Highest risk postpartum (4-6 weeks). Use LMWH (not warfarin - teratogenic) for prophylaxis/treatment."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Abortion is defined as termination of pregnancy before:",
+    "options": [
+      "20 weeks of gestation",
+      "28 weeks of gestation",
+      "24 weeks of gestation",
+      "12 weeks of gestation"
+    ],
+    "correct": "A",
+    "rationale": "WHO definition: Abortion = termination of pregnancy before 20 weeks of gestation or fetal weight <500 gm. After 20 weeks it is called preterm delivery. In India, MTP Act allows termination up to 24 weeks (amended 2021) under specific conditions."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "The most common cause of spontaneous abortion in the first trimester is:",
+    "options": [
+      "Cervical incompetence",
+      "Chromosomal abnormalities",
+      "Uterine anomalies",
+      "Infections"
+    ],
+    "correct": "B",
+    "rationale": "Chromosomal abnormalities (especially autosomal trisomy) account for ~50-60% of first trimester spontaneous abortions. Most common single abnormality is Trisomy 16. Cervical incompetence causes second trimester losses. Infections and uterine anomalies are less common causes."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Threatened abortion is characterized by:",
+    "options": [
+      "Cervical os is open with bleeding",
+      "Cervical os is closed with bleeding",
+      "Products of conception partially expelled",
+      "No cardiac activity on ultrasound"
+    ],
+    "correct": "B",
+    "rationale": "In threatened abortion: bleeding per vaginum is present BUT cervical os remains CLOSED and pregnancy is still viable. Management: bed rest for 48 hours after bleeding stops, avoid coitus, progesterone support. If os opens, it becomes inevitable abortion."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "In inevitable abortion, the characteristic finding is:",
+    "options": [
+      "Closed cervical os with bleeding",
+      "Open cervical os with intact membranes",
+      "No bleeding with open os",
+      "Expelled products with closed os"
+    ],
+    "correct": "B",
+    "rationale": "Inevitable abortion: cervical os is OPEN, membranes may be intact or ruptured, bleeding is present. The pregnancy cannot be saved at this stage. It will progress to either complete or incomplete abortion. Management: evacuation of uterus."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Incomplete abortion is best managed by:",
+    "options": [
+      "Bed rest only",
+      "Progesterone support",
+      "Surgical evacuation (suction & curettage)",
+      "Antibiotics alone"
+    ],
+    "correct": "C",
+    "rationale": "In incomplete abortion, some products of conception are retained in the uterus causing continued bleeding. Management: surgical evacuation (suction & curettage/MVA) to remove retained products. Medical management with misoprostol is an alternative in early pregnancy."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Missed abortion is defined as:",
+    "options": [
+      "Recurrent pregnancy loss",
+      "Dead fetus retained in uterus for >4 weeks",
+      "Abortion with infection",
+      "Abortion before 8 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Missed abortion: fetus dies in utero but is retained for more than 4 weeks without expulsion. Diagnosis: absent fetal cardiac activity on ultrasound. Risk: disseminated intravascular coagulation (DIC) if retained >6 weeks. Management: medical (misoprostol) or surgical evacuation."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Septic abortion is MOST commonly caused by:",
+    "options": [
+      "Unsafe/criminal abortion",
+      "Spontaneous abortion",
+      "Threatened abortion",
+      "Recurrent abortion"
+    ],
+    "correct": "A",
+    "rationale": "Septic abortion most commonly follows unsafe/criminal abortion performed under non-sterile conditions. Organisms: E. coli, Clostridium welchii (gas gangrene), Bacteroides. Features: fever >38C, foul-smelling discharge, tender uterus. Can lead to septicemia, DIC, renal failure, death."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Recurrent pregnancy loss is defined as:",
+    "options": [
+      "One spontaneous abortion",
+      "Two consecutive spontaneous abortions",
+      "Three or more consecutive spontaneous abortions",
+      "Any pregnancy loss after 20 weeks"
+    ],
+    "correct": "C",
+    "rationale": "Recurrent pregnancy loss (habitual abortion) = 3 or more consecutive spontaneous abortions. Causes: cervical incompetence (2nd trimester), antiphospholipid syndrome, uterine anomalies, chromosomal abnormalities. Investigation: karyotyping of both partners, anticardiolipin antibodies, lupus anticoagulant, uterine cavity assessment."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Cervical incompetence typically causes abortion in which trimester?",
+    "options": [
+      "First trimester",
+      "Second trimester",
+      "Third trimester",
+      "Any trimester equally"
+    ],
+    "correct": "B",
+    "rationale": "Cervical incompetence causes painless dilatation of cervix in the SECOND trimester (14-28 weeks). History: painless cervical dilatation followed by rupture of membranes and expulsion of fetus. Treatment: cervical cerclage (McDonald's or Shirodkar's stitch) at 14-16 weeks."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "The surgical procedure for cervical incompetence is:",
+    "options": [
+      "Dilatation and curettage",
+      "Cervical cerclage",
+      "Hysterotomy",
+      "Colporrhaphy"
+    ],
+    "correct": "B",
+    "rationale": "Cervical cerclage: a purse-string suture placed around the cervix to keep it closed. McDonald's cerclage (simpler, removable at 37 weeks) is most common. Shirodkar's cerclage (buried suture, requires cesarean delivery). Emergency cerclage can be done with dilated cervix up to 4 cm."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Under the MTP Act of India (2021 amendment), abortion can be done up to:",
+    "options": [
+      "12 weeks",
+      "20 weeks",
+      "24 weeks",
+      "28 weeks"
+    ],
+    "correct": "C",
+    "rationale": "MTP Act 2021 amendment: Up to 20 weeks - opinion of 1 registered medical practitioner needed. 20-24 weeks - opinion of 2 registered medical practitioners needed (for special categories: rape survivors, minors, change in marital status, physical disabilities, fetal malformations). No upper limit for fetal abnormalities incompatible with life (medical board decision)."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "The drug used for medical termination of pregnancy (medical abortion) is:",
+    "options": [
+      "Oxytocin",
+      "Mifepristone + Misoprostol",
+      "Methotrexate",
+      "Ergometrine"
+    ],
+    "correct": "B",
+    "rationale": "Medical abortion regimen: Mifepristone (RU-486, antiprogesterone) 200mg orally on Day 1, followed by Misoprostol (prostaglandin E1 analogue) 800mcg vaginally/sublingually 24-48 hours later. Effective up to 9 weeks (63 days). Success rate >95%. Mifepristone blocks progesterone receptors causing decidual necrosis."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Mifepristone (RU-486) acts by:",
+    "options": [
+      "Stimulating uterine contractions",
+      "Blocking progesterone receptors",
+      "Inhibiting prostaglandin synthesis",
+      "Causing cervical dilatation"
+    ],
+    "correct": "B",
+    "rationale": "Mifepristone is an ANTI-PROGESTERONE (progesterone receptor antagonist). It blocks progesterone action on endometrium causing decidual necrosis, detachment of conceptus, cervical softening, and increased uterine sensitivity to prostaglandins. Misoprostol then causes uterine contractions to expel products."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "The most dangerous complication of septic abortion is:",
+    "options": [
+      "Anemia",
+      "Endotoxic shock/DIC",
+      "Infertility",
+      "Asherman syndrome"
+    ],
+    "correct": "B",
+    "rationale": "Endotoxic (septic) shock with DIC is the most dangerous immediate complication of septic abortion - can be rapidly fatal. Endotoxins from gram-negative bacteria cause vasodilation, hypotension, multi-organ failure. Clostridium welchii causes gas gangrene with massive intravascular hemolysis. Treatment: IV antibiotics, fluid resuscitation, evacuation of uterus."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Bleeding in the first trimester of pregnancy can be caused by all EXCEPT:",
+    "options": [
+      "Abortion",
+      "Ectopic pregnancy",
+      "Gestational trophoblastic disease",
+      "Placenta previa"
+    ],
+    "correct": "D",
+    "rationale": "First trimester bleeding causes: Abortion (most common), Ectopic pregnancy, Gestational trophoblastic disease (molar pregnancy). Placenta previa causes bleeding in the SECOND and THIRD trimester (antepartum hemorrhage after 28 weeks). Placenta previa is painless bleeding in late pregnancy."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "The most common site of ectopic pregnancy is:",
+    "options": [
+      "Ovary",
+      "Ampulla of fallopian tube",
+      "Isthmus of fallopian tube",
+      "Cervix"
+    ],
+    "correct": "B",
+    "rationale": "Ampulla is the most common site (70-80%) for ectopic pregnancy because: it is the widest part of the tube, fertilization occurs here, and the fertilized ovum may get trapped. Order of frequency: Ampulla > Isthmus > Fimbrial > Interstitial/Cornual. Isthmus ruptures earliest (narrowest lumen)."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Which part of the fallopian tube ruptures EARLIEST in ectopic pregnancy?",
+    "options": [
+      "Ampulla",
+      "Isthmus",
+      "Infundibulum",
+      "Interstitial"
+    ],
+    "correct": "B",
+    "rationale": "Isthmus ruptures earliest (6-8 weeks) because it is the NARROWEST part of the tube (2mm lumen). Ampulla ruptures later (8-12 weeks) as it is wider and can accommodate growth longer. Interstitial (cornual) ectopic ruptures latest but most catastrophically (surrounded by myometrium, massive hemorrhage)."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "The classic triad of ruptured ectopic pregnancy is:",
+    "options": [
+      "Fever, bleeding, discharge",
+      "Amenorrhea, pain in abdomen, bleeding per vaginum",
+      "Nausea, vomiting, diarrhea",
+      "Hypertension, edema, proteinuria"
+    ],
+    "correct": "B",
+    "rationale": "Classic triad of ruptured ectopic: 1) Amenorrhea (missed period - 6-8 weeks), 2) Pain in abdomen (sudden, severe, unilateral initially then generalized), 3) Bleeding per vaginum (scanty, dark brown - due to decidual shedding). Additional signs: shoulder tip pain (diaphragmatic irritation from blood), cervical motion tenderness, adnexal mass."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "The most common outcome of tubal ectopic pregnancy is:",
+    "options": [
+      "Tubal abortion",
+      "Tubal rupture",
+      "Secondary abdominal pregnancy",
+      "Spontaneous resolution"
+    ],
+    "correct": "A",
+    "rationale": "Tubal abortion (expulsion of conceptus through the fimbrial end into the peritoneal cavity) is the most common outcome, especially in ampullary ectopic. Tubal rupture is the most DANGEROUS outcome. In isthmic ectopic, rupture is more common than abortion due to the narrow lumen."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "The investigation of choice for diagnosing ectopic pregnancy is:",
+    "options": [
+      "Serum beta-hCG alone",
+      "Transvaginal ultrasound + serum beta-hCG",
+      "CT scan",
+      "Laparoscopy"
+    ],
+    "correct": "B",
+    "rationale": "Transvaginal ultrasound (TVS) combined with serial serum beta-hCG is the gold standard for diagnosis. TVS shows: empty uterus with adnexal mass/ring sign. Discriminatory zone: beta-hCG >1500-2000 mIU/mL should show intrauterine gestational sac on TVS. If not seen = suspect ectopic. Laparoscopy is both diagnostic and therapeutic."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Medical management of unruptured ectopic pregnancy is done with:",
+    "options": [
+      "Mifepristone",
+      "Methotrexate",
+      "Misoprostol",
+      "Oxytocin"
+    ],
+    "correct": "B",
+    "rationale": "Methotrexate (folic acid antagonist) is used for medical management of unruptured ectopic pregnancy. Criteria: hemodynamically stable, unruptured, size <3.5 cm, no fetal cardiac activity, beta-hCG <5000 mIU/mL. Given as single IM dose (50mg/m2). Inhibits rapidly dividing trophoblastic cells. Monitor with serial beta-hCG."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Surgical management of ruptured ectopic pregnancy is:",
+    "options": [
+      "Salpingostomy",
+      "Salpingectomy",
+      "Oophorectomy",
+      "Hysterectomy"
+    ],
+    "correct": "B",
+    "rationale": "Ruptured ectopic = surgical emergency. Salpingectomy (removal of affected tube) is the standard treatment for ruptured ectopic. Salpingostomy (incision and removal of ectopic, preserving tube) is done for unruptured ectopic when future fertility is desired. Laparoscopy is preferred over laparotomy if patient is stable."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "The most common risk factor for ectopic pregnancy is:",
+    "options": [
+      "Multiparity",
+      "Previous pelvic inflammatory disease (PID)",
+      "Use of oral contraceptives",
+      "Young age"
+    ],
+    "correct": "B",
+    "rationale": "Previous PID (especially Chlamydia trachomatis and Neisseria gonorrhoeae) is the most common risk factor. PID causes tubal damage, adhesions, and impaired ciliary function. Other risk factors: previous ectopic, tubal surgery, IUD use, smoking, infertility treatment (IVF), endometriosis."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Shoulder tip pain in ruptured ectopic pregnancy is due to:",
+    "options": [
+      "Referred pain from uterus",
+      "Irritation of diaphragm by blood (phrenic nerve C3-C5)",
+      "Musculoskeletal pain",
+      "Anxiety"
+    ],
+    "correct": "B",
+    "rationale": "Blood from ruptured ectopic collects in the pouch of Douglas and tracks up to irritate the undersurface of the diaphragm. The phrenic nerve (C3, C4, C5) supplies the diaphragm and refers pain to the shoulder tip (C3-C5 dermatome). This is a classic sign of hemoperitoneum."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Culdocentesis in ruptured ectopic pregnancy shows:",
+    "options": [
+      "Clear fluid",
+      "Non-clotting blood (dark colored)",
+      "Pus",
+      "Amniotic fluid"
+    ],
+    "correct": "B",
+    "rationale": "Culdocentesis (needle aspiration through posterior vaginal fornix into pouch of Douglas) shows non-clotting dark blood in ruptured ectopic. Blood in peritoneal cavity becomes defibrinated (non-clotting). This is a bedside diagnostic test but now largely replaced by TVS. Positive culdocentesis = hemoperitoneum."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Gestational trophoblastic disease includes all EXCEPT:",
+    "options": [
+      "Hydatidiform mole",
+      "Invasive mole",
+      "Choriocarcinoma",
+      "Endometriosis"
+    ],
+    "correct": "D",
+    "rationale": "Gestational trophoblastic disease (GTD) spectrum: 1) Hydatidiform mole (complete and partial), 2) Invasive mole, 3) Choriocarcinoma, 4) Placental site trophoblastic tumor (PSTT). Endometriosis is ectopic endometrial tissue - completely unrelated to trophoblastic disease."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Complete hydatidiform mole has the karyotype:",
+    "options": [
+      "69 XXY (triploid)",
+      "46 XX (diploid - all paternal)",
+      "46 XY (normal)",
+      "45 XO"
+    ],
+    "correct": "B",
+    "rationale": "Complete mole: 46 XX (90%) or 46 XY (10%) - ALL chromosomes are PATERNAL (androgenetic). Mechanism: empty ovum fertilized by single sperm that duplicates (46 XX) or by two sperms (46 XY). No fetal tissue present. Partial mole: TRIPLOID (69 XXX/XXY) - has some fetal parts."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "The classic presentation of complete molar pregnancy is:",
+    "options": [
+      "Amenorrhea with normal-sized uterus",
+      "Amenorrhea with uterus larger than dates + bleeding + grape-like vesicles",
+      "Painless third trimester bleeding",
+      "Recurrent abortions"
+    ],
+    "correct": "B",
+    "rationale": "Complete mole presentation: Amenorrhea, uterus LARGER than dates (due to rapid trophoblastic proliferation), vaginal bleeding (most common symptom), passage of grape-like vesicles, hyperemesis (due to very high hCG), early preeclampsia (<20 weeks), bilateral theca lutein cysts, hyperthyroidism."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "The tumor marker used for monitoring gestational trophoblastic disease is:",
+    "options": [
+      "AFP (alpha-fetoprotein)",
+      "CA-125",
+      "Beta-hCG",
+      "CEA"
+    ],
+    "correct": "C",
+    "rationale": "Beta-hCG is the ideal tumor marker for GTD because: 1) Produced exclusively by trophoblastic tissue, 2) Correlates with tumor burden, 3) Has short half-life (24-36 hours) allowing monitoring. After evacuation, serial weekly beta-hCG should fall to zero. Rising or plateauing levels suggest malignant transformation (invasive mole/choriocarcinoma)."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Management of hydatidiform mole is:",
+    "options": [
+      "Medical abortion with mifepristone",
+      "Suction evacuation",
+      "Hysterectomy in all cases",
+      "Chemotherapy"
+    ],
+    "correct": "B",
+    "rationale": "Primary treatment: Suction evacuation (vacuum aspiration) of the uterus regardless of uterine size. Oxytocin started AFTER cervix is dilated (not before - risk of embolization). Follow-up: weekly beta-hCG until normal for 3 consecutive weeks, then monthly for 6-12 months. Contraception mandatory during follow-up (OCP preferred)."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "After evacuation of molar pregnancy, contraception is advised for:",
+    "options": [
+      "3 months",
+      "6 months to 1 year",
+      "2 years",
+      "No contraception needed"
+    ],
+    "correct": "B",
+    "rationale": "Contraception for 6 months (partial mole) to 1 year (complete mole) after hCG normalization. Purpose: to prevent pregnancy which would elevate hCG and confuse monitoring for malignant transformation. OCP is the preferred method (does NOT increase risk of GTN). IUD is avoided until hCG normalizes."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "The most common malignant sequela of complete molar pregnancy is:",
+    "options": [
+      "Choriocarcinoma",
+      "Invasive mole",
+      "Placental site trophoblastic tumor",
+      "Endometrial carcinoma"
+    ],
+    "correct": "B",
+    "rationale": "Invasive mole is the most common malignant sequela of complete molar pregnancy (15-20% of complete moles develop GTN). Invasive mole: molar villi invade myometrium. Choriocarcinoma occurs in 2-3% of complete moles. Risk of malignancy: Complete mole (15-20%) >> Partial mole (1-5%)."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Choriocarcinoma is characterized by all EXCEPT:",
+    "options": [
+      "Highly malignant",
+      "Presence of chorionic villi",
+      "Hematogenous spread (lungs most common)",
+      "Very high beta-hCG levels"
+    ],
+    "correct": "B",
+    "rationale": "Choriocarcinoma does NOT have chorionic villi (this differentiates it from invasive mole which HAS villi). It consists of sheets of cytotrophoblast and syncytiotrophoblast with hemorrhage and necrosis. Highly vascular - spreads hematogenously to lungs (most common, 80%), vagina, brain, liver. Responds excellently to chemotherapy (methotrexate/actinomycin-D)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "The sex of the fetus is determined by the gene located on:",
+    "options": [
+      "Long arm of X chromosome",
+      "Short arm of Y chromosome (SRY gene)",
+      "Long arm of Y chromosome",
+      "Autosome 21"
+    ],
+    "correct": "B",
+    "rationale": "SRY (Sex-determining Region Y) gene is located on the SHORT arm of Y chromosome. It codes for Testis Determining Factor (TDF). If SRY is present, gonads become testes (by 6-7 weeks). If absent, gonads become ovaries (by 7-8 weeks). Sex of baby is determined by the FATHER's sperm (X or Y)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "A baby with karyotype 45 XO will have:",
+    "options": [
+      "Normal male phenotype",
+      "Turner syndrome (female)",
+      "Klinefelter syndrome",
+      "Normal female phenotype"
+    ],
+    "correct": "B",
+    "rationale": "45 XO = Turner syndrome: Female (no Y chromosome). Features: short stature, webbed neck, shield chest, coarctation of aorta, streak gonads (non-functional ovaries), primary amenorrhea, infertility. Both X chromosomes are needed for normal ovarian development - with only one X, ovaries become fibrous streaks."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "A baby with karyotype 47 XXY will be:",
+    "options": [
+      "Female with Turner syndrome",
+      "Male with Klinefelter syndrome",
+      "Normal female",
+      "Hermaphrodite"
+    ],
+    "correct": "B",
+    "rationale": "47 XXY = Klinefelter syndrome: Male (Y chromosome present). Features: tall stature, gynecomastia, small firm testes, azoospermia, infertility, learning difficulties. Most common sex chromosome abnormality in males (1 in 500-1000). Barr body = 1 (number of X chromosomes minus 1 = 2-1 = 1)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "The number of Barr bodies in a normal female (46 XX) is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": "B",
+    "rationale": "Barr body formula: Number of X chromosomes - 1. Normal female (46 XX): 2-1 = 1 Barr body. Normal male (46 XY): 1-1 = 0. Turner (45 XO): 1-1 = 0. Klinefelter (47 XXY): 2-1 = 1. Triple X (47 XXX): 3-1 = 2. Barr body = inactivated X chromosome (Lyon hypothesis)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Mullerian duct gives rise to all EXCEPT:",
+    "options": [
+      "Fallopian tubes",
+      "Uterus",
+      "Upper 2/3rd of vagina",
+      "Ovary"
+    ],
+    "correct": "D",
+    "rationale": "Mullerian duct (paramesonephric duct) forms: Fallopian tubes, Uterus, Cervix, Upper 2/3rd of vagina. Ovary develops from the GENITAL RIDGE (gonadal ridge). Lower 1/3rd of vagina develops from urogenital sinus. Wolffian duct forms male structures (SEED: Seminal vesicles, Epididymis, Ejaculatory duct, Vas Deferens)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Mullerian agenesis (MRKH syndrome) presents with:",
+    "options": [
+      "Secondary amenorrhea",
+      "Primary amenorrhea with absent uterus but normal ovaries",
+      "Virilization",
+      "Precocious puberty"
+    ],
+    "correct": "B",
+    "rationale": "Mullerian agenesis (Mayer-Rokitansky-Kuster-Hauser syndrome): Absent uterus, cervix, fallopian tubes, upper 2/3rd vagina. Ovaries are NORMAL (from genital ridge, not Mullerian duct) so secondary sexual characters develop normally. Karyotype: 46 XX. Associated with renal anomalies. 2nd most common cause of primary amenorrhea after Turner syndrome."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "The lower 1/3rd of vagina is derived from:",
+    "options": [
+      "Mullerian duct",
+      "Wolffian duct",
+      "Urogenital sinus",
+      "Genital ridge"
+    ],
+    "correct": "C",
+    "rationale": "Lower 1/3rd vagina = urogenital sinus (endodermal origin). Upper 2/3rd vagina = Mullerian duct. The vaginal epithelium is derived from endoderm of urogenital sinus. This dual origin explains why vaginal atresia can occur at different levels and why clear cell adenocarcinoma (DES exposure) affects the upper vagina."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Germ cells in the female originate from:",
+    "options": [
+      "Genital ridge",
+      "Epiblast",
+      "Mullerian duct",
+      "Urogenital sinus"
+    ],
+    "correct": "B",
+    "rationale": "Primordial germ cells originate from the EPIBLAST (yolk sac wall) and migrate to the genital ridge by 6 weeks. In females, they become oogonia. Maximum number of germ cells: 6-7 million at 5 months of intrauterine life (20 weeks). At birth: 2 million. At puberty: 400,000. Only ~400 will ovulate in a lifetime."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Testis formation occurs by which week of intrauterine life?",
+    "options": [
+      "4-5 weeks",
+      "6-7 weeks",
+      "10-12 weeks",
+      "16-20 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Testis forms by 6-7 weeks (earlier than ovary). Ovary forms by 7-8 weeks. Until 6 weeks, gonads are bipotential (indifferent). SRY gene on Y chromosome triggers testis differentiation. Testis then produces testosterone (Leydig cells) and AMH/MIS (Sertoli cells) which causes Mullerian duct regression in males."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "The condition where both Mullerian ducts fail to fuse properly resulting in two separate uterine horns is called:",
+    "options": [
+      "Arcuate uterus",
+      "Bicornuate uterus",
+      "Septate uterus",
+      "Unicornuate uterus"
+    ],
+    "correct": "B",
+    "rationale": "Bicornuate uterus: incomplete fusion of Mullerian ducts results in two uterine horns with a single cervix (bicornuate unicollis) or two cervices (bicornuate bicollis). Associated with recurrent pregnancy loss, preterm labor, malpresentation. Diagnosis: 3D ultrasound or MRI. Metroplasty (Strassman procedure) may improve outcomes."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "Capacitation of sperm primarily occurs in:",
+    "options": [
+      "Vagina",
+      "Uterus",
+      "Fallopian tube",
+      "Epididymis"
+    ],
+    "correct": "C",
+    "rationale": "Capacitation begins in the cervix but majority occurs in the FALLOPIAN TUBE. It takes 2-6 hours. During capacitation, cholesterol is removed from sperm membrane, making it more permeable and enabling the acrosome reaction. Without capacitation, sperm cannot penetrate zona pellucida."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The fertilizable lifespan of sperm is:",
+    "options": [
+      "12-24 hours",
+      "48-72 hours",
+      "5-7 days",
+      "24-36 hours"
+    ],
+    "correct": "B",
+    "rationale": "Sperm fertilizable lifespan: 48-72 hours (some sources say up to 5 days in cervical mucus). Ovum fertilizable lifespan: only 12-24 hours. This is why intercourse 2-3 days BEFORE ovulation can still result in pregnancy. Spermatogenesis takes 70-75 days from spermatogonia to mature sperm."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The fertilizable lifespan of the ovum is:",
+    "options": [
+      "12-24 hours",
+      "48-72 hours",
+      "5-7 days",
+      "1 week"
+    ],
+    "correct": "A",
+    "rationale": "Ovum has a short fertilizable lifespan of only 12-24 hours after ovulation. If not fertilized within this window, it degenerates. This narrow window is why timing of intercourse relative to ovulation is critical for conception. Sperm must already be in the tube waiting for the egg."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The first meiotic division of the oocyte is arrested in which phase?",
+    "options": [
+      "Metaphase I",
+      "Prophase I (Diplotene stage)",
+      "Anaphase I",
+      "Telophase I"
+    ],
+    "correct": "B",
+    "rationale": "Primary oocyte is arrested in PROPHASE I (specifically diplotene/dictyotene stage) from fetal life until puberty. This arrest can last 12-50 years! LH surge at ovulation resumes meiosis I, completing it and releasing the first polar body. The resulting secondary oocyte then arrests again in METAPHASE II until fertilization."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The second meiotic division of the oocyte is completed at the time of:",
+    "options": [
+      "Ovulation",
+      "Fertilization",
+      "Implantation",
+      "Puberty"
+    ],
+    "correct": "B",
+    "rationale": "Meiosis II is arrested in METAPHASE II after ovulation. It is completed only when sperm penetrates the oocyte (fertilization). This releases the second polar body. If fertilization does not occur, the oocyte degenerates without completing meiosis II. First polar body is released at ovulation (completion of meiosis I)."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "Zona pellucida prevents:",
+    "options": [
+      "Implantation",
+      "Polyspermy (entry of multiple sperm)",
+      "Capacitation",
+      "Ovulation"
+    ],
+    "correct": "B",
+    "rationale": "Zona pellucida (glycoprotein coat around oocyte) has ZP3 receptors that allow binding of ONE sperm. After first sperm enters, cortical reaction occurs - cortical granules release enzymes that modify ZP3, preventing additional sperm entry (zona reaction). This prevents POLYSPERMY which would create a non-viable triploid embryo."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The morula enters the uterine cavity on which day after fertilization?",
+    "options": [
+      "Day 1",
+      "Day 4",
+      "Day 7",
+      "Day 10"
+    ],
+    "correct": "B",
+    "rationale": "Timeline: Day 1 = fertilization (zygote). Day 2 = 2-cell stage. Day 3 = morula (16 cells) still in tube. Day 4 = morula enters uterine cavity. Day 5-6 = blastocyst forms (inner cell mass + trophoblast). Day 6-7 = implantation begins. Day 10 = implantation complete. Morula is transported by tubal cilia and peristalsis."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The most common site of implantation is:",
+    "options": [
+      "Fundus of uterus",
+      "Posterior wall of upper body of uterus",
+      "Lower uterine segment",
+      "Cervix"
+    ],
+    "correct": "B",
+    "rationale": "Normal implantation: posterior wall of upper body of uterus (NOT fundus). Implantation in lower segment = placenta previa. Implantation in cervix = cervical pregnancy. Implantation outside uterus = ectopic pregnancy. The posterior wall has richer blood supply and thicker endometrium."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "Implantation is completed by which day after fertilization?",
+    "options": [
+      "Day 4",
+      "Day 7",
+      "Day 10",
+      "Day 14"
+    ],
+    "correct": "C",
+    "rationale": "Implantation begins on Day 6-7 (blastocyst attaches to endometrium) and is COMPLETED by Day 10 after fertilization. The trophoblast invades the decidua (progesterone-primed endometrium). Implantation window: Day 20-24 of menstrual cycle (6-10 days after ovulation). hCG production begins at implantation."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The decidua directly beneath the implanted embryo is called:",
+    "options": [
+      "Decidua parietalis",
+      "Decidua basalis",
+      "Decidua capsularis",
+      "Decidua vera"
+    ],
+    "correct": "B",
+    "rationale": "Three parts of decidua: 1) Decidua BASALIS - beneath the embryo, forms maternal part of placenta. 2) Decidua CAPSULARIS - covers the embryo superficially (thin, avascular). 3) Decidua PARIETALIS (vera) - lines rest of uterine cavity. As pregnancy grows, capsularis fuses with parietalis obliterating the uterine cavity."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The part of decidua that forms the maternal side of placenta is:",
+    "options": [
+      "Decidua capsularis",
+      "Decidua basalis",
+      "Decidua parietalis",
+      "Decidua vera"
+    ],
+    "correct": "B",
+    "rationale": "Decidua basalis forms the maternal surface of placenta (1/5th of placenta). The fetal side (4/5th) is formed by chorion frondosum (chorionic villi). Decidua basalis has spiral arteries that are remodeled by trophoblast invasion to become low-resistance vessels supplying the intervillous space."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "The human placenta is described as:",
+    "options": [
+      "Epitheliochorial",
+      "Hemochorial, discoid, deciduate",
+      "Endotheliochorial",
+      "Syndesmochorial"
+    ],
+    "correct": "B",
+    "rationale": "Human placenta: HEMOCHORIAL (maternal blood directly bathes fetal chorionic villi - no tissue barrier between maternal blood and chorion), DISCOID (disc-shaped), DECIDUATE (part of decidua is shed at delivery). Weight at term: 500g. Diameter: 15-20 cm. Thickness: 2-3 cm. Fetal:placental weight ratio = 6:1."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "The weight of placenta at term is:",
+    "options": [
+      "200 gm",
+      "500 gm",
+      "800 gm",
+      "1000 gm"
+    ],
+    "correct": "B",
+    "rationale": "Normal placental weight at term: 500 gm (1/6th of baby's weight). Placentomegaly (>600g or >4cm thick): seen in Rh isoimmunization (hydrops fetalis), diabetes mellitus, syphilis, twin-to-twin transfusion. Small placenta: IUGR, preeclampsia, chronic hypertension."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "The fetal surface of placenta is formed by:",
+    "options": [
+      "Decidua basalis",
+      "Chorion frondosum",
+      "Decidua capsularis",
+      "Amnion"
+    ],
+    "correct": "B",
+    "rationale": "Fetal surface: smooth, shiny, covered by amnion, with umbilical vessels visible. Formed by chorion frondosum (bushy chorion with villi). Maternal surface: rough, dark red, divided into 15-20 cotyledons by decidual septa. Formed by decidua basalis. Fetal side = 4/5th of placenta; maternal side = 1/5th."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "The number of cotyledons on the maternal surface of placenta is:",
+    "options": [
+      "5-10",
+      "15-20",
+      "30-40",
+      "50-60"
+    ],
+    "correct": "B",
+    "rationale": "Maternal surface has 15-20 cotyledons (lobes) separated by decidual septa. Each cotyledon contains a main stem villus with its branches. After delivery, the placenta must be examined to ensure all cotyledons are intact - retained cotyledon causes postpartum hemorrhage and infection."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Placenta accreta is defined as:",
+    "options": [
+      "Placenta attached to peritoneum",
+      "Chorionic villi attached to myometrium (absent decidua basalis)",
+      "Placenta covering the internal os",
+      "Placenta with extra lobe"
+    ],
+    "correct": "B",
+    "rationale": "Placenta accreta spectrum: ACCRETA (most common, 75%) - villi attach to myometrium without invading it (absent Nitabuch's layer/decidua basalis). INCRETA - villi invade into myometrium. PERCRETA (most severe) - villi penetrate through myometrium to serosa/bladder. Risk factors: previous cesarean section, placenta previa."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Placenta previa is characterized by:",
+    "options": [
+      "Painful bleeding in first trimester",
+      "Painless bleeding in third trimester",
+      "Bleeding with hypertension",
+      "Concealed hemorrhage"
+    ],
+    "correct": "B",
+    "rationale": "Placenta previa: placenta implanted in lower uterine segment, partially or completely covering internal os. Classic presentation: PAINLESS, bright red, recurrent vaginal bleeding after 28 weeks. Diagnosis: TVS (transabdominal USG for screening). Management: cesarean section. NEVER do per vaginal examination in suspected placenta previa."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Succenturiate lobe of placenta refers to:",
+    "options": [
+      "Placenta with thick membrane",
+      "An accessory lobe connected to main placenta by vessels",
+      "Placenta with velamentous cord insertion",
+      "Circumvallate placenta"
+    ],
+    "correct": "B",
+    "rationale": "Succenturiate (accessory) lobe: a small separate lobe connected to the main placenta by blood vessels running through membranes. Risk: retained succenturiate lobe after delivery causes PPH and infection. Vessels may cross internal os (vasa previa) causing fetal hemorrhage if ruptured."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Velamentous insertion of umbilical cord means:",
+    "options": [
+      "Cord inserts at center of placenta",
+      "Cord inserts at margin of placenta",
+      "Cord vessels travel through membranes before reaching placenta",
+      "Cord has only one artery"
+    ],
+    "correct": "C",
+    "rationale": "Velamentous insertion: umbilical vessels separate in the membranes BEFORE reaching the placenta (unprotected by Wharton's jelly). Risk: vasa previa (vessels cross internal os) - if membranes rupture, fetal vessels tear causing fetal exsanguination. Battledore insertion = marginal cord insertion (less dangerous)."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Normal umbilical cord contains:",
+    "options": [
+      "1 artery and 1 vein",
+      "2 arteries and 1 vein",
+      "2 arteries and 2 veins",
+      "1 artery and 2 veins"
+    ],
+    "correct": "B",
+    "rationale": "Normal cord: 2 umbilical ARTERIES (carry deoxygenated blood from fetus to placenta) + 1 umbilical VEIN (carries oxygenated blood from placenta to fetus). Single umbilical artery (SUA) occurs in 1% of pregnancies - associated with renal anomalies, cardiac defects, IUGR. Cord length: 50 cm average."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "The volume of amniotic fluid at term is:",
+    "options": [
+      "200-300 mL",
+      "500-1000 mL (average 800 mL)",
+      "1500-2000 mL",
+      "3000 mL"
+    ],
+    "correct": "B",
+    "rationale": "Amniotic fluid volume: increases progressively, peaks at 36 weeks (~1000 mL), then slightly decreases to ~800 mL at term (40 weeks). Maximum volume at 36 weeks. Rate of turnover: 500 mL/hour. Completely replaced every 3 hours. Post-term pregnancy: fluid decreases significantly."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Polyhydramnios is defined as amniotic fluid volume greater than:",
+    "options": [
+      "500 mL",
+      "1000 mL",
+      "2000 mL",
+      "3000 mL"
+    ],
+    "correct": "C",
+    "rationale": "Polyhydramnios: AFI >25 cm or single deepest pocket >8 cm or total volume >2000 mL. Causes: fetal anomalies preventing swallowing (esophageal atresia, anencephaly, duodenal atresia), maternal diabetes, twin-to-twin transfusion (recipient twin), idiopathic (60%). Anencephaly = most common fetal cause."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "The most common fetal cause of polyhydramnios is:",
+    "options": [
+      "Renal agenesis",
+      "Anencephaly",
+      "Down syndrome",
+      "Turner syndrome"
+    ],
+    "correct": "B",
+    "rationale": "Anencephaly causes polyhydramnios because: 1) No swallowing reflex (brain absent), 2) Exposed meninges transude fluid. Other causes: esophageal/duodenal atresia (cannot swallow), open neural tube defects. Remember: conditions preventing fetal SWALLOWING cause polyhydramnios; conditions preventing fetal URINATION cause oligohydramnios."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Oligohydramnios is associated with:",
+    "options": [
+      "Esophageal atresia",
+      "Anencephaly",
+      "Renal agenesis (Potter syndrome)",
+      "Maternal diabetes"
+    ],
+    "correct": "C",
+    "rationale": "Oligohydramnios (AFI <5 cm): caused by decreased fetal urine production. Renal agenesis (Potter syndrome) = bilateral absent kidneys = NO urine = severe oligohydramnios. Other causes: IUGR, post-term pregnancy, PROM, placental insufficiency. Complications: pulmonary hypoplasia, limb deformities, cord compression."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Normal color of amniotic fluid is:",
+    "options": [
+      "Clear and colorless",
+      "Pale straw colored",
+      "Green",
+      "Dark brown"
+    ],
+    "correct": "B",
+    "rationale": "Normal amniotic fluid: pale straw colored, slightly alkaline (pH 7.0-7.25). Green/meconium-stained: fetal distress (hypoxia causes anal sphincter relaxation). Golden yellow: Rh incompatibility (bilirubin). Dark brown (tobacco juice): IUD (intrauterine death). Turbid: infection (chorioamnionitis)."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Meconium-stained amniotic fluid indicates:",
+    "options": [
+      "Normal finding",
+      "Fetal distress/hypoxia",
+      "Maternal diabetes",
+      "Post-term pregnancy only"
+    ],
+    "correct": "B",
+    "rationale": "Meconium staining = GREEN amniotic fluid. Indicates fetal hypoxia/distress (vagal stimulation causes intestinal peristalsis and anal sphincter relaxation). Thin meconium: may be physiological in post-term. Thick/pea-soup meconium: significant fetal compromise. Risk: meconium aspiration syndrome (MAS) in newborn."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Fetal lung maturity is assessed by measuring which substance in amniotic fluid?",
+    "options": [
+      "Bilirubin",
+      "Lecithin/Sphingomyelin (L/S) ratio",
+      "Alpha-fetoprotein",
+      "Creatinine"
+    ],
+    "correct": "B",
+    "rationale": "L/S ratio >=2:1 indicates fetal lung maturity (surfactant adequate). Phosphatidylglycerol (PG) presence confirms maturity even in diabetic mothers (L/S ratio unreliable in diabetes). Surfactant produced by Type II pneumocytes from 24 weeks, adequate by 35 weeks. Shake/foam test is a bedside alternative."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Amniotic fluid index (AFI) is measured by:",
+    "options": [
+      "Single deepest pocket measurement",
+      "Sum of deepest vertical pockets in 4 quadrants",
+      "Total volume estimation by MRI",
+      "Amniocentesis and direct measurement"
+    ],
+    "correct": "B",
+    "rationale": "AFI: uterus divided into 4 quadrants by midline and umbilicus. Deepest vertical pocket in each quadrant is measured and summed. Normal AFI: 8-25 cm. Oligohydramnios: AFI <5 cm. Polyhydramnios: AFI >25 cm. Single deepest pocket (SDP) is an alternative method (normal: 2-8 cm)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Fetal heart sounds can first be detected by Doppler at:",
+    "options": [
+      "6 weeks",
+      "10 weeks",
+      "16 weeks",
+      "20 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Fetal heart detection: Transvaginal USG: 6 weeks (earliest). Doppler: 10-12 weeks. Fetal stethoscope (Pinard): 20 weeks (5 months). Normal fetal heart rate: 120-160 bpm. Fetal heart begins beating at 22 days post-fertilization (5th week of gestation)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "The most critical period for teratogenesis (organogenesis) is:",
+    "options": [
+      "First 2 weeks",
+      "3rd to 8th week (embryonic period)",
+      "9th to 12th week",
+      "After 20 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Organogenesis occurs during weeks 3-8 (embryonic period) - most susceptible to teratogens. Before 2 weeks: all-or-none phenomenon (either embryo dies or survives intact). After 8 weeks (fetal period): organs are formed, teratogens cause growth restriction or functional defects rather than structural malformations."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Which drug is the most well-known teratogen causing limb defects (phocomelia)?",
+    "options": [
+      "Methotrexate",
+      "Thalidomide",
+      "Warfarin",
+      "Phenytoin"
+    ],
+    "correct": "B",
+    "rationale": "Thalidomide (used as anti-emetic in 1960s) caused phocomelia (seal-like limbs - absent/shortened long bones). Critical period: days 21-36 post-fertilization. Now used for leprosy and multiple myeloma with strict pregnancy prevention programs. Other teratogens: Warfarin (nasal hypoplasia), Phenytoin (cleft lip), Isotretinoin (CNS/cardiac defects)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "FDA category X drugs in pregnancy means:",
+    "options": [
+      "Safe in pregnancy",
+      "Animal studies show risk but no human data",
+      "Proven fetal risk, contraindicated in pregnancy",
+      "No adequate studies available"
+    ],
+    "correct": "C",
+    "rationale": "FDA categories (now replaced by narrative labeling): A = safe. B = animal studies safe, no human data. C = animal studies show risk, no human data. D = evidence of human fetal risk but benefits may outweigh. X = CONTRAINDICATED - proven fetal risk, risks clearly outweigh benefits. Examples of X: Isotretinoin, Thalidomide, Methotrexate, Warfarin, Statins."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Maximum number of oocytes in the fetal ovary is seen at:",
+    "options": [
+      "Birth",
+      "5 months (20 weeks) of intrauterine life",
+      "Puberty",
+      "1 year of age"
+    ],
+    "correct": "B",
+    "rationale": "Maximum germ cells: 6-7 MILLION at 20 weeks of intrauterine life (5 months). Then atresia begins: At birth = 2 million. At puberty = 400,000. At menopause = few hundred. Only ~400 oocytes will actually ovulate in a woman's reproductive lifetime. This massive loss is by apoptosis (programmed cell death)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Quickening (first perception of fetal movements by mother) occurs at:",
+    "options": [
+      "12 weeks",
+      "16-18 weeks (multigravida) / 18-20 weeks (primigravida)",
+      "24 weeks",
+      "28 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Quickening: multigravida feels movements earlier (16-18 weeks) because she recognizes the sensation. Primigravida: 18-20 weeks (often confused with gas). Fetal movements begin at 8 weeks but are too small to feel. Decreased fetal movements (<10 in 12 hours) is a danger sign requiring immediate evaluation."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "The most reliable early sign of pregnancy is:",
+    "options": [
+      "Amenorrhea",
+      "Morning sickness",
+      "Positive urine pregnancy test (beta-hCG)",
+      "Breast tenderness"
+    ],
+    "correct": "C",
+    "rationale": "Urine pregnancy test detects beta-hCG (produced by trophoblast after implantation). Positive by Day 8-10 after fertilization (even before missed period with sensitive tests). Amenorrhea is the most common presenting symptom but has many other causes. USG showing gestational sac is the most definitive confirmation."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Expected date of delivery (EDD) is calculated by Naegele's rule as:",
+    "options": [
+      "LMP + 7 days - 3 months + 1 year",
+      "LMP + 9 months + 7 days",
+      "LMP + 280 days",
+      "All of the above are correct"
+    ],
+    "correct": "D",
+    "rationale": "Naegele's rule: Add 7 days to LMP date, subtract 3 months, add 1 year. This equals LMP + 280 days = LMP + 9 months + 7 days = 40 weeks from LMP. Assumes 28-day regular cycle with ovulation on Day 14. For irregular cycles, adjust by adding/subtracting difference from 28 days."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Total duration of pregnancy calculated from LMP is:",
+    "options": [
+      "36 weeks",
+      "38 weeks",
+      "40 weeks",
+      "42 weeks"
+    ],
+    "correct": "C",
+    "rationale": "Pregnancy duration: 40 weeks (280 days) from LMP = 38 weeks (266 days) from fertilization. Term: 37-42 weeks. Preterm: <37 weeks. Post-term: >42 weeks. 9 calendar months + 7 days. Trimesters: 1st (0-12 weeks), 2nd (13-28 weeks), 3rd (29-40 weeks)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "According to WHO, the minimum number of antenatal visits recommended is:",
+    "options": [
+      "4 visits",
+      "8 visits",
+      "12 visits",
+      "6 visits"
+    ],
+    "correct": "B",
+    "rationale": "WHO 2016 recommendation: minimum 8 antenatal contacts (changed from previous 4-visit focused ANC model). First contact before 12 weeks. India's national guidelines also recommend early registration and regular visits. Each visit includes: BP, weight, urine protein/sugar, fundal height, fetal heart, hemoglobin."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Lightening (engagement of fetal head) in primigravida occurs at:",
+    "options": [
+      "28 weeks",
+      "32 weeks",
+      "36 weeks",
+      "40 weeks"
+    ],
+    "correct": "C",
+    "rationale": "Lightening: descent of presenting part into pelvis. In primigravida: occurs at 36 weeks (2 weeks before labor). In multigravida: may not occur until onset of labor. Symptoms: easier breathing (less diaphragm pressure), increased urinary frequency (bladder pressure), feeling of heaviness in pelvis."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "The danger signs in pregnancy that require immediate medical attention include all EXCEPT:",
+    "options": [
+      "Vaginal bleeding",
+      "Severe headache with blurred vision",
+      "Decreased fetal movements",
+      "Mild ankle edema in evening"
+    ],
+    "correct": "D",
+    "rationale": "Mild ankle edema in the evening is PHYSIOLOGICAL in pregnancy (due to increased venous pressure, sodium retention). Danger signs: vaginal bleeding (placenta previa/abruption), severe headache/blurred vision (preeclampsia), decreased fetal movements (fetal distress), convulsions (eclampsia), high fever, severe abdominal pain."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Tetanus toxoid (TT) injection in pregnancy is given to prevent:",
+    "options": [
+      "Maternal tetanus only",
+      "Neonatal tetanus",
+      "Both maternal and neonatal tetanus",
+      "Diphtheria"
+    ],
+    "correct": "C",
+    "rationale": "TT in pregnancy: protects both mother and newborn (passive immunity via IgG crossing placenta). Schedule: TT-1 as early as possible, TT-2 at least 4 weeks after TT-1. If previously immunized, only booster needed. Neonatal tetanus occurs from unclean cord cutting - still a cause of neonatal mortality in developing countries."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Blood volume in pregnancy increases by approximately:",
+    "options": [
+      "10-15%",
+      "30-40%",
+      "50-60%",
+      "70-80%"
+    ],
+    "correct": "B",
+    "rationale": "Blood volume increases by 30-40% (about 1500 mL) by 32-34 weeks. Plasma volume increases more (45-50%) than RBC mass (20-30%), causing PHYSIOLOGICAL ANEMIA of pregnancy (dilutional). This hypervolemia protects against blood loss at delivery (average 500 mL vaginal, 1000 mL cesarean)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Physiological anemia of pregnancy is due to:",
+    "options": [
+      "Iron deficiency",
+      "Disproportionate increase in plasma volume over RBC mass",
+      "Folate deficiency",
+      "Blood loss"
+    ],
+    "correct": "B",
+    "rationale": "Physiological (dilutional) anemia: plasma volume increases 45-50% but RBC mass only 20-30%. This hemodilution decreases hemoglobin concentration (lower limit: 11 g/dL in 1st/3rd trimester, 10.5 g/dL in 2nd trimester per WHO). It is NOT pathological and does not need iron therapy unless Hb falls below these cutoffs."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Cardiac output in pregnancy increases by:",
+    "options": [
+      "10%",
+      "20%",
+      "30-40%",
+      "60%"
+    ],
+    "correct": "C",
+    "rationale": "Cardiac output increases 30-40% (peaks at 32 weeks). Due to: increased heart rate (10-15 bpm) + increased stroke volume. Maximum cardiac output: during labor (further 15-20% increase with each contraction) and immediately postpartum (autotransfusion from contracted uterus). Heart is displaced upward and to the left."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Supine hypotension syndrome in pregnancy is caused by:",
+    "options": [
+      "Anemia",
+      "Compression of IVC by gravid uterus",
+      "Cardiac failure",
+      "Dehydration"
+    ],
+    "correct": "B",
+    "rationale": "Supine hypotension (aortocaval compression): gravid uterus compresses IVC when mother lies supine, reducing venous return and cardiac output. Occurs after 20 weeks. Symptoms: dizziness, nausea, hypotension. Prevention: left lateral position (displaces uterus off IVC). Important during cesarean section - left tilt of operating table."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "GFR (glomerular filtration rate) in pregnancy:",
+    "options": [
+      "Decreases by 25%",
+      "Remains unchanged",
+      "Increases by 50%",
+      "Increases by 10%"
+    ],
+    "correct": "C",
+    "rationale": "GFR increases by 50% in pregnancy (due to increased renal blood flow and cardiac output). This causes: lower serum creatinine (0.4-0.8 mg/dL vs 0.8-1.2 non-pregnant), lower BUN, glycosuria (glucose exceeds reabsorptive capacity). A 'normal' creatinine of 1.0 in pregnancy may actually indicate renal impairment."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Glycosuria in pregnancy is considered physiological because:",
+    "options": [
+      "Insulin resistance increases",
+      "GFR increases causing glucose to exceed tubular reabsorption capacity",
+      "Pancreas produces less insulin",
+      "Placenta destroys insulin"
+    ],
+    "correct": "B",
+    "rationale": "Increased GFR (50% more filtrate) means more glucose is filtered than tubules can reabsorb, causing glycosuria even with normal blood glucose. This is PHYSIOLOGICAL and does NOT indicate gestational diabetes. However, persistent glycosuria warrants glucose tolerance testing to rule out GDM."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Pregnant women are more prone to UTI because of:",
+    "options": [
+      "Decreased immunity only",
+      "Ureteral dilatation and urinary stasis due to progesterone",
+      "Increased fluid intake",
+      "Decreased GFR"
+    ],
+    "correct": "B",
+    "rationale": "Progesterone causes smooth muscle relaxation including ureters (hydroureter) and bladder (increased residual volume). Combined with mechanical compression by gravid uterus = urinary stasis = increased UTI risk. Right ureter more dilated than left (dextrorotation of uterus). Asymptomatic bacteriuria must be treated in pregnancy (risk of pyelonephritis)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "The basal metabolic rate (BMR) in pregnancy increases by:",
+    "options": [
+      "5%",
+      "15-20%",
+      "40%",
+      "50%"
+    ],
+    "correct": "B",
+    "rationale": "BMR increases by 15-20% in pregnancy (maximum in 3rd trimester). Additional caloric requirement: 300 kcal/day in 2nd and 3rd trimesters. Total weight gain in pregnancy: 10-12 kg. Components: fetus (3.3 kg), placenta (0.6 kg), amniotic fluid (0.8 kg), uterus (0.9 kg), breasts (0.4 kg), blood volume (1.2 kg), fat stores (3.5 kg)."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Menorrhagia is defined as menstrual blood loss greater than:",
+    "options": [
+      "50 mL",
+      "80 mL",
+      "100 mL",
+      "150 mL"
+    ],
+    "correct": "B",
+    "rationale": "Menorrhagia: blood loss >80 mL per cycle OR duration >8 days with regular cycles. Normal blood loss: 5-80 mL (average 35-50 mL). Causes: fibroids (most common structural cause), adenomyosis, endometrial polyps, coagulopathies (von Willebrand disease in young girls), hypothyroidism."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Polymenorrhea means menstrual cycles shorter than:",
+    "options": [
+      "28 days",
+      "24 days",
+      "21 days",
+      "14 days"
+    ],
+    "correct": "C",
+    "rationale": "Polymenorrhea: cycle length <21 days (frequent periods). Oligomenorrhea: cycle >35 days (infrequent periods). Normal cycle: 21-35 days. Polymenorrhea may indicate short luteal phase (inadequate progesterone) or anovulatory cycles. Common in extremes of reproductive age."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Primary dysmenorrhea is caused by excess production of:",
+    "options": [
+      "Estrogen",
+      "Prostaglandins (PGF2-alpha)",
+      "Progesterone",
+      "Oxytocin"
+    ],
+    "correct": "B",
+    "rationale": "Primary dysmenorrhea: no pelvic pathology. Caused by excess prostaglandin F2-alpha (PGF2a) from endometrium causing myometrial contractions and ischemia. Treatment: NSAIDs (inhibit prostaglandin synthesis - mefenamic acid, ibuprofen) or OCPs (thin endometrium = less prostaglandin). Pain starts 1-2 days before menses, relieved with onset of flow."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "The most common cause of secondary dysmenorrhea is:",
+    "options": [
+      "Cervical stenosis",
+      "Endometriosis",
+      "Uterine fibroid",
+      "Ovarian cyst"
+    ],
+    "correct": "B",
+    "rationale": "Secondary dysmenorrhea: pain due to pelvic pathology. Most common cause: ENDOMETRIOSIS (ectopic endometrial tissue). Other causes: adenomyosis, PID, fibroids, ovarian cysts. Characteristics: starts 4-7 days before menses, NOT relieved by onset of flow, progressive worsening over years, associated with dyspareunia and infertility."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Menarche normally occurs at the age of:",
+    "options": [
+      "8-9 years",
+      "12-13 years",
+      "15-16 years",
+      "17-18 years"
+    ],
+    "correct": "B",
+    "rationale": "Menarche: first menstruation, normally at 12-13 years. Precocious puberty: menarche before 10 years. Delayed menarche: no menses by 16 years (investigate for primary amenorrhea). Menarche is preceded by thelarche (breast development, first sign of puberty at 10-11 years) and pubarche (pubic hair)."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "The age of menopause in India is:",
+    "options": [
+      "40 years",
+      "45 years",
+      "47 years",
+      "55 years"
+    ],
+    "correct": "C",
+    "rationale": "Average age of menopause: India = 47 years, Worldwide = 51 years. Premature menopause: <40 years (premature ovarian insufficiency). Early menopause: 40-45 years. Diagnosis: amenorrhea for 12 consecutive months + elevated FSH (>40 IU/L). Smoking advances menopause by 1-2 years."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Post-menopausal bleeding should be investigated to rule out:",
+    "options": [
+      "Cervical ectropion",
+      "Endometrial carcinoma",
+      "Physiological bleeding",
+      "Ovulation"
+    ],
+    "correct": "B",
+    "rationale": "Post-menopausal bleeding (PMB) = any bleeding after 12 months of amenorrhea in menopausal woman. Must rule out endometrial carcinoma (most important cause to exclude). Investigation: TVS (endometrial thickness >4mm = abnormal) followed by endometrial biopsy. Other causes: atrophic vaginitis (most common benign cause), cervical/endometrial polyps."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "The best investigation for primary amenorrhea is:",
+    "options": [
+      "Hormonal assay",
+      "Karyotyping",
+      "Ultrasound",
+      "Hysteroscopy"
+    ],
+    "correct": "B",
+    "rationale": "Primary amenorrhea (never menstruated): best initial investigation = KARYOTYPING (to identify Turner syndrome 45XO, androgen insensitivity 46XY, etc.). Secondary amenorrhea (previously menstruated, now stopped): best investigation = hormonal tests (beta-hCG first to rule out pregnancy, then FSH, LH, prolactin, thyroid)."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "The most common cause of secondary amenorrhea is:",
+    "options": [
+      "PCOS",
+      "Pregnancy",
+      "Stress",
+      "Thyroid disorder"
+    ],
+    "correct": "B",
+    "rationale": "ALWAYS rule out pregnancy first in secondary amenorrhea (most common cause). After excluding pregnancy: PCOS (most common pathological cause), hypothalamic amenorrhea (stress, weight loss, exercise), hyperprolactinemia, thyroid disorders, premature ovarian failure, Asherman syndrome."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "GnRH is released from the hypothalamus in which manner?",
+    "options": [
+      "Continuous manner",
+      "Pulsatile manner",
+      "Only during ovulation",
+      "Only during menstruation"
+    ],
+    "correct": "B",
+    "rationale": "GnRH is released in PULSATILE manner from arcuate nucleus of hypothalamus. Pulsatile GnRH stimulates FSH and LH release. CONTINUOUS GnRH (or GnRH agonists given continuously) paradoxically SUPPRESSES FSH/LH (downregulation). This principle is used therapeutically: GnRH agonists (leuprolide) for endometriosis, fibroids, precocious puberty."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Continuous administration of GnRH agonist leads to:",
+    "options": [
+      "Increased FSH and LH",
+      "Decreased FSH and LH (medical castration)",
+      "Increased estrogen",
+      "Ovulation induction"
+    ],
+    "correct": "B",
+    "rationale": "GnRH agonist given continuously: initial flare (transient increase in FSH/LH for 1-2 weeks) followed by downregulation and suppression of gonadotropins = medical castration. Uses: endometriosis, fibroids (shrink before surgery), precocious puberty, prostate cancer. Side effects: menopausal symptoms (hot flashes, bone loss)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "The most potent natural estrogen is:",
+    "options": [
+      "Estrone (E1)",
+      "Estradiol (E2)",
+      "Estriol (E3)",
+      "Estetrol (E4)"
+    ],
+    "correct": "B",
+    "rationale": "Potency order: E2 (Estradiol) > E1 (Estrone) > E3 (Estriol) > E4 (Estetrol). E2 is the main estrogen in reproductive-age women (from ovarian follicles). E1 is the main estrogen after menopause (from peripheral conversion of androstenedione in fat). E3 is the most specific estrogen in pregnancy (from fetal-placental unit)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "The main source of progesterone in a non-pregnant female is:",
+    "options": [
+      "Adrenal gland",
+      "Corpus luteum",
+      "Placenta",
+      "Endometrium"
+    ],
+    "correct": "B",
+    "rationale": "Non-pregnant: corpus luteum is the main source of progesterone (after ovulation, luteal phase). In pregnancy: corpus luteum until 10-12 weeks, then PLACENTA takes over (luteo-placental shift). Progesterone maintains pregnancy, causes secretory changes in endometrium, relaxes smooth muscle, raises body temperature by 0.2-0.5 degrees C."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Clomiphene citrate is used for:",
+    "options": [
+      "Contraception",
+      "Ovulation induction",
+      "Endometriosis treatment",
+      "Menopause symptoms"
+    ],
+    "correct": "B",
+    "rationale": "Clomiphene citrate: SERM (Selective Estrogen Receptor Modulator) - blocks estrogen receptors in hypothalamus, removing negative feedback, causing increased GnRH/FSH/LH release = ovulation induction. First-line drug for anovulatory infertility (especially PCOS). Given Day 2-6 of cycle. Risk: multiple pregnancy (10%), ovarian hyperstimulation."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Tamoxifen is used in the treatment of:",
+    "options": [
+      "Ovarian cancer",
+      "Breast cancer (ER-positive)",
+      "Cervical cancer",
+      "Endometrial cancer"
+    ],
+    "correct": "B",
+    "rationale": "Tamoxifen: SERM that is anti-estrogenic in breast (blocks ER) but pro-estrogenic in uterus and bone. Used for ER-positive breast cancer (adjuvant therapy for 5-10 years). Side effect: increased risk of endometrial cancer and thromboembolic events (due to estrogenic effect on uterus). Raloxifene: anti-estrogenic in both breast and uterus."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Oxytocin is released from:",
+    "options": [
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Hypothalamus directly into blood",
+      "Adrenal gland"
+    ],
+    "correct": "B",
+    "rationale": "Oxytocin: synthesized in supraoptic and paraventricular nuclei of hypothalamus, stored and released from POSTERIOR pituitary. Functions: uterine contractions during labor, milk ejection (let-down reflex), bonding. Ferguson reflex: cervical stretching stimulates oxytocin release (positive feedback during labor)."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The transformation zone of cervix is the junction between:",
+    "options": [
+      "Endometrium and myometrium",
+      "Squamous epithelium and columnar epithelium",
+      "Cervix and vagina",
+      "Internal os and external os"
+    ],
+    "correct": "B",
+    "rationale": "Transformation zone (squamocolumnar junction/SCJ): where ectocervical squamous epithelium meets endocervical columnar epithelium. This is the most important area because: 1) Most cervical cancers arise here, 2) Pap smear must sample this zone, 3) HPV preferentially infects metaplastic cells here. Location shifts with age and hormones."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Nabothian cysts/follicles are found in:",
+    "options": [
+      "Ovary",
+      "Cervix",
+      "Vagina",
+      "Uterus"
+    ],
+    "correct": "B",
+    "rationale": "Nabothian cysts: retention cysts of cervical glands. Formed when squamous metaplasia covers columnar epithelium, trapping mucus-secreting glands beneath. They appear as small (2-10mm), smooth, yellow-white bumps on cervix. Completely benign, very common, no treatment needed. NOT to be confused with cervical cancer."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The vagina is lined by:",
+    "options": [
+      "Keratinized stratified squamous epithelium",
+      "Non-keratinized stratified squamous epithelium",
+      "Columnar epithelium",
+      "Transitional epithelium"
+    ],
+    "correct": "B",
+    "rationale": "Vagina: NON-keratinized stratified squamous epithelium (kept moist by transudation and cervical mucus). No glands in vaginal wall (lubrication is from transudation + Bartholin's + cervical mucus). Vaginal pH: 4-4.5 (acidic, maintained by Doderlein's bacilli/Lactobacilli converting glycogen to lactic acid). This acidity protects against infections."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The normal pH of vagina in reproductive age is:",
+    "options": [
+      "2-3",
+      "4-4.5",
+      "6-7",
+      "7.5-8"
+    ],
+    "correct": "B",
+    "rationale": "Vaginal pH 4-4.5 (acidic) maintained by Doderlein's bacilli (Lactobacillus). Estrogen causes glycogen deposition in vaginal epithelium; Lactobacilli convert glycogen to lactic acid. pH rises (becomes alkaline) in: prepubertal girls, postmenopausal women, during menstruation, after intercourse (semen is alkaline). Alkaline pH predisposes to infections."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Doderlein's bacilli in the vagina are:",
+    "options": [
+      "Pathogenic bacteria",
+      "Lactobacilli (normal flora maintaining acidic pH)",
+      "Fungi",
+      "Viruses"
+    ],
+    "correct": "B",
+    "rationale": "Doderlein's bacilli = Lactobacillus acidophilus = normal vaginal flora. They convert glycogen (deposited under estrogen influence) to lactic acid, maintaining pH 4-4.5. This acidic environment prevents growth of pathogenic organisms. Antibiotics can kill Doderlein's bacilli leading to candidal vaginitis (opportunistic overgrowth)."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The cross-sectional shape of the vagina is:",
+    "options": [
+      "Circular",
+      "H-shaped",
+      "Triangular",
+      "Square"
+    ],
+    "correct": "B",
+    "rationale": "Vagina cross-section: H-shaped (anterior and posterior walls in contact, lateral walls form the arms of H). Has 4 fornices: anterior, posterior (deepest - related to pouch of Douglas), and 2 lateral. Posterior fornix is used for: culdocentesis, colpotomy, and is the site where semen pools after intercourse."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The deepest fornix of the vagina is:",
+    "options": [
+      "Anterior fornix",
+      "Posterior fornix",
+      "Right lateral fornix",
+      "Left lateral fornix"
+    ],
+    "correct": "B",
+    "rationale": "Posterior fornix is the deepest and most important clinically. It is related to the pouch of Douglas (rectouterine pouch) - the most dependent part of peritoneal cavity in erect position. Culdocentesis (needle through posterior fornix) can detect blood/pus in pouch of Douglas. Semen pools here after intercourse (aids fertility)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The cardinal (Mackenrodt's) ligament provides:",
+    "options": [
+      "Anteversion of uterus",
+      "Main support to cervix and upper vagina",
+      "Attachment of ovary to uterus",
+      "Blood supply to uterus"
+    ],
+    "correct": "B",
+    "rationale": "Cardinal ligament (transverse cervical/Mackenrodt's): the MAIN support of the uterus (along with levator ani). Extends from cervix/upper vagina to lateral pelvic wall. Contains uterine artery and ureter (ureter passes UNDER uterine artery - 'water under the bridge'). Damage during hysterectomy can injure ureter."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The round ligament of uterus:",
+    "options": [
+      "Supports the uterus and prevents prolapse",
+      "Maintains anteversion of uterus",
+      "Contains the uterine artery",
+      "Connects ovary to uterus"
+    ],
+    "correct": "B",
+    "rationale": "Round ligament: maintains ANTEVERSION (forward tilt) of uterus. Runs from cornua through inguinal canal to labia majora. Does NOT support uterus (cannot prevent prolapse). Homologous to gubernaculum testis in males. Round ligament pain is common in pregnancy (stretching causes sharp groin pain)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The relationship of ureter to uterine artery is:",
+    "options": [
+      "Ureter is above uterine artery",
+      "Ureter passes UNDER uterine artery (water under the bridge)",
+      "They do not cross",
+      "Ureter is lateral to uterine artery"
+    ],
+    "correct": "B",
+    "rationale": "Ureter crosses UNDER the uterine artery at the level of internal os (2 cm lateral to cervix). Mnemonic: 'Water (ureter) under the bridge (uterine artery)'. This relationship is critical during hysterectomy - ureter can be accidentally ligated or cut. Most common site of ureteric injury in gynecological surgery."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The uterosacral ligaments help maintain:",
+    "options": [
+      "Anteversion",
+      "Anteflexion",
+      "Retroversion prevention (backward pull)",
+      "Lateral support"
+    ],
+    "correct": "C",
+    "rationale": "Uterosacral ligaments: extend from cervix posteriorly to sacrum (S2-S3). They pull the cervix backward, helping maintain the normal anteverted position. Also provide support. Used in McCall culdoplasty (vaginal vault suspension after hysterectomy). Endometriosis commonly involves uterosacral ligaments (causing deep dyspareunia)."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "hCG (human chorionic gonadotropin) is produced by:",
+    "options": [
+      "Corpus luteum",
+      "Syncytiotrophoblast",
+      "Decidua",
+      "Fetal liver"
+    ],
+    "correct": "B",
+    "rationale": "hCG is produced by SYNCYTIOTROPHOBLAST (outer layer of trophoblast). Detectable in maternal blood by 8-10 days after fertilization. Doubles every 48-72 hours in early pregnancy. Peak: 8-10 weeks. Functions: maintains corpus luteum (produces progesterone until placenta takes over at 10-12 weeks), stimulates fetal testicular testosterone."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "hCG is functionally similar to:",
+    "options": [
+      "FSH",
+      "LH",
+      "Prolactin",
+      "GnRH"
+    ],
+    "correct": "B",
+    "rationale": "hCG is structurally and functionally similar to LH (shares alpha subunit; beta subunit is unique - used for pregnancy tests). Like LH, hCG maintains the corpus luteum. In males, hCG stimulates Leydig cells (used therapeutically for cryptorchidism). Very high hCG: molar pregnancy, choriocarcinoma, multiple pregnancy."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "Peak level of hCG in pregnancy occurs at:",
+    "options": [
+      "4-6 weeks",
+      "8-10 weeks",
+      "16-20 weeks",
+      "36-40 weeks"
+    ],
+    "correct": "B",
+    "rationale": "hCG peaks at 8-10 weeks then declines. This peak coincides with maximum morning sickness (hyperemesis gravidarum). After 10-12 weeks, placenta produces enough progesterone independently (luteo-placental shift), so hCG is no longer needed to maintain corpus luteum. Very high hCG at any time: suspect molar pregnancy."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "The hormone that maintains corpus luteum in early pregnancy is:",
+    "options": [
+      "FSH",
+      "LH",
+      "hCG",
+      "Progesterone"
+    ],
+    "correct": "C",
+    "rationale": "In non-pregnant state: LH maintains corpus luteum (lifespan 12-14 days). In pregnancy: hCG takes over (from implanting trophoblast) and maintains corpus luteum for 10-12 weeks. Without hCG, corpus luteum would regress, progesterone would fall, and pregnancy would be lost. This is why hCG is called the 'rescue hormone' of pregnancy."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "Human placental lactogen (hPL) has actions similar to:",
+    "options": [
+      "Insulin",
+      "Growth hormone",
+      "Thyroid hormone",
+      "Cortisol"
+    ],
+    "correct": "B",
+    "rationale": "hPL (also called human chorionic somatomammotropin/hCS): produced by syncytiotrophoblast. Actions similar to growth hormone: anti-insulin effect (diabetogenic - causes insulin resistance), lipolytic (mobilizes maternal fat for energy), promotes breast development for lactation. Levels correlate with placental mass. Low hPL = placental insufficiency."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "The most specific estrogen marker of fetoplacental unit function in pregnancy is:",
+    "options": [
+      "Estrone (E1)",
+      "Estradiol (E2)",
+      "Estriol (E3)",
+      "Estetrol (E4)"
+    ],
+    "correct": "C",
+    "rationale": "Estriol (E3) requires both fetal adrenal (DHEA-S precursor) and placenta (aromatization) for synthesis - hence marker of fetoplacental unit. Low urinary estriol: fetal distress, IUGR, placental insufficiency, anencephaly (no fetal adrenal stimulation). E3 is the weakest estrogen but most abundant in pregnancy."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "The placental barrier allows passage of all EXCEPT:",
+    "options": [
+      "IgG antibodies",
+      "Oxygen and CO2",
+      "Glucose",
+      "Bacteria (most)"
+    ],
+    "correct": "D",
+    "rationale": "Placental barrier allows: gases (O2, CO2 - simple diffusion), glucose (facilitated diffusion), amino acids (active transport), IgG (only immunoglobulin that crosses - gives passive immunity to fetus), drugs, viruses (rubella, CMV, HIV). Does NOT allow: most bacteria, IgM, IgA, heparin (large molecule). Exceptions: Treponema pallidum (syphilis) crosses."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "The first trimester screening for Down syndrome includes:",
+    "options": [
+      "AFP and hCG only",
+      "Nuchal translucency + PAPP-A + free beta-hCG",
+      "Amniocentesis",
+      "Cordocentesis"
+    ],
+    "correct": "B",
+    "rationale": "First trimester combined screening (11-13+6 weeks): Nuchal translucency (NT) on USG + maternal serum PAPP-A (decreased in Down) + free beta-hCG (increased in Down). Detection rate: 85-90%. Second trimester: Quadruple test (AFP decreased, hCG increased, Estriol decreased, Inhibin-A increased). Definitive diagnosis: amniocentesis/CVS for karyotyping."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Amniocentesis for prenatal diagnosis is ideally performed at:",
+    "options": [
+      "8-10 weeks",
+      "15-18 weeks",
+      "24-28 weeks",
+      "32-36 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Amniocentesis: needle aspiration of amniotic fluid through abdominal wall under USG guidance. Ideal time: 15-18 weeks (adequate fluid, viable cells for culture). Uses: karyotyping (chromosomal abnormalities), AFP (neural tube defects), lung maturity (L/S ratio in 3rd trimester). Risk: miscarriage 0.5-1%. CVS (chorionic villus sampling) can be done earlier (10-12 weeks)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Elevated maternal serum AFP (alpha-fetoprotein) suggests:",
+    "options": [
+      "Down syndrome",
+      "Open neural tube defects (spina bifida, anencephaly)",
+      "Edward syndrome",
+      "Turner syndrome"
+    ],
+    "correct": "B",
+    "rationale": "Elevated AFP: open neural tube defects (anencephaly, spina bifida), abdominal wall defects (omphalocele, gastroschisis), multiple pregnancy, wrong dates. LOW AFP: Down syndrome (trisomy 21), Edward syndrome (trisomy 18). AFP is produced by fetal liver and yolk sac. Leaks into amniotic fluid through open defects."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "TIFFA scan (Targeted Imaging for Fetal Anomalies) is done at:",
+    "options": [
+      "8-10 weeks",
+      "11-13 weeks",
+      "18-20 weeks",
+      "32-36 weeks"
+    ],
+    "correct": "C",
+    "rationale": "TIFFA (Level 2 USG/anomaly scan): done at 18-20 weeks. Systematically examines all fetal organs for structural anomalies: brain (anencephaly, hydrocephalus), spine (spina bifida), heart (cardiac defects), kidneys (renal agenesis), limbs, abdominal wall. This is the most important scan for detecting fetal malformations."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Iron and folic acid supplementation in pregnancy is given to prevent:",
+    "options": [
+      "Gestational diabetes",
+      "Anemia and neural tube defects",
+      "Preeclampsia",
+      "Preterm labor"
+    ],
+    "correct": "B",
+    "rationale": "Iron: prevents iron deficiency anemia (most common anemia in pregnancy). Dose: 100mg elemental iron + 500mcg folic acid daily from 2nd trimester. Folic acid: prevents neural tube defects (NTDs - spina bifida, anencephaly). Should ideally start 3 months BEFORE conception (periconceptional). India: Anemia Mukt Bharat program."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "The most common position for the heart in pregnancy is:",
+    "options": [
+      "Normal position",
+      "Displaced upward and to the left",
+      "Displaced downward",
+      "Displaced to the right"
+    ],
+    "correct": "B",
+    "rationale": "Growing uterus pushes diaphragm up, displacing heart upward and to the left with rotation on its long axis. This causes: apparent cardiomegaly on X-ray, left axis deviation on ECG, systolic flow murmur (heard in 90% of pregnant women - physiological). These changes can mimic heart disease and must not be over-investigated."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Fibrinogen levels in pregnancy:",
+    "options": [
+      "Decrease significantly",
+      "Remain unchanged",
+      "Increase by 50% (300 to 450 mg/dL)",
+      "Increase by 200%"
+    ],
+    "correct": "C",
+    "rationale": "Fibrinogen increases by ~50% (from 300 to 450 mg/dL) in pregnancy. This contributes to the hypercoagulable state. ESR is markedly elevated in pregnancy (due to increased fibrinogen and rouleaux formation) - NOT a reliable marker of infection in pregnancy. Clotting factors VII, VIII, IX, X also increase."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Physiological changes in the respiratory system during pregnancy include:",
+    "options": [
+      "Decreased tidal volume",
+      "Increased tidal volume with decreased residual volume",
+      "Decreased respiratory rate",
+      "Increased total lung capacity"
+    ],
+    "correct": "B",
+    "rationale": "Respiratory changes: Tidal volume INCREASES (40%) due to progesterone stimulating respiratory center. Residual volume and functional residual capacity DECREASE (diaphragm elevation). Respiratory rate: unchanged or slightly increased. Net effect: minute ventilation increases 40% = respiratory alkalosis (compensated by renal bicarbonate excretion). Dyspnea is common (physiological)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Progesterone in pregnancy causes all EXCEPT:",
+    "options": [
+      "Smooth muscle relaxation",
+      "Increased body temperature",
+      "Ureteral dilatation",
+      "Increased uterine contractions"
+    ],
+    "correct": "D",
+    "rationale": "Progesterone RELAXES smooth muscle everywhere: uterus (prevents contractions/maintains pregnancy), ureters (hydroureter), GI tract (constipation, GERD), blood vessels (hypotension). Also raises body temperature by 0.2-0.5 degrees C. It does NOT increase uterine contractions - it SUPPRESSES them. Withdrawal of progesterone at term contributes to labor onset."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Heartburn (GERD) in pregnancy is caused by:",
+    "options": [
+      "Increased gastric acid production",
+      "Progesterone relaxing lower esophageal sphincter",
+      "Decreased gastric motility only",
+      "Increased intra-abdominal pressure only"
+    ],
+    "correct": "B",
+    "rationale": "GERD in pregnancy: progesterone relaxes lower esophageal sphincter (LES) allowing acid reflux + growing uterus increases intra-abdominal pressure + delayed gastric emptying. Affects 40-80% of pregnant women. Management: small frequent meals, avoid lying flat after eating, antacids (calcium-based safe), proton pump inhibitors if severe."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Constipation in pregnancy is primarily due to:",
+    "options": [
+      "Decreased fluid intake",
+      "Progesterone causing decreased GI motility",
+      "Iron deficiency",
+      "Increased fiber intake"
+    ],
+    "correct": "B",
+    "rationale": "Progesterone relaxes GI smooth muscle causing decreased peristalsis and increased water absorption = constipation. Affects 40% of pregnant women. Worsened by: iron supplements, decreased physical activity, mechanical compression by uterus. Management: high fiber diet, adequate fluids, stool softeners (lactulose safe). Avoid stimulant laxatives."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "The ovarian cycle is initiated by which hormone?",
+    "options": [
+      "LH",
+      "FSH",
+      "Estrogen",
+      "Progesterone"
+    ],
+    "correct": "B",
+    "rationale": "FSH (Follicle Stimulating Hormone) initiates the ovarian cycle by stimulating growth of ovarian follicles. FSH recruits a cohort of follicles, one becomes dominant. The dominant follicle produces increasing estrogen. FSH is released from anterior pituitary in response to pulsatile GnRH from hypothalamus."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "LH surge in the menstrual cycle is triggered by:",
+    "options": [
+      "Low estrogen levels",
+      "High estrogen levels (positive feedback)",
+      "Progesterone",
+      "FSH"
+    ],
+    "correct": "B",
+    "rationale": "Estrogen has DUAL effect on LH: Low levels = negative feedback (suppresses LH). High sustained levels (>200 pg/mL for >48 hours from dominant follicle) = POSITIVE feedback = LH surge. LH surge triggers ovulation 32-36 hours later. This is the basis of ovulation prediction kits (detect LH surge in urine)."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Ovulation occurs how many hours after the LH surge?",
+    "options": [
+      "12-16 hours",
+      "32-36 hours",
+      "48-72 hours",
+      "5-7 days"
+    ],
+    "correct": "B",
+    "rationale": "LH surge to ovulation: 32-36 hours (best answer) or 24-36 hours (2nd best). LH surge causes: resumption of meiosis I in oocyte, luteinization of granulosa cells, synthesis of prostaglandins and proteolytic enzymes that weaken follicular wall leading to rupture (ovulation). Ovulation = release of secondary oocyte from Graafian follicle."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "The size of the dominant follicle just before ovulation is:",
+    "options": [
+      "5-8 mm",
+      "10-12 mm",
+      "18-20 mm",
+      "30-35 mm"
+    ],
+    "correct": "C",
+    "rationale": "Dominant follicle reaches 18-20 mm diameter just before ovulation (Graafian follicle). Monitored by transvaginal USG in infertility treatment (follicular tracking). Follicle grows ~2mm/day in the late follicular phase. After ovulation, the collapsed follicle becomes corpus luteum. Multiple follicles >14mm = risk of multiple pregnancy in IVF."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "The luteal phase of the menstrual cycle is always fixed at:",
+    "options": [
+      "7 days",
+      "14 days",
+      "21 days",
+      "28 days"
+    ],
+    "correct": "B",
+    "rationale": "Luteal phase is CONSTANT at 14 days (regardless of cycle length). Follicular phase is VARIABLE. So for a 28-day cycle: ovulation on Day 14. For a 35-day cycle: ovulation on Day 21 (35-14=21). For a 21-day cycle: ovulation on Day 7 (21-14=7). This principle is used to calculate fertile period and predict ovulation."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Which hormone brings about secretory changes in the endometrium?",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "FSH",
+      "LH"
+    ],
+    "correct": "B",
+    "rationale": "Progesterone (from corpus luteum) converts proliferative endometrium to SECRETORY endometrium (preparation for implantation). Endometrial glands become tortuous/corkscrew-shaped, filled with glycogen-rich secretions. If no implantation, corpus luteum regresses, progesterone falls, endometrium sheds = menstruation. Estrogen causes proliferative changes."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Day of maximum progesterone level in a 28-day cycle is:",
+    "options": [
+      "Day 7",
+      "Day 14",
+      "Day 21-22",
+      "Day 28"
+    ],
+    "correct": "C",
+    "rationale": "Progesterone peaks on Day 21-22 (= Day 8 after ovulation = maximum corpus luteum activity). This is when serum progesterone is measured to confirm ovulation (>3 ng/mL = ovulation occurred). Day 21 progesterone is a key investigation in infertility workup. If anovulatory, progesterone remains low throughout cycle."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Circumvallate placenta is characterized by:",
+    "options": [
+      "Extra lobe of placenta",
+      "Ring of membranes on fetal surface with raised edges",
+      "Placenta covering internal os",
+      "Morbidly adherent placenta"
+    ],
+    "correct": "B",
+    "rationale": "Circumvallate placenta: fetal membranes (chorion and amnion) are folded back on the fetal surface creating a raised white ring. The chorionic plate is smaller than the basal plate. Associated with: antepartum hemorrhage, preterm labor, IUGR, placental abruption. Circummarginale: flat ring (less significant)."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Vasa previa is dangerous because:",
+    "options": [
+      "It causes maternal hemorrhage",
+      "Fetal vessels cross internal os and can rupture with membrane rupture",
+      "It causes placental abruption",
+      "It leads to cord prolapse"
+    ],
+    "correct": "B",
+    "rationale": "Vasa previa: fetal blood vessels (from velamentous insertion or succenturiate lobe) cross the internal os AHEAD of the presenting part. When membranes rupture, these unprotected vessels tear causing FETAL hemorrhage (fetal blood loss, not maternal). Fetal mortality >60% if undiagnosed. Diagnosis: TVS with color Doppler. Management: elective cesarean at 35-36 weeks."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "The normal length of the umbilical cord is:",
+    "options": [
+      "20-30 cm",
+      "50 cm (range 30-100 cm)",
+      "80-100 cm",
+      "120 cm"
+    ],
+    "correct": "B",
+    "rationale": "Normal cord length: 50 cm (range 30-100 cm). Short cord (<30 cm): risk of cord traction, placental abruption, inversion of uterus during delivery. Long cord (>100 cm): risk of cord prolapse, true knots, cord around neck (nuchal cord). Wharton's jelly protects the vessels from compression."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Fetal swallowing movements begin by:",
+    "options": [
+      "6-8 weeks",
+      "10-12 weeks",
+      "20-24 weeks",
+      "32-36 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Fetal swallowing begins at 10-12 weeks. Fetus swallows 200-500 mL of amniotic fluid per day (helps regulate amniotic fluid volume). If fetus cannot swallow (esophageal atresia, anencephaly) = polyhydramnios. Fetal urine production begins at 10-12 weeks and is the main source of amniotic fluid in 2nd/3rd trimester."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Surfactant production in fetal lungs begins at:",
+    "options": [
+      "16 weeks",
+      "24 weeks",
+      "28 weeks",
+      "36 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Surfactant production by Type II pneumocytes begins at 24 weeks but is ADEQUATE for extrauterine life by 35 weeks. L/S ratio >=2 indicates maturity. Phosphatidylglycerol (PG) appears at 35 weeks (most reliable marker). Corticosteroids (betamethasone/dexamethasone) given to mother accelerate fetal lung maturity if preterm delivery expected (24-34 weeks)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "The period of viability of the fetus is:",
+    "options": [
+      "20 weeks",
+      "28 weeks",
+      "32 weeks",
+      "36 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Period of viability: 28 weeks (WHO definition for developing countries) - fetus has reasonable chance of survival outside uterus. In developed countries with NICU: viability from 24 weeks. At 28 weeks: weight ~1000g, surfactant production improving. Before viability = abortion; after viability = preterm delivery."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Gravida refers to:",
+    "options": [
+      "Number of live births",
+      "Total number of pregnancies including current",
+      "Number of abortions",
+      "Number of children alive"
+    ],
+    "correct": "B",
+    "rationale": "Gravida (G): total number of pregnancies (including current, regardless of outcome). Para (P): number of pregnancies that reached viability (>20 weeks/500g). Primigravida: first pregnancy. Multigravida: 2 or more pregnancies. Grand multipara: para 5 or more (high risk). Nullipara: never delivered beyond viability."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Hegar's sign in early pregnancy is:",
+    "options": [
+      "Bluish discoloration of cervix",
+      "Softening of isthmus of uterus (compressible on bimanual exam)",
+      "Pulsation of uterine arteries",
+      "Breast changes"
+    ],
+    "correct": "B",
+    "rationale": "Hegar's sign: softening of the isthmus (lower uterine segment) at 6-8 weeks - on bimanual examination, fingers can almost meet through the soft isthmus. Other early signs: Chadwick's sign (bluish vagina/cervix due to congestion), Goodell's sign (soft cervix), Osiander's sign (pulsation in lateral fornix). These are probable signs of pregnancy."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Chadwick's sign refers to:",
+    "options": [
+      "Softening of cervix",
+      "Bluish/violet discoloration of vagina and cervix",
+      "Softening of isthmus",
+      "Uterine contractions"
+    ],
+    "correct": "B",
+    "rationale": "Chadwick's sign: bluish/violet discoloration of vagina and cervix due to increased vascularity and venous congestion in early pregnancy (6-8 weeks). Named after James Read Chadwick (1844-1905). Goodell's sign: softening of cervix (feels like lips instead of nose tip). Both are probable signs, not definitive."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Fundal height at the level of umbilicus corresponds to gestational age of:",
+    "options": [
+      "16 weeks",
+      "20 weeks",
+      "24 weeks",
+      "28 weeks"
+    ],
+    "correct": "C",
+    "rationale": "Fundal height landmarks: 12 weeks = just above pubic symphysis. 16 weeks = midway between symphysis and umbilicus. 20 weeks = at umbilicus (some texts say 22-24 weeks). 24 weeks = at umbilicus. 36 weeks = at xiphisternum. After 24 weeks: fundal height in cm approximately equals gestational age in weeks."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Asherman syndrome is caused by:",
+    "options": [
+      "Cervical incompetence",
+      "Intrauterine adhesions (synechiae) after vigorous curettage",
+      "Uterine fibroids",
+      "Endometriosis"
+    ],
+    "correct": "B",
+    "rationale": "Asherman syndrome: intrauterine adhesions (synechiae) from damage to basal layer of endometrium. Most common cause: vigorous/repeated curettage (especially post-abortion or postpartum). Presents with: secondary amenorrhea, hypomenorrhea, infertility, recurrent pregnancy loss. Diagnosis: hysteroscopy (gold standard). Treatment: hysteroscopic adhesiolysis."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "The most common chromosomal abnormality causing first trimester abortion is:",
+    "options": [
+      "Monosomy X (Turner syndrome)",
+      "Autosomal trisomy (especially Trisomy 16)",
+      "Triploidy",
+      "Structural rearrangements"
+    ],
+    "correct": "B",
+    "rationale": "Autosomal trisomy is the most common chromosomal abnormality in abortuses (52%). Trisomy 16 is the single most common trisomy in abortions (not compatible with life). Monosomy X (45 XO) accounts for ~20%. Triploidy: 16%. Most chromosomally abnormal embryos are lost before clinical recognition of pregnancy."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "The discriminatory zone for beta-hCG (level above which intrauterine pregnancy should be visible on TVS) is:",
+    "options": [
+      "100-500 mIU/mL",
+      "1500-2000 mIU/mL",
+      "5000-10000 mIU/mL",
+      "50000 mIU/mL"
+    ],
+    "correct": "B",
+    "rationale": "Discriminatory zone: beta-hCG 1500-2000 mIU/mL (TVS) or 6500 mIU/mL (transabdominal USG). Above this level, an intrauterine gestational sac SHOULD be visible. If not seen = suspect ectopic pregnancy. Below discriminatory zone: repeat beta-hCG in 48 hours (should double in normal pregnancy; suboptimal rise suggests ectopic/non-viable)."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Interstitial (cornual) ectopic pregnancy is dangerous because:",
+    "options": [
+      "It is the most common type",
+      "It ruptures late but with massive hemorrhage (surrounded by myometrium)",
+      "It always requires hysterectomy",
+      "It cannot be diagnosed on ultrasound"
+    ],
+    "correct": "B",
+    "rationale": "Interstitial/cornual ectopic: implantation in the intramural portion of tube (within myometrium). Ruptures LATE (8-16 weeks) because myometrium can stretch and accommodate growth. When it ruptures: CATASTROPHIC hemorrhage (rich blood supply from uterine and ovarian arteries). Mortality highest among all ectopic types. May require cornual resection or hysterectomy."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Partial mole differs from complete mole in that partial mole has:",
+    "options": [
+      "No fetal tissue",
+      "Fetal tissue present with triploid karyotype (69 XXY)",
+      "46 XX karyotype",
+      "Very high hCG levels"
+    ],
+    "correct": "B",
+    "rationale": "Partial mole: TRIPLOID (69 chromosomes - 2 paternal + 1 maternal set). Has fetal parts (unlike complete mole). hCG mildly elevated. Uterus small/normal for dates. Low malignant potential (1-5%). Complete mole: DIPLOID (46 XX/XY - all paternal). No fetal tissue. Very high hCG. Uterus larger than dates. Higher malignant potential (15-20%)."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Theca lutein cysts in molar pregnancy are caused by:",
+    "options": [
+      "Low estrogen levels",
+      "Very high hCG levels stimulating ovaries",
+      "Progesterone excess",
+      "FSH stimulation"
+    ],
+    "correct": "B",
+    "rationale": "Theca lutein cysts: bilateral, multilocular ovarian cysts caused by ovarian hyperstimulation from very high hCG levels in complete molar pregnancy. Can be large (>6 cm). They REGRESS spontaneously after mole evacuation as hCG falls. Do NOT remove surgically (risk of torsion exists but conservative management preferred). Also seen in multiple pregnancy."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Linea nigra in pregnancy is:",
+    "options": [
+      "Stretch marks on abdomen",
+      "Dark pigmented line from pubis to umbilicus",
+      "Varicose veins on legs",
+      "Spider naevi on face"
+    ],
+    "correct": "B",
+    "rationale": "Linea nigra: dark pigmented line in midline of abdomen (from pubis to umbilicus, sometimes to xiphisternum). Due to increased MSH (melanocyte-stimulating hormone) in pregnancy. Other pigmentation changes: chloasma/melasma (butterfly mask on face), darkening of areola, darkening of existing moles. Usually fades after delivery."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Striae gravidarum (stretch marks) in pregnancy are caused by:",
+    "options": [
+      "Infection",
+      "Rupture of elastic fibers in skin due to stretching + cortisol effect",
+      "Vitamin deficiency",
+      "Allergic reaction"
+    ],
+    "correct": "B",
+    "rationale": "Striae gravidarum: initially pink/red (striae rubrae), later become silvery-white (striae albae). Caused by stretching of skin + increased cortisol (weakens elastic fibers). Common on abdomen, breasts, thighs, buttocks. More common in: primigravida, large baby, polyhydramnios, obesity. No effective prevention; they fade but never completely disappear."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Braxton Hicks contractions are:",
+    "options": [
+      "True labor contractions",
+      "Painless, irregular uterine contractions throughout pregnancy",
+      "Contractions only during delivery",
+      "Pathological contractions indicating preterm labor"
+    ],
+    "correct": "B",
+    "rationale": "Braxton Hicks contractions: painless, irregular, non-progressive uterine contractions occurring from early pregnancy (felt from ~20 weeks). They do NOT cause cervical dilatation. Differ from true labor: irregular, not increasing in frequency/intensity, relieved by rest/position change. They help prepare the uterus for labor (practice contractions)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "The Rh-negative mother should receive Anti-D immunoglobulin at:",
+    "options": [
+      "12 weeks",
+      "28 weeks and within 72 hours of delivery",
+      "Only after delivery",
+      "Only if baby is Rh-negative"
+    ],
+    "correct": "B",
+    "rationale": "Anti-D prophylaxis for Rh-negative mother with Rh-positive partner: Antenatal dose at 28 weeks + postnatal dose within 72 hours of delivery (if baby is Rh-positive). Also given after: abortion, ectopic pregnancy, amniocentesis, APH, abdominal trauma. Prevents Rh isoimmunization (formation of anti-D antibodies that could cause hemolytic disease in future pregnancies)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Gestational diabetes mellitus (GDM) screening is done at:",
+    "options": [
+      "First trimester",
+      "24-28 weeks",
+      "32-36 weeks",
+      "At delivery"
+    ],
+    "correct": "B",
+    "rationale": "GDM screening: 24-28 weeks (when insulin resistance peaks due to hPL, cortisol, progesterone). Test: 75g OGTT (WHO/DIPSI criteria) or 50g glucose challenge test followed by 100g OGTT (Carpenter-Coustan). Risk factors: obesity, family history of DM, previous GDM, previous macrosomic baby, PCOS. High-risk women may be screened earlier."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Battledore placenta refers to:",
+    "options": [
+      "Placenta with accessory lobe",
+      "Marginal insertion of umbilical cord",
+      "Central cord insertion",
+      "Bilobed placenta"
+    ],
+    "correct": "B",
+    "rationale": "Battledore placenta: umbilical cord inserts at the MARGIN (edge) of the placenta instead of centrally. Named after the battledore (badminton racket shape). Usually benign but may be associated with preterm labor and fetal distress. Less dangerous than velamentous insertion (where vessels traverse membranes unprotected)."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The sex of the baby is determined at the time of:",
+    "options": [
+      "Implantation",
+      "Fertilization",
+      "8 weeks of gestation",
+      "Birth"
+    ],
+    "correct": "B",
+    "rationale": "Sex is determined at FERTILIZATION when sperm (carrying X or Y) meets ovum (always X). If X sperm fertilizes: 46 XX = female. If Y sperm fertilizes: 46 XY = male. Sex is determined by the FATHER (sperm). However, sexual differentiation (development of male/female organs) occurs later (6-8 weeks onwards under hormonal influence)."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "If the morula fails to enter the uterine cavity and implants in the fallopian tube, it results in:",
+    "options": [
+      "Normal pregnancy",
+      "Ectopic pregnancy",
+      "Molar pregnancy",
+      "Blighted ovum"
+    ],
+    "correct": "B",
+    "rationale": "Morula normally enters uterine cavity on Day 4 after fertilization (transported by tubal cilia and peristalsis). If transport is impaired (PID damage, endometriosis, previous surgery), morula implants in tube = tubal ectopic pregnancy. Kartagener syndrome (immotile cilia) also predisposes to ectopic pregnancy and infertility."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The three layers of the uterus from outside to inside are:",
+    "options": [
+      "Endometrium, Myometrium, Perimetrium",
+      "Perimetrium, Myometrium, Endometrium",
+      "Myometrium, Endometrium, Perimetrium",
+      "Serosa, Mucosa, Muscularis"
+    ],
+    "correct": "B",
+    "rationale": "Uterine layers (outside to inside): 1) PERIMETRIUM (serous coat/peritoneum), 2) MYOMETRIUM (thick muscular layer - 3 sublayers: outer longitudinal, middle oblique/figure-of-8, inner circular), 3) ENDOMETRIUM (mucosal lining that sheds during menstruation). Middle myometrium = living ligature (controls bleeding after delivery)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The Pouch of Douglas (rectouterine pouch) is located:",
+    "options": [
+      "Between bladder and uterus",
+      "Between uterus and rectum",
+      "Between ovary and tube",
+      "Above the fundus"
+    ],
+    "correct": "B",
+    "rationale": "Pouch of Douglas (rectouterine pouch): peritoneal space between uterus (posterior) and rectum. It is the most DEPENDENT part of peritoneal cavity in erect/supine position. Clinical significance: fluid (blood, pus, ascites) collects here first. Accessed via: culdocentesis (needle through posterior fornix), culdoscopy, colpotomy."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Congenital absence of uterus with normal ovaries and 46 XX karyotype is called:",
+    "options": [
+      "Turner syndrome",
+      "MRKH syndrome (Mullerian agenesis)",
+      "Androgen insensitivity syndrome",
+      "Swyer syndrome"
+    ],
+    "correct": "B",
+    "rationale": "MRKH (Mayer-Rokitansky-Kuster-Hauser) syndrome: congenital absence of uterus, cervix, and upper 2/3rd vagina due to Mullerian duct agenesis. Karyotype: 46 XX (normal female). Ovaries normal (from genital ridge). Presents with primary amenorrhea, normal secondary sexual characters. 2nd most common cause of primary amenorrhea after gonadal dysgenesis."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "The blood supply of the medial part of fallopian tube is from:",
+    "options": [
+      "Ovarian artery",
+      "Uterine artery",
+      "Internal pudendal artery",
+      "External iliac artery"
+    ],
+    "correct": "B",
+    "rationale": "Fallopian tube has dual blood supply: Medial 2/3rd = uterine artery (ascending branch). Lateral 1/3rd = ovarian artery (through infundibulopelvic ligament). This dual supply is important during salpingectomy - both vessels must be secured. Anastomosis between the two arteries occurs in the mesosalpinx."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "The ovarian artery is a branch of:",
+    "options": [
+      "Internal iliac artery",
+      "Abdominal aorta",
+      "External iliac artery",
+      "Uterine artery"
+    ],
+    "correct": "B",
+    "rationale": "Ovarian artery arises directly from ABDOMINAL AORTA (at L2 level, below renal arteries). It travels in the infundibulopelvic (suspensory) ligament to reach the ovary. Right ovarian vein drains into IVC; left ovarian vein drains into left renal vein (like testicular veins). This asymmetry explains why left varicocele is more common in males."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Which layer of endometrium is shed during menstruation?",
+    "options": [
+      "Basal layer (basalis)",
+      "Functional layer (functionalis/superficial layer)",
+      "Both layers completely",
+      "Myometrium"
+    ],
+    "correct": "B",
+    "rationale": "Only the FUNCTIONAL layer (stratum functionalis) is shed during menstruation. The BASAL layer (stratum basalis) is retained and regenerates the functional layer in the next cycle. Basal layer has its own blood supply (straight arteries) while functional layer is supplied by spiral arteries (which constrict causing ischemia and shedding)."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Mittelschmerz refers to:",
+    "options": [
+      "Pain during menstruation",
+      "Pain at the time of ovulation (mid-cycle pain)",
+      "Pain during intercourse",
+      "Pain after delivery"
+    ],
+    "correct": "B",
+    "rationale": "Mittelschmerz (German: middle pain): sharp, unilateral lower abdominal pain occurring at mid-cycle (Day 14 in 28-day cycle) due to ovulation. Caused by: peritoneal irritation from follicular fluid/blood released at ovulation. Lasts hours to 1-2 days. Alternates sides monthly. Can be confused with appendicitis if on right side."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Spinnbarkeit refers to:",
+    "options": [
+      "Thick cervical mucus",
+      "Stretchability/elasticity of cervical mucus at ovulation",
+      "Vaginal dryness",
+      "Endometrial thickness"
+    ],
+    "correct": "B",
+    "rationale": "Spinnbarkeit: the ability of cervical mucus to be stretched into a thin thread (up to 10-12 cm) at ovulation. Under estrogen influence (peak at ovulation), mucus becomes thin, watery, abundant, elastic, and shows ferning pattern on drying. Under progesterone (luteal phase), mucus becomes thick, viscous, scanty, non-ferning. Used in natural family planning."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Ferning pattern of cervical mucus is seen under the influence of:",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "LH",
+      "FSH"
+    ],
+    "correct": "B",
+    "rationale": "Ferning (arborization): fern-leaf crystallization pattern seen when estrogen-influenced cervical mucus is dried on a glass slide. Maximum at ovulation (peak estrogen). Absent in luteal phase (progesterone inhibits ferning). Clinical use: confirms ovulation timing, assesses estrogen status. Also seen in amniotic fluid (used to confirm PROM)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Inhibin is produced by:",
+    "options": [
+      "Hypothalamus",
+      "Anterior pituitary",
+      "Ovarian granulosa cells (and corpus luteum)",
+      "Adrenal gland"
+    ],
+    "correct": "C",
+    "rationale": "Inhibin: produced by granulosa cells of ovarian follicles and corpus luteum. Function: selectively INHIBITS FSH secretion (negative feedback on anterior pituitary). Does not affect LH. In males: produced by Sertoli cells. Inhibin B is used as a marker of ovarian reserve (low inhibin B = poor reserve). Also elevated in granulosa cell tumors."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Anti-Mullerian Hormone (AMH) is used clinically to assess:",
+    "options": [
+      "Pregnancy viability",
+      "Ovarian reserve (remaining follicle pool)",
+      "Fetal lung maturity",
+      "Cervical competence"
+    ],
+    "correct": "B",
+    "rationale": "AMH: produced by granulosa cells of preantral and small antral follicles. Reflects the remaining primordial follicle pool (ovarian reserve). Low AMH = diminished ovarian reserve (poor response to IVF stimulation). Can be measured on ANY day of cycle (unlike FSH which must be Day 2-3). Also used to predict menopause timing and diagnose PCOS (elevated)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Letrozole is used for ovulation induction. It acts by:",
+    "options": [
+      "Blocking estrogen receptors",
+      "Inhibiting aromatase enzyme (reducing estrogen synthesis)",
+      "Stimulating GnRH release",
+      "Directly stimulating ovarian follicles"
+    ],
+    "correct": "B",
+    "rationale": "Letrozole: aromatase inhibitor - blocks conversion of androgens to estrogens. Reduced estrogen removes negative feedback on hypothalamus/pituitary, increasing FSH release = follicular growth. Advantages over clomiphene: no anti-estrogenic effect on endometrium/cervical mucus, lower multiple pregnancy rate, shorter half-life. Now first-line for PCOS ovulation induction."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "The transfer of oxygen across the placenta occurs by:",
+    "options": [
+      "Active transport",
+      "Simple diffusion",
+      "Facilitated diffusion",
+      "Pinocytosis"
+    ],
+    "correct": "B",
+    "rationale": "Oxygen crosses placenta by SIMPLE DIFFUSION (down concentration gradient - maternal PO2 ~100mmHg to fetal PO2 ~30mmHg). Fetal hemoglobin (HbF) has higher oxygen affinity than adult hemoglobin (HbA), facilitating oxygen transfer. CO2 also crosses by simple diffusion (in reverse direction). Glucose: facilitated diffusion. Amino acids: active transport. IgG: pinocytosis."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Which immunoglobulin crosses the placenta?",
+    "options": [
+      "IgA",
+      "IgM",
+      "IgG",
+      "IgE"
+    ],
+    "correct": "C",
+    "rationale": "Only IgG crosses the placenta (by active pinocytosis via Fc receptors on syncytiotrophoblast). This provides passive immunity to the newborn for first 3-6 months of life. IgM does NOT cross (large pentamer) - if IgM is found in cord blood, it indicates fetal infection (TORCH). IgA is in breast milk (mucosal immunity). Maternal IgG anti-D can cross and cause hemolytic disease."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "The main source of amniotic fluid in the second half of pregnancy is:",
+    "options": [
+      "Maternal plasma transudate",
+      "Fetal urine",
+      "Fetal lung fluid",
+      "Umbilical cord secretions"
+    ],
+    "correct": "B",
+    "rationale": "Sources of amniotic fluid change with gestation: Early pregnancy: mainly transudate from maternal plasma across fetal membranes and fetal skin. After 16 weeks: FETAL URINE becomes the main source (400-1200 mL/day at term). Fetal lung fluid also contributes. Regulation: fetal swallowing (removes fluid) + fetal urination (adds fluid). Imbalance = oligo/polyhydramnios."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "The safe analgesic drug in pregnancy is:",
+    "options": [
+      "Aspirin",
+      "Paracetamol (Acetaminophen)",
+      "Ibuprofen",
+      "Diclofenac"
+    ],
+    "correct": "B",
+    "rationale": "Paracetamol (acetaminophen) is the SAFEST analgesic/antipyretic in pregnancy (all trimesters). NSAIDs (ibuprofen, diclofenac): avoid in 3rd trimester (cause premature closure of ductus arteriosus, oligohydramnios). Aspirin: low-dose (75-150mg) is safe and used for preeclampsia prevention; high-dose avoided. Opioids: use with caution (neonatal withdrawal)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "The antibiotic SAFE in pregnancy is:",
+    "options": [
+      "Tetracycline",
+      "Penicillin/Amoxicillin",
+      "Streptomycin",
+      "Ciprofloxacin"
+    ],
+    "correct": "B",
+    "rationale": "Safe antibiotics in pregnancy: Penicillins (amoxicillin, ampicillin), Cephalosporins, Erythromycin (not estolate), Azithromycin. AVOID: Tetracycline (teeth discoloration, bone growth inhibition), Aminoglycosides/Streptomycin (ototoxicity - 8th nerve damage), Fluoroquinolones (cartilage damage), Chloramphenicol (gray baby syndrome), Sulfonamides (kernicterus near term)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Warfarin in pregnancy causes:",
+    "options": [
+      "Limb defects",
+      "Nasal hypoplasia and stippled epiphyses (warfarin embryopathy)",
+      "Neural tube defects",
+      "Cardiac defects only"
+    ],
+    "correct": "B",
+    "rationale": "Warfarin embryopathy (1st trimester exposure, especially weeks 6-9): nasal hypoplasia (underdeveloped nasal bridge), stippled epiphyses (chondrodysplasia punctata), limb hypoplasia, CNS abnormalities. Warfarin crosses placenta (unlike heparin). Safe alternative: LMWH (enoxaparin) or unfractionated heparin (do NOT cross placenta - large molecules)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "The Bishop score is used to assess:",
+    "options": [
+      "Fetal well-being",
+      "Cervical favorability for induction of labor",
+      "Placental function",
+      "Amniotic fluid volume"
+    ],
+    "correct": "B",
+    "rationale": "Bishop score: assesses cervical readiness for induction of labor. Parameters (each scored 0-3): Dilatation, Effacement, Station, Consistency, Position of cervix. Score >=6 (favorable) = good chance of successful induction. Score <6 (unfavorable) = cervical ripening needed first (prostaglandins/Foley catheter). Maximum score = 13."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Carpal tunnel syndrome in pregnancy is due to:",
+    "options": [
+      "Calcium deficiency",
+      "Fluid retention causing median nerve compression",
+      "Vitamin B12 deficiency",
+      "Cervical disc prolapse"
+    ],
+    "correct": "B",
+    "rationale": "Carpal tunnel syndrome: common in pregnancy (25%) due to fluid retention/edema compressing the median nerve in the carpal tunnel. Symptoms: numbness, tingling, pain in thumb, index, middle finger (median nerve distribution). Usually bilateral. Resolves after delivery. Management: wrist splints, especially at night. Surgery rarely needed."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Pregnancy is considered diabetogenic because of:",
+    "options": [
+      "Increased insulin production",
+      "Insulin resistance caused by hPL, cortisol, and progesterone",
+      "Decreased glucose production",
+      "Increased glucose excretion"
+    ],
+    "correct": "B",
+    "rationale": "Pregnancy = diabetogenic state: hPL (human placental lactogen), cortisol, progesterone, and prolactin cause progressive insulin resistance (especially 2nd/3rd trimester). Purpose: ensures glucose availability for fetus. Mother compensates by increasing insulin production. If pancreas cannot compensate = gestational diabetes mellitus (GDM). Resolves after delivery in most cases."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Complete abortion is characterized by:",
+    "options": [
+      "Open cervical os with retained products",
+      "All products of conception expelled, os closed, bleeding stopped",
+      "Fetus dead but retained in uterus",
+      "Cervix dilated with bulging membranes"
+    ],
+    "correct": "B",
+    "rationale": "Complete abortion: ALL products of conception have been expelled. Cervical os is CLOSED. Bleeding has stopped or is minimal. Uterus is smaller than expected. No surgical intervention needed. Confirm with ultrasound (empty uterus, thin endometrium). More common in early pregnancies (<8 weeks). Follow up with beta-hCG to ensure it falls to zero."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "The chemotherapy drug of choice for low-risk gestational trophoblastic neoplasia is:",
+    "options": [
+      "Cisplatin",
+      "Methotrexate (or Actinomycin-D)",
+      "Cyclophosphamide",
+      "5-Fluorouracil"
+    ],
+    "correct": "B",
+    "rationale": "Low-risk GTN (WHO score <7): single-agent chemotherapy with Methotrexate (preferred, less toxic) or Actinomycin-D. Cure rate >95%. High-risk GTN (score >=7): multi-agent chemotherapy (EMA-CO regimen: Etoposide, Methotrexate, Actinomycin-D, Cyclophosphamide, Vincristine). GTN is one of the most curable cancers even with metastatic disease."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Chronic ectopic pregnancy can form a mass called:",
+    "options": [
+      "Chocolate cyst",
+      "Pelvic hematocele",
+      "Dermoid cyst",
+      "Bartholin cyst"
+    ],
+    "correct": "B",
+    "rationale": "Chronic ectopic: slow leakage of blood from tube forms a pelvic hematocele (organized blood collection in pouch of Douglas). Presents as: pelvic mass, chronic pelvic pain, irregular bleeding, low-grade fever. Can mimic ovarian tumor or tubo-ovarian abscess. Diagnosis often made at surgery. Different from acute ruptured ectopic (sudden collapse)."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "The luteo-placental shift occurs at:",
+    "options": [
+      "6 weeks",
+      "10-12 weeks",
+      "20 weeks",
+      "28 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Luteo-placental shift: at 10-12 weeks, the PLACENTA takes over progesterone production from the corpus luteum. Before this, corpus luteum is essential (maintained by hCG). After 12 weeks, removal of corpus luteum (oophorectomy) will NOT cause abortion because placenta produces sufficient progesterone. This is why hCG peaks at 8-10 weeks then declines."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Chorionic villus sampling (CVS) is performed at:",
+    "options": [
+      "6-8 weeks",
+      "10-12 weeks",
+      "16-18 weeks",
+      "24-28 weeks"
+    ],
+    "correct": "B",
+    "rationale": "CVS: biopsy of chorionic villi (placental tissue) at 10-12 weeks. Advantage over amniocentesis: earlier diagnosis (amniocentesis at 15-18 weeks). Provides fetal karyotype, DNA analysis, enzyme assays. Risk: miscarriage 1-2% (slightly higher than amniocentesis). Cannot detect neural tube defects (no AFP measurement). Done transcervically or transabdominally under USG guidance."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "A third-degree perineal tear involves:",
+    "options": [
+      "Vaginal mucosa only",
+      "Perineal muscles only",
+      "External anal sphincter",
+      "Rectal mucosa"
+    ],
+    "correct": "C",
+    "rationale": "Perineal tear classification: 1st degree = vaginal mucosa/perineal skin only. 2nd degree = perineal muscles (but NOT anal sphincter). 3rd degree = external anal sphincter torn (3a: <50%, 3b: >50%, 3c: internal anal sphincter also). 4th degree = anal sphincter + rectal mucosa torn. 3rd/4th degree = obstetric anal sphincter injuries (OASIS) - require expert repair."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "The most common type of episiotomy performed in India is:",
+    "options": [
+      "Median (midline)",
+      "Mediolateral",
+      "Lateral",
+      "J-shaped"
+    ],
+    "correct": "B",
+    "rationale": "Mediolateral episiotomy: most common in India and UK. Starts at midpoint of fourchette, directed posterolaterally at 45-60 degrees (avoiding anal sphincter). Advantages: less risk of 3rd/4th degree extension. Disadvantages: more bleeding, more pain, harder to repair. Median episiotomy (USA): less bleeding/pain but higher risk of sphincter injury."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Which artery is ligated first in post-partum hemorrhage (PPH)?",
+    "options": [
+      "Ovarian artery",
+      "Uterine artery",
+      "Internal iliac artery",
+      "External iliac artery"
+    ],
+    "correct": "B",
+    "rationale": "Stepwise arterial ligation for PPH: 1st = Uterine artery (main supply to uterus). 2nd = Ovarian artery (if uterine ligation fails). 3rd = Anterior division of internal iliac artery (last resort before hysterectomy). Uterine artery ligation is done at the level of lower uterine segment, taking care to avoid the ureter which crosses underneath."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The investigation used to visualize the cervix under magnification is:",
+    "options": [
+      "Hysteroscopy",
+      "Colposcopy",
+      "Laparoscopy",
+      "Cystoscopy"
+    ],
+    "correct": "B",
+    "rationale": "Colposcopy: examination of cervix under magnification (6-40x) after applying acetic acid (3-5%). Acetic acid turns abnormal areas white (acetowhite epithelium). Used for: evaluation of abnormal Pap smear, visualization of transformation zone, guided biopsy of suspicious areas. NOT a screening test - it follows an abnormal screening result."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The length of the vagina is:",
+    "options": [
+      "3-4 cm",
+      "7-9 cm (anterior wall shorter than posterior)",
+      "12-15 cm",
+      "20 cm"
+    ],
+    "correct": "B",
+    "rationale": "Vaginal length: anterior wall = 7 cm, posterior wall = 9 cm (posterior is longer because cervix projects into upper vagina anteriorly). The vagina is a fibromuscular canal extending from vestibule to cervix. It is highly distensible (accommodates delivery). Axis: directed upward and backward (almost parallel to pelvic inlet plane)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Androgen insensitivity syndrome (testicular feminization) has karyotype:",
+    "options": [
+      "46 XX",
+      "46 XY with female phenotype",
+      "45 XO",
+      "47 XXY"
+    ],
+    "correct": "B",
+    "rationale": "Androgen insensitivity syndrome (AIS): 46 XY karyotype but FEMALE external phenotype. Testes present (produce testosterone) but androgen receptors are non-functional. Mullerian structures absent (AMH from testes causes regression). Presents: primary amenorrhea, absent uterus, blind vaginal pouch, breast development (testosterone aromatized to estrogen), absent/sparse pubic hair."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The blastocyst is formed on which day after fertilization?",
+    "options": [
+      "Day 1-2",
+      "Day 5-6",
+      "Day 10",
+      "Day 14"
+    ],
+    "correct": "B",
+    "rationale": "Blastocyst forms on Day 5-6 after fertilization. It has: outer layer (trophoblast - becomes placenta), inner cell mass (embryoblast - becomes embryo), and fluid-filled cavity (blastocele). Trophoblast differentiates into: cytotrophoblast (inner, mitotically active) and syncytiotrophoblast (outer, invasive, produces hCG). Implantation begins when blastocyst attaches to endometrium."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Functions of the placenta include all EXCEPT:",
+    "options": [
+      "Gas exchange (respiratory function)",
+      "Nutrient transfer",
+      "Hormone production",
+      "Hematopoiesis"
+    ],
+    "correct": "D",
+    "rationale": "Placental functions: 1) Respiratory (O2/CO2 exchange), 2) Nutritive (glucose, amino acids, vitamins), 3) Excretory (removes fetal waste - urea, creatinine), 4) Endocrine (hCG, hPL, estrogen, progesterone), 5) Immunological (IgG transfer, barrier to most pathogens), 6) Storage (glycogen, iron). Hematopoiesis occurs in fetal liver and bone marrow, NOT placenta."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Premature rupture of membranes (PROM) is confirmed by:",
+    "options": [
+      "Ultrasound only",
+      "Nitrazine test (pH >7) and ferning test",
+      "Blood test",
+      "Urine test"
+    ],
+    "correct": "B",
+    "rationale": "PROM diagnosis: 1) Nitrazine test: amniotic fluid is alkaline (pH 7.0-7.25) turns nitrazine paper blue (vaginal pH is acidic 4-4.5). 2) Ferning test: dried amniotic fluid shows fern-leaf crystallization pattern (like estrogen-influenced cervical mucus). 3) Pooling: visible fluid in posterior fornix. 4) IGFBP-1 or PAMG-1 tests (newer, more specific)."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "The WHO-recommended method for first trimester surgical abortion is:",
+    "options": [
+      "Dilatation and curettage (sharp curettage)",
+      "Manual vacuum aspiration (MVA) or electric vacuum aspiration",
+      "Hysterotomy",
+      "Laparoscopy"
+    ],
+    "correct": "B",
+    "rationale": "WHO recommends vacuum aspiration (manual or electric) over sharp curettage for first trimester abortion. MVA: uses handheld syringe creating negative pressure. Advantages over D&C: less blood loss, less pain, fewer complications (perforation, Asherman syndrome), can be done under local anesthesia, outpatient procedure. Sharp curettage is now considered outdated for this purpose."
+  },
+  {
+    "section": "1: ANATOMY PART-1 - VULVA (External Genitalia)",
+    "question": "The pudendal nerve is derived from which spinal segments?",
+    "options": [
+      "L1-L2",
+      "S2-S3-S4",
+      "T10-T12",
+      "L4-L5"
+    ],
+    "correct": "B",
+    "rationale": "Pudendal nerve: S2, S3, S4 (mnemonic: S2-3-4 keeps the pee off the floor). It exits pelvis through greater sciatic foramen, hooks around ischial spine, re-enters through lesser sciatic foramen into Alcock's canal. Supplies: motor to perineal muscles, sensory to vulva/perineum. Pudendal nerve block is given near ischial spine."
+  },
+  {
+    "section": "1: ANATOMY PART-1 - VULVA (External Genitalia)",
+    "question": "Pudendal nerve block is given at which anatomical landmark?",
+    "options": [
+      "Pubic symphysis",
+      "Ischial spine",
+      "Sacral promontory",
+      "Ischial tuberosity"
+    ],
+    "correct": "B",
+    "rationale": "Pudendal nerve block: local anesthetic injected near the ISCHIAL SPINE (where pudendal nerve passes). Done transvaginally - finger palpates ischial spine through vaginal wall, needle directed to it. Provides anesthesia for: outlet forceps delivery, episiotomy, perineal repair. Does NOT provide anesthesia for uterine contractions."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "The urogenital triangle of the perineum contains:",
+    "options": [
+      "Anal canal and ischiorectal fossa",
+      "External genitalia and urethra",
+      "Rectum only",
+      "Coccyx and sacrum"
+    ],
+    "correct": "B",
+    "rationale": "Urogenital triangle (anterior): contains external genitalia (vulva), urethra, vaginal opening, perineal muscles, Bartholin glands. Anal triangle (posterior): contains anal canal, external anal sphincter, ischiorectal fossa (fat-filled space). The dividing line between the two triangles passes through both ischial tuberosities."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "Fourth-degree perineal tear involves damage to:",
+    "options": [
+      "Vaginal mucosa only",
+      "Perineal muscles but not sphincter",
+      "External anal sphincter only",
+      "Anal sphincter AND rectal mucosa"
+    ],
+    "correct": "D",
+    "rationale": "4th degree tear: most severe - involves perineal skin, vaginal mucosa, perineal muscles, external AND internal anal sphincter, AND rectal mucosa (full thickness into anal canal). Requires repair in operating theater by experienced surgeon. Complications if not repaired: rectovaginal fistula, fecal incontinence, chronic perineal pain."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "The maximum number of follicles in the ovary is seen at:",
+    "options": [
+      "Birth",
+      "5 months of intrauterine life (6-7 million)",
+      "Puberty",
+      "20 years of age"
+    ],
+    "correct": "B",
+    "rationale": "Peak follicle count: 6-7 million at 20 weeks (5 months) of intrauterine life. Then progressive atresia: Birth = 2 million. Puberty = 400,000. Menopause = few hundred. Only ~400 follicles will ovulate in a lifetime. Rate of atresia accelerates after age 37 (fertility decline). AMH and antral follicle count reflect remaining reserve."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "Hydrosalpinx refers to:",
+    "options": [
+      "Blood in the fallopian tube",
+      "Fluid-filled distended fallopian tube",
+      "Pus in the fallopian tube",
+      "Air in the fallopian tube"
+    ],
+    "correct": "B",
+    "rationale": "Hydrosalpinx: fallopian tube distended with clear/serous fluid (blocked fimbrial end). Cause: previous PID, endometriosis, surgery. Hematosalpinx: blood-filled tube (ectopic pregnancy, endometriosis). Pyosalpinx: pus-filled tube (acute PID). Hydrosalpinx reduces IVF success (toxic fluid refluxes into uterus) - salpingectomy before IVF improves outcomes."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The weight of the uterus at term pregnancy is:",
+    "options": [
+      "500 gm",
+      "1000 gm",
+      "1500 gm",
+      "2000 gm"
+    ],
+    "correct": "B",
+    "rationale": "Uterine weight: Non-pregnant = 60-80 gm. At term = 1000 gm (increases 15-17 times). This increase is due to: hypertrophy of existing muscle fibers (main factor) + some hyperplasia + increased connective tissue and blood vessels. After delivery, uterus involutes back to near-normal size by 6 weeks (involution)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Septate uterus is the uterine anomaly most commonly associated with:",
+    "options": [
+      "Infertility",
+      "Recurrent pregnancy loss",
+      "Ectopic pregnancy",
+      "Cervical cancer"
+    ],
+    "correct": "B",
+    "rationale": "Septate uterus: most common Mullerian anomaly AND most commonly associated with recurrent pregnancy loss (poor blood supply to septum = implantation failure/early loss). Treatment: hysteroscopic septum resection (metroplasty) - improves pregnancy outcomes significantly. Bicornuate uterus: associated with preterm labor and malpresentation rather than early loss."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The cervix is mainly supported by which ligament?",
+    "options": [
+      "Round ligament",
+      "Broad ligament",
+      "Cardinal (Mackenrodt's) ligament",
+      "Ovarian ligament"
+    ],
+    "correct": "C",
+    "rationale": "Cardinal ligament (transverse cervical/Mackenrodt's ligament): provides the PRIMARY support to the cervix and upper vagina. It is a condensation of pelvic fascia extending from cervix to lateral pelvic wall. Contains uterine artery and ureter. Damage during childbirth or surgery leads to uterovaginal prolapse. Uterosacral ligaments provide secondary support."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The cervical canal is lined by:",
+    "options": [
+      "Stratified squamous epithelium",
+      "Columnar epithelium (mucus-secreting)",
+      "Transitional epithelium",
+      "Keratinized epithelium"
+    ],
+    "correct": "B",
+    "rationale": "Endocervical canal: lined by COLUMNAR epithelium (mucus-secreting). Ectocervix: lined by stratified squamous epithelium. The junction between them = squamocolumnar junction (transformation zone) - site of cervical cancer origin. Cervical mucus properties change with hormones: thin/watery at ovulation (estrogen), thick/viscous in luteal phase (progesterone)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "The Wolffian (mesonephric) duct in males forms:",
+    "options": [
+      "Uterus and fallopian tubes",
+      "Seminal vesicles, epididymis, ejaculatory duct, vas deferens",
+      "Prostate gland",
+      "External genitalia"
+    ],
+    "correct": "B",
+    "rationale": "Wolffian duct forms male internal genital organs: SEED mnemonic - Seminal vesicles, Epididymis, Ejaculatory duct, Vas Deferens (Ductus deferens). In females, Wolffian duct regresses (remnants: Gartner's duct cyst in vaginal wall, epoophoron, paroophoron near ovary). Mullerian duct forms female internal organs and regresses in males (due to AMH from Sertoli cells)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Gartner's duct cyst is a remnant of:",
+    "options": [
+      "Mullerian duct",
+      "Wolffian (mesonephric) duct",
+      "Urogenital sinus",
+      "Genital ridge"
+    ],
+    "correct": "B",
+    "rationale": "Gartner's duct cyst: remnant of Wolffian (mesonephric) duct in females. Located in the anterolateral wall of vagina. Usually asymptomatic, found incidentally. Benign cystic swelling. Other Wolffian remnants in females: epoophoron (near ovary, between tube and ovary in mesosalpinx), paroophoron. These are non-functional vestigial structures."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "In a 35-day menstrual cycle, ovulation occurs on which day?",
+    "options": [
+      "Day 14",
+      "Day 17",
+      "Day 21",
+      "Day 28"
+    ],
+    "correct": "C",
+    "rationale": "Luteal phase is ALWAYS 14 days. So: Day of ovulation = Cycle length - 14. For 35-day cycle: 35 - 14 = Day 21. For 28-day cycle: 28 - 14 = Day 14. For 21-day cycle: 21 - 14 = Day 7. This principle is used in rhythm method of contraception and for timing intercourse in infertility."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "The endometrium during the proliferative phase is under the influence of:",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "LH",
+      "hCG"
+    ],
+    "correct": "B",
+    "rationale": "Proliferative phase (follicular phase, Day 5-14): ESTROGEN from growing follicles causes endometrial proliferation - glands become straight and tubular, stroma becomes edematous, spiral arteries grow. Endometrium thickens from 1mm to 3-5mm. After ovulation, PROGESTERONE converts it to secretory phase (glands become tortuous/corkscrew, filled with glycogen)."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "DUB (Dysfunctional Uterine Bleeding) is a diagnosis of:",
+    "options": [
+      "Inclusion - specific cause identified",
+      "Exclusion - no organic cause found",
+      "Only in postmenopausal women",
+      "Only in prepubertal girls"
+    ],
+    "correct": "B",
+    "rationale": "DUB: abnormal uterine bleeding with NO identifiable organic cause (no polyps, fibroids, cancer, pregnancy, coagulopathy, thyroid disease). It is a diagnosis of EXCLUSION. Most commonly anovulatory (90%) - seen at extremes of reproductive age (puberty, perimenopause). Treatment: hormonal (OCPs, progesterone) or surgical (endometrial ablation, hysterectomy)."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Hematocolpos is defined as:",
+    "options": [
+      "Blood in the uterus",
+      "Blood collected in the vagina",
+      "Blood in the fallopian tube",
+      "Blood in the peritoneal cavity"
+    ],
+    "correct": "B",
+    "rationale": "Hematocolpos: collection of menstrual blood in the VAGINA (due to imperforate hymen or transverse vaginal septum). Hematometra: blood in uterus. Hematosalpinx: blood in fallopian tube. Sequence in imperforate hymen: hematocolpos first, then hematometra (uterus fills), then hematosalpinx (tubes fill). Treatment: cruciate incision of hymen."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "The hormone responsible for milk ejection (let-down reflex) is:",
+    "options": [
+      "Prolactin",
+      "Oxytocin",
+      "Estrogen",
+      "Progesterone"
+    ],
+    "correct": "B",
+    "rationale": "Oxytocin: causes contraction of myoepithelial cells around mammary alveoli = milk EJECTION (let-down). Prolactin: causes milk PRODUCTION (synthesis). Both are needed for successful breastfeeding. Suckling stimulus triggers both: oxytocin from posterior pituitary (immediate) and prolactin from anterior pituitary. Stress/anxiety inhibits oxytocin release (poor let-down)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Prolactin is released from:",
+    "options": [
+      "Posterior pituitary",
+      "Anterior pituitary",
+      "Hypothalamus",
+      "Breast tissue"
+    ],
+    "correct": "B",
+    "rationale": "Prolactin: released from ANTERIOR pituitary (lactotroph cells). Unique among pituitary hormones: under tonic INHIBITION by dopamine from hypothalamus (not stimulation). Dopamine antagonists (metoclopramide, antipsychotics) increase prolactin = galactorrhea. Dopamine agonists (bromocriptine, cabergoline) decrease prolactin = treatment for prolactinoma."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Hyperprolactinemia causes infertility by:",
+    "options": [
+      "Directly damaging ovaries",
+      "Inhibiting GnRH pulsatility causing anovulation",
+      "Causing uterine atrophy",
+      "Blocking implantation"
+    ],
+    "correct": "B",
+    "rationale": "High prolactin inhibits pulsatile GnRH release from hypothalamus, leading to decreased FSH/LH = anovulation and amenorrhea. Presentation: amenorrhea + galactorrhea + infertility. Causes: prolactinoma (most common pathological), drugs (antipsychotics, metoclopramide), hypothyroidism (TRH stimulates prolactin). Treatment: cabergoline (dopamine agonist)."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The acrosome reaction in sperm is necessary for:",
+    "options": [
+      "Sperm motility",
+      "Penetration of zona pellucida",
+      "Capacitation",
+      "Sperm production"
+    ],
+    "correct": "B",
+    "rationale": "Acrosome reaction: release of enzymes (hyaluronidase, acrosin) from the acrosome (cap of sperm head) that digest the zona pellucida allowing sperm to penetrate. Occurs AFTER capacitation and binding to ZP3 receptor. Without acrosome reaction, sperm cannot enter the oocyte. This is why only capacitated sperm can fertilize."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "Ectopic implantation in the cervix is called:",
+    "options": [
+      "Placenta previa",
+      "Cervical pregnancy",
+      "Cervical incompetence",
+      "Cervical ectropion"
+    ],
+    "correct": "B",
+    "rationale": "Cervical pregnancy: implantation in the cervical canal. Very rare (<1% of ectopics) but dangerous due to risk of massive hemorrhage (cervix cannot contract like myometrium). Diagnosis: USG shows gestational sac below internal os within cervix. Treatment: methotrexate (if early), uterine artery embolization, cervical cerclage to tamponade bleeding. Hysterectomy may be needed."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Placental abruption (abruptio placentae) presents with:",
+    "options": [
+      "Painless bright red bleeding",
+      "Painful bleeding with tender, rigid uterus (board-like)",
+      "Bleeding only during labor",
+      "Painless dark bleeding"
+    ],
+    "correct": "B",
+    "rationale": "Placental abruption: premature separation of normally implanted placenta. Classic presentation: PAINFUL vaginal bleeding + tender rigid (board-like/woody) uterus + fetal distress. Can be concealed (no visible bleeding - blood trapped behind placenta). Causes: hypertension (most common), trauma, smoking, cocaine, short cord. Complications: DIC, renal failure, Couvelaire uterus."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Couvelaire uterus is seen in:",
+    "options": [
+      "Placenta previa",
+      "Severe placental abruption (blood infiltrates myometrium)",
+      "Uterine rupture",
+      "Molar pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "Couvelaire uterus (uteroplacental apoplexy): blood from abruption infiltrates into myometrium giving the uterus a purple/blue discolored appearance. The myometrium becomes edematous and unable to contract properly (atonic) = postpartum hemorrhage. Seen in severe abruption. Usually discovered at cesarean section. May require hysterectomy if uterus remains atonic."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Potter syndrome is associated with:",
+    "options": [
+      "Polyhydramnios",
+      "Severe oligohydramnios (bilateral renal agenesis)",
+      "Normal amniotic fluid",
+      "Meconium-stained fluid"
+    ],
+    "correct": "B",
+    "rationale": "Potter syndrome (Potter sequence): bilateral renal agenesis = no fetal urine = severe oligohydramnios. Features: flattened face (Potter facies), limb deformities (compressed), pulmonary hypoplasia (most common cause of death - lungs need fluid for development). Incompatible with life. Also called Potter sequence because renal agenesis leads to the cascade of problems."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "The 'all-or-none' phenomenon in teratology refers to:",
+    "options": [
+      "All organs are affected or none",
+      "In first 2 weeks, exposure either kills embryo or has no effect",
+      "Teratogens affect all pregnancies equally",
+      "All drugs are teratogenic"
+    ],
+    "correct": "B",
+    "rationale": "All-or-none period: first 2 weeks after fertilization (pre-implantation). Teratogen exposure either: kills the embryo (abortion) OR has no effect (surviving cells compensate - totipotent at this stage). No malformations result. After 2 weeks (organogenesis, weeks 3-8): teratogens cause specific structural defects depending on which organ is developing at that time."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Isotretinoin (vitamin A derivative) in pregnancy causes:",
+    "options": [
+      "Limb defects only",
+      "CNS, cardiac, and craniofacial defects",
+      "Renal defects only",
+      "No fetal effects"
+    ],
+    "correct": "B",
+    "rationale": "Isotretinoin (Accutane - used for severe acne): one of the most potent teratogens. Causes: microcephaly, hydrocephalus, CNS defects, cardiac defects (conotruncal), craniofacial abnormalities (microtia, cleft palate), thymic aplasia. FDA Category X. Must use 2 forms of contraception during treatment. Pregnancy test required before starting. Wait 1 month after stopping before conceiving."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "The triple test in second trimester screening includes:",
+    "options": [
+      "NT, PAPP-A, free beta-hCG",
+      "AFP, hCG, unconjugated estriol",
+      "AFP, hCG, inhibin-A",
+      "AFP, PAPP-A, estriol"
+    ],
+    "correct": "B",
+    "rationale": "Triple test (15-20 weeks): AFP (decreased in Down), hCG (increased in Down), Unconjugated Estriol/uE3 (decreased in Down). Quadruple test adds: Inhibin-A (increased in Down). In Down syndrome: AFP LOW, hCG HIGH, uE3 LOW, Inhibin-A HIGH. Detection rate: Triple ~70%, Quadruple ~80%. Not diagnostic - only screening (positive result needs amniocentesis for confirmation)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Nuchal translucency (NT) scan is performed at:",
+    "options": [
+      "8-10 weeks",
+      "11-13+6 weeks",
+      "18-20 weeks",
+      "28-32 weeks"
+    ],
+    "correct": "B",
+    "rationale": "NT scan: measures fluid collection at back of fetal neck by USG at 11-13+6 weeks (CRL 45-84mm). Increased NT (>3mm or >95th percentile): associated with Down syndrome, other chromosomal abnormalities, cardiac defects, skeletal dysplasia. Combined with maternal serum markers (PAPP-A + free beta-hCG) = first trimester combined screening. Detection rate for Down: 85-90%."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "WBC count in pregnancy:",
+    "options": [
+      "Decreases",
+      "Increases (up to 15,000/mm3, higher in labor)",
+      "Remains unchanged",
+      "Increases only in infection"
+    ],
+    "correct": "B",
+    "rationale": "WBC count increases in pregnancy: normal up to 15,000/mm3 (can reach 25,000-30,000 during labor and early postpartum). Mainly neutrophilia. This physiological leukocytosis makes WBC count unreliable for diagnosing infection in pregnancy. CRP is a better marker of infection in pregnant women. Platelet count may slightly decrease (gestational thrombocytopenia)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Spider naevi and palmar erythema in pregnancy are due to:",
+    "options": [
+      "Liver disease",
+      "Hyperestrogenemia",
+      "Iron deficiency",
+      "Vitamin deficiency"
+    ],
+    "correct": "B",
+    "rationale": "Spider naevi (spider angiomas) and palmar erythema: caused by high ESTROGEN levels in pregnancy (estrogen causes arteriolar vasodilation). Seen in 60-70% of pregnant women. Appear in first trimester, resolve after delivery. Same findings in liver cirrhosis (impaired estrogen metabolism). In pregnancy they are PHYSIOLOGICAL and need no treatment."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Antiphospholipid syndrome (APS) causes recurrent pregnancy loss by:",
+    "options": [
+      "Chromosomal abnormalities",
+      "Thrombosis of placental vessels",
+      "Cervical incompetence",
+      "Uterine anomalies"
+    ],
+    "correct": "B",
+    "rationale": "APS: autoimmune condition with anticardiolipin antibodies and/or lupus anticoagulant. Causes thrombosis in placental vessels leading to: recurrent pregnancy loss (especially 2nd trimester), IUGR, preeclampsia, placental abruption. Diagnosis: positive antibodies on 2 occasions 12 weeks apart + clinical criteria. Treatment: low-dose aspirin + LMWH (heparin) throughout pregnancy."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Heterotopic pregnancy refers to:",
+    "options": [
+      "Bilateral tubal ectopic",
+      "Simultaneous intrauterine and ectopic pregnancy",
+      "Ectopic in unusual location",
+      "Recurrent ectopic pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "Heterotopic pregnancy: coexistence of intrauterine pregnancy AND ectopic pregnancy simultaneously. Rare naturally (1:30,000) but increasing with IVF/ART (1:100). Diagnosis is challenging because presence of intrauterine pregnancy gives false reassurance. Treatment: surgical removal of ectopic while preserving intrauterine pregnancy. Methotrexate CANNOT be used (would harm intrauterine pregnancy)."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "The ultrasound appearance of complete molar pregnancy is described as:",
+    "options": [
+      "Normal gestational sac",
+      "Snowstorm pattern (multiple echogenic areas)",
+      "Empty uterus",
+      "Solid mass"
+    ],
+    "correct": "B",
+    "rationale": "Complete mole on USG: classic 'snowstorm' or 'cluster of grapes' appearance - multiple small cystic spaces (hydropic villi) filling the uterine cavity with no fetal parts. Modern high-resolution USG may show individual vesicles. No fetal pole or cardiac activity. Bilateral theca lutein cysts may be seen in ovaries. Partial mole may show some fetal parts with focal cystic changes."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "Tubal patency can be assessed by:",
+    "options": [
+      "Pap smear",
+      "Hysterosalpingography (HSG)",
+      "Colposcopy",
+      "Culdocentesis"
+    ],
+    "correct": "B",
+    "rationale": "HSG (Hysterosalpingography): radio-opaque dye injected through cervix, X-ray taken to visualize uterine cavity and tubal patency. Dye spilling from fimbrial end = patent tube. Also detects: uterine anomalies, polyps, synechiae. Done in follicular phase (Day 6-10). Alternatives: sonosalpingography (saline + USG), laparoscopy with chromopertubation (gold standard)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The internal os of the cervix is at the level of:",
+    "options": [
+      "Isthmus",
+      "External os",
+      "Fundus",
+      "Vaginal fornix"
+    ],
+    "correct": "A",
+    "rationale": "Internal os: junction between uterine body and cervical canal (at the level of isthmus). External os: opening of cervix into vagina. In nullipara: external os is circular/pinhole. In multipara: external os is transverse slit (due to cervical tears during delivery). Internal os is the site of cervical cerclage placement."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The most common organism maintaining vaginal acidity is:",
+    "options": [
+      "E. coli",
+      "Lactobacillus (Doderlein's bacillus)",
+      "Streptococcus",
+      "Candida"
+    ],
+    "correct": "B",
+    "rationale": "Lactobacillus acidophilus (Doderlein's bacillus): dominant vaginal flora in reproductive-age women. Converts glycogen (deposited in vaginal epithelium under estrogen influence) to lactic acid and hydrogen peroxide. Maintains pH 4-4.5. Disruption (antibiotics, douching, menstruation) allows pathogenic overgrowth: bacterial vaginosis (Gardnerella), candidiasis."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Anovulatory cycles are most common at:",
+    "options": [
+      "Age 20-30 years",
+      "Extremes of reproductive age (puberty and perimenopause)",
+      "Only during pregnancy",
+      "Only in PCOS"
+    ],
+    "correct": "B",
+    "rationale": "Anovulatory cycles: most common at extremes of reproductive life. At puberty: immature HPO axis (first 1-2 years after menarche). At perimenopause: declining ovarian function. Result: irregular cycles, DUB (dysfunctional uterine bleeding). In reproductive years: anovulation suggests PCOS, hyperprolactinemia, thyroid disorders, stress, or excessive exercise."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "PCOS (Polycystic Ovary Syndrome) is characterized by all EXCEPT:",
+    "options": [
+      "Oligomenorrhea/amenorrhea",
+      "Hyperandrogenism (acne, hirsutism)",
+      "Polycystic ovaries on ultrasound",
+      "Low LH:FSH ratio"
+    ],
+    "correct": "D",
+    "rationale": "PCOS features (Rotterdam criteria - 2 of 3): 1) Oligo/anovulation, 2) Hyperandrogenism (clinical or biochemical), 3) Polycystic ovaries on USG (>=12 follicles 2-9mm or volume >10mL). LH:FSH ratio is HIGH (reversed, typically >2:1) not low. Other features: insulin resistance, obesity, acanthosis nigricans, infertility. Most common endocrine disorder in reproductive-age women."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Danazol is used in the treatment of endometriosis. It acts by:",
+    "options": [
+      "Increasing estrogen",
+      "Creating a pseudomenopause (suppresses HPO axis) with androgenic effects",
+      "Stimulating ovulation",
+      "Increasing progesterone"
+    ],
+    "correct": "B",
+    "rationale": "Danazol: synthetic androgen (derivative of 17-alpha-ethinyltestosterone). Suppresses HPO axis creating pseudomenopause + has direct androgenic and anti-estrogenic effects. Causes endometrial atrophy. Side effects: weight gain, acne, hirsutism, voice deepening, hepatotoxicity. Now less used due to androgenic side effects. Alternatives: GnRH agonists, dienogest, OCPs."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The inner cell mass of the blastocyst gives rise to:",
+    "options": [
+      "Placenta",
+      "Embryo proper",
+      "Chorion",
+      "Decidua"
+    ],
+    "correct": "B",
+    "rationale": "Blastocyst has 2 cell populations: 1) INNER CELL MASS (embryoblast) = gives rise to the embryo proper (all fetal tissues). 2) OUTER CELL MASS (trophoblast) = gives rise to placenta and fetal membranes (chorion). Trophoblast differentiates into: cytotrophoblast (Langhans layer) and syncytiotrophoblast (invasive, hormone-producing). This distinction is fundamental to embryology."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Wharton's jelly in the umbilical cord is:",
+    "options": [
+      "A type of blood vessel",
+      "Mucoid connective tissue protecting umbilical vessels",
+      "A nerve plexus",
+      "Amniotic fluid"
+    ],
+    "correct": "B",
+    "rationale": "Wharton's jelly: specialized mucoid connective tissue (mesenchymal mucous tissue) surrounding the 2 arteries and 1 vein in the umbilical cord. Functions: protects vessels from compression, kinking, and torsion. Rich in hyaluronic acid. Absence or deficiency: thin cord, vulnerable to compression (variable decelerations on CTG). Now studied as source of mesenchymal stem cells."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "In which condition is beta-hCG level disproportionately high?",
+    "options": [
+      "Ectopic pregnancy",
+      "Complete hydatidiform mole",
+      "Threatened abortion",
+      "Missed abortion"
+    ],
+    "correct": "B",
+    "rationale": "Disproportionately high hCG: Complete molar pregnancy (can be >100,000 mIU/mL), Choriocarcinoma, Multiple pregnancy. In ectopic: hCG rises suboptimally (does not double in 48 hours). In missed abortion: hCG falls or plateaus. In threatened abortion: hCG may be normal or slightly low. Very high hCG also causes hyperemesis gravidarum and early preeclampsia in molar pregnancy."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "The shake test (foam stability test) is used to assess:",
+    "options": [
+      "Amniotic fluid infection",
+      "Fetal lung maturity",
+      "Chromosomal abnormalities",
+      "Neural tube defects"
+    ],
+    "correct": "B",
+    "rationale": "Shake test (foam/bubble stability test): bedside test for fetal lung maturity. Amniotic fluid mixed with ethanol and shaken - if stable ring of bubbles persists at air-liquid interface for 15 minutes = surfactant adequate = mature lungs. Quick, cheap alternative to L/S ratio. Positive test reliably predicts maturity; negative test needs confirmation with L/S ratio."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Fetal hemoglobin (HbF) differs from adult hemoglobin (HbA) in that HbF:",
+    "options": [
+      "Has lower oxygen affinity",
+      "Has higher oxygen affinity (shifts O2 dissociation curve to left)",
+      "Cannot carry oxygen",
+      "Is identical to HbA"
+    ],
+    "correct": "B",
+    "rationale": "HbF (alpha2-gamma2) has HIGHER oxygen affinity than HbA (alpha2-beta2) - oxygen dissociation curve shifted LEFT. This allows fetus to extract oxygen from maternal blood across placenta (fetal PO2 ~30mmHg vs maternal ~100mmHg). HbF does not bind 2,3-DPG well (which normally decreases O2 affinity). HbF gradually replaced by HbA after birth (complete by 6 months)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Non-stress test (NST) in pregnancy assesses:",
+    "options": [
+      "Uterine contractions",
+      "Fetal heart rate response to fetal movements",
+      "Amniotic fluid volume",
+      "Placental blood flow"
+    ],
+    "correct": "B",
+    "rationale": "NST (Non-stress test): monitors fetal heart rate (FHR) in response to fetal movements using cardiotocography (CTG). REACTIVE (normal): >=2 accelerations of >=15 bpm lasting >=15 seconds in 20 minutes. NON-REACTIVE: absence of accelerations (may indicate fetal hypoxia/sleep - extend to 40 min or do vibroacoustic stimulation). Used for antepartum fetal surveillance from 28-32 weeks."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Biophysical profile (BPP) includes all EXCEPT:",
+    "options": [
+      "Fetal breathing movements",
+      "Fetal tone",
+      "Amniotic fluid volume",
+      "Maternal blood pressure"
+    ],
+    "correct": "D",
+    "rationale": "BPP (5 parameters, each scored 0 or 2, max 10): 1) NST (fetal heart rate reactivity), 2) Fetal breathing movements (>=1 episode of >=30 sec in 30 min), 3) Fetal body movements (>=3 in 30 min), 4) Fetal tone (>=1 extension-flexion), 5) Amniotic fluid volume (AFI or single deepest pocket >=2cm). Score 8-10 = normal. Score <=4 = deliver. Maternal BP is NOT part of BPP."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Edema of lower limbs in pregnancy is most commonly due to:",
+    "options": [
+      "Preeclampsia always",
+      "Compression of IVC and increased venous pressure",
+      "Renal failure",
+      "Heart failure"
+    ],
+    "correct": "B",
+    "rationale": "Physiological edema (80% of pregnant women): due to IVC compression by gravid uterus (increased venous pressure in lower limbs) + sodium and water retention + decreased plasma oncotic pressure (dilutional hypoalbuminemia). Worse in evening, relieved by elevation. PATHOLOGICAL edema: sudden onset, facial/generalized, associated with hypertension/proteinuria = preeclampsia."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Prostaglandin E1 analogue used for cervical ripening and medical abortion is:",
+    "options": [
+      "Dinoprostone",
+      "Misoprostol",
+      "Carboprost",
+      "Oxytocin"
+    ],
+    "correct": "B",
+    "rationale": "Misoprostol (PGE1 analogue): used for cervical ripening, labor induction, medical abortion, PPH treatment. Routes: oral, sublingual, vaginal, rectal. Advantages: cheap, stable at room temperature, multiple routes. Dinoprostone (PGE2): also for cervical ripening but expensive, needs refrigeration. Carboprost (15-methyl PGF2-alpha): for PPH (IM injection)."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "In ectopic pregnancy, beta-hCG typically shows:",
+    "options": [
+      "Normal doubling every 48 hours",
+      "Suboptimal rise (less than 66% increase in 48 hours)",
+      "Very rapid rise (faster than normal)",
+      "Immediate fall to zero"
+    ],
+    "correct": "B",
+    "rationale": "Normal intrauterine pregnancy: beta-hCG doubles every 48-72 hours (minimum 66% rise in 48 hours). In ectopic: suboptimal rise (<66% in 48 hours) OR plateau OR slow decline. This pattern + empty uterus on TVS above discriminatory zone = highly suspicious for ectopic. However, 15-20% of ectopics can show normal doubling initially, so serial monitoring is essential."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "After evacuation of complete mole, pregnancy should be avoided for:",
+    "options": [
+      "3 months",
+      "6 months to 1 year (until hCG normal for 6 months)",
+      "2 years",
+      "5 years"
+    ],
+    "correct": "B",
+    "rationale": "After complete mole evacuation: monitor weekly beta-hCG until normal for 3 consecutive weeks, then monthly. Avoid pregnancy for 6-12 months after hCG normalization (pregnancy would raise hCG and confuse surveillance for GTN). Use reliable contraception (OCPs preferred - do NOT increase GTN risk). If hCG rises or plateaus during follow-up = suspect GTN, start chemotherapy."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "The most common cause of ambiguous genitalia in a newborn is:",
+    "options": [
+      "Turner syndrome",
+      "Congenital adrenal hyperplasia (CAH)",
+      "Androgen insensitivity syndrome",
+      "Klinefelter syndrome"
+    ],
+    "correct": "B",
+    "rationale": "CAH (21-hydroxylase deficiency most common type): excess adrenal androgens virilize a 46 XX female fetus causing ambiguous genitalia (clitoromegaly, labial fusion). Internal organs are normal female (Mullerian structures present). Salt-wasting crisis can be life-threatening in neonatal period. Diagnosis: elevated 17-hydroxyprogesterone. Treatment: hydrocortisone replacement."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Adenomyosis is defined as:",
+    "options": [
+      "Endometrial tissue outside the uterus",
+      "Endometrial glands and stroma within the myometrium",
+      "Cancer of the endometrium",
+      "Polyp in the uterine cavity"
+    ],
+    "correct": "B",
+    "rationale": "Adenomyosis: presence of endometrial glands and stroma WITHIN the myometrium (internal endometriosis). Causes: heavy painful periods (menorrhagia + dysmenorrhea), uniformly enlarged boggy uterus. Common in multiparous women >35 years. Diagnosis: MRI (junctional zone >12mm) or TVS. Definitive treatment: hysterectomy. Medical: GnRH agonists, Mirena IUS, tranexamic acid."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Endometriosis is defined as:",
+    "options": [
+      "Endometrial tissue within myometrium",
+      "Presence of functioning endometrial tissue OUTSIDE the uterus",
+      "Thickened endometrium",
+      "Endometrial cancer"
+    ],
+    "correct": "B",
+    "rationale": "Endometriosis: functioning endometrial glands and stroma OUTSIDE the uterus. Most common sites: ovaries (chocolate cyst/endometrioma), pouch of Douglas, uterosacral ligaments, fallopian tubes. Symptoms: chronic pelvic pain, dysmenorrhea (progressive), dyspareunia (deep), infertility, dyschezia. Gold standard diagnosis: laparoscopy with biopsy. CA-125 may be elevated."
   }
 ];
