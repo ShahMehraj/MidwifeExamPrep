@@ -9922,5 +9922,773 @@ const questions = [
     ],
     "correct": "B",
     "rationale": "DIPSI (Diabetes In Pregnancy Study group of India) criteria: 75g glucose given regardless of fasting status; 2-hour plasma glucose >=140 mg/dL = GDM. Simple, single test. WHO 2013 criteria: 75g OGTT - Fasting >=92, 1-hr >=180, 2-hr >=153 mg/dL (any one). IADPSG criteria same as WHO. Carpenter-Coustan: 100g OGTT, 4 values (used in USA). All overlap and identify GDM."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Antepartum hemorrhage (APH) is defined as bleeding from genital tract:",
+    "options": [
+      "Before 20 weeks of pregnancy",
+      "After 20 weeks (or after viability) but before delivery of baby",
+      "After delivery only",
+      "During delivery of placenta"
+    ],
+    "correct": "B",
+    "rationale": "APH: bleeding from genital tract after 20 weeks (or after viability - 28 weeks in some texts) but before delivery of baby. Two main causes: 1) Placenta previa (~30%) - placenta in lower segment. 2) Placental abruption (~30%) - premature separation of normally implanted placenta. Other (40%): local lesions (cervical polyp, ectropion, cancer), unexplained, vasa previa, marginal sinus rupture, uterine rupture."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "The two main causes of antepartum hemorrhage are:",
+    "options": [
+      "Cervical cancer and polyps",
+      "Placenta previa and placental abruption",
+      "Trauma and infection",
+      "Bleeding disorders"
+    ],
+    "correct": "B",
+    "rationale": "Major causes of APH: PLACENTA PREVIA (30%) - placenta covers/encroaches on internal os. PLACENTAL ABRUPTION (30%) - premature separation. Together = 60% of APH cases. Indeterminate/local causes: 40%. Other rare causes: vasa previa (fetal hemorrhage), uterine rupture, marginal sinus rupture, trauma."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Placenta previa Type I (low-lying placenta) means:",
+    "options": [
+      "Placenta completely covers internal os",
+      "Placenta in lower segment but does not reach internal os",
+      "Placenta partially covers os",
+      "Placenta margin reaches but does not cover os"
+    ],
+    "correct": "B",
+    "rationale": "Placenta previa classification (4 types): Type I - LOW-LYING placenta (in lower segment but does NOT reach internal os). Type II - MARGINAL (reaches but does not cover os). Type III - PARTIAL (covers part of os when closed but not when dilated). Type IV - CENTRAL/COMPLETE (covers os completely). Modern terminology: just 'placenta previa' (covers os) vs 'low-lying' (within 2 cm of os)."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "The classic feature of placenta previa is:",
+    "options": [
+      "Painful dark bleeding with rigid uterus",
+      "Painless, recurrent, bright red vaginal bleeding (causeless, recurrent, painless)",
+      "Concealed hemorrhage",
+      "Bleeding only at term"
+    ],
+    "correct": "B",
+    "rationale": "Placenta previa classic triad (Browne): 1) PAINLESS - no contractions/uterine pain. 2) CAUSELESS - no precipitating factor. 3) RECURRENT - episodes repeat. Bleeding is bright red (fresh maternal blood), often after intercourse or vaginal exam. Uterus is soft, non-tender. Fetal heart usually normal. Often presents 28-32 weeks initially. Diagnosis: USG (TVS most accurate)."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "In suspected placenta previa, the FIRST examination to AVOID is:",
+    "options": [
+      "Ultrasound",
+      "Vaginal/digital examination (can cause torrential bleeding)",
+      "Speculum examination",
+      "Abdominal palpation"
+    ],
+    "correct": "B",
+    "rationale": "NEVER do digital/vaginal examination in suspected placenta previa - can dislodge clot causing torrential, life-threatening hemorrhage. Speculum examination is safe (can identify local causes like cervical polyp). USG should be first investigation. If patient is in labor with placenta previa diagnosed, examination may be done in 'double set-up' (theatre, ready for cesarean)."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Investigation of choice for diagnosing placenta previa is:",
+    "options": [
+      "Abdominal palpation",
+      "Transvaginal ultrasound (most accurate)",
+      "MRI",
+      "Hysteroscopy"
+    ],
+    "correct": "B",
+    "rationale": "Transvaginal USG: gold standard for placenta previa diagnosis. Safe even with placenta previa (probe placed only in vagina, not through cervix). More accurate than transabdominal USG, especially for posterior placenta previa. MRI useful only for diagnosing placenta accreta spectrum. Color Doppler helps assess accreta and vasa previa."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Mode of delivery in major placenta previa (covering os) is:",
+    "options": [
+      "Vaginal delivery",
+      "Elective cesarean section at 36-37 weeks (or earlier if bleeding)",
+      "Induction of labor",
+      "Forceps delivery"
+    ],
+    "correct": "B",
+    "rationale": "Major placenta previa (covers internal os): MUST deliver by elective CS at 36-37 weeks (after antenatal steroids if <34 weeks). Lower-segment cesarean can have heavy bleeding from poorly contracting lower segment - upper segment cesarean (classical) sometimes preferred. Low-lying placenta (>2cm from os): vaginal delivery may be attempted. Type II posterior: attempt vaginal in some cases."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Placental abruption is defined as:",
+    "options": [
+      "Placenta in lower uterine segment",
+      "Premature separation of normally implanted placenta after 20 weeks but before delivery",
+      "Retained placenta",
+      "Placenta accreta"
+    ],
+    "correct": "B",
+    "rationale": "Placental abruption (abruptio placentae): premature separation of normally implanted placenta from uterine wall after 20 weeks gestation but before delivery. Incidence: 0.5-1%. Severity grading: Grade 0 (asymptomatic, found at delivery), 1 (mild bleeding, no fetal distress), 2 (moderate bleeding, fetal distress, no DIC), 3 (severe, fetal demise +/- DIC). Mortality risk to fetus: 20-40%."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Placental abruption presents with all EXCEPT:",
+    "options": [
+      "Painful vaginal bleeding (or concealed bleeding)",
+      "Tense, tender, rigid (board-like) uterus",
+      "Fetal distress or fetal demise",
+      "Painless recurrent bleeding"
+    ],
+    "correct": "D",
+    "rationale": "Placental abruption: PAINFUL bleeding (NOT painless - that's placenta previa). Features: sudden severe abdominal pain, tense and tender uterus, board-like rigid uterus (couvelaire), fetal distress (late decels) or absent fetal heart, dark red/dusky bleeding (not bright red), shock disproportionate to visible bleeding (concealed hemorrhage). 20% are concealed (no visible bleeding)."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Most common cause/risk factor for placental abruption is:",
+    "options": [
+      "Smoking",
+      "Hypertension/preeclampsia",
+      "Trauma",
+      "Multiparity"
+    ],
+    "correct": "B",
+    "rationale": "Risk factors for abruption (in order): 1) HYPERTENSION (most common - 50% have HTN/preeclampsia). 2) Trauma (RTA, domestic violence, fall). 3) Smoking. 4) Cocaine use. 5) Previous abruption (10x risk). 6) Polyhydramnios with sudden decompression. 7) PROM. 8) Short cord. 9) Multiparity, advanced age, low SES, malnutrition."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Couvelaire uterus (uteroplacental apoplexy) is seen in:",
+    "options": [
+      "Placenta previa",
+      "Severe placental abruption (blood infiltrates myometrium)",
+      "Postpartum hemorrhage",
+      "Uterine rupture"
+    ],
+    "correct": "B",
+    "rationale": "Couvelaire uterus (uteroplacental apoplexy): blood from severe abruption infiltrates between myometrial fibers giving uterus a purple/blue mottled appearance. Found at cesarean section. Myometrium becomes edematous, atonic - cannot contract properly = postpartum hemorrhage risk. Usually responds to oxytocics + uterine massage. Hysterectomy rarely needed if bleeding can be controlled."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "DIC (Disseminated Intravascular Coagulation) in pregnancy is most commonly seen in:",
+    "options": [
+      "Mild placenta previa",
+      "Severe placental abruption (consumption coagulopathy from placental thromboplastin)",
+      "Threatened abortion",
+      "First trimester bleeding"
+    ],
+    "correct": "B",
+    "rationale": "DIC in pregnancy causes: 1) Severe placental abruption (most common - thromboplastin from disrupted placenta). 2) Amniotic fluid embolism. 3) Severe preeclampsia/HELLP. 4) Septic abortion. 5) Retained dead fetus (>4 weeks). 6) Massive hemorrhage. Lab: low platelets, low fibrinogen, prolonged PT/PTT, elevated D-dimer. Treatment: treat cause + blood products (FFP, platelets, cryoprecipitate)."
+  },
+  {
+    "section": "20: ANTEPARTUM HEMORRHAGE",
+    "question": "Management of severe placental abruption is:",
+    "options": [
+      "Conservative management always",
+      "Resuscitation + immediate delivery (cesarean if maternal/fetal compromise)",
+      "Discharge home",
+      "Wait until term"
+    ],
+    "correct": "B",
+    "rationale": "Severe abruption management: 1) ABC resuscitation (IV access, fluids, blood products). 2) Continuous fetal monitoring. 3) DELIVERY - cesarean if fetal distress or maternal compromise. Vaginal delivery only if labor is rapid and mother/fetus stable. 4) Correct coagulopathy. 5) Watch for PPH (atonic uterus from Couvelaire). Don't wait - delay increases mortality. Anti-D for Rh-negative."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "Hypertension in pregnancy is defined as blood pressure of:",
+    "options": [
+      "BP >=120/80 mmHg",
+      "BP >=140/90 mmHg on 2 occasions, 4 hours apart",
+      "BP >=160/100 mmHg only",
+      "Any elevated BP"
+    ],
+    "correct": "B",
+    "rationale": "Hypertension in pregnancy: BP >=140/90 mmHg measured on 2 occasions at least 4 hours apart. Severe hypertension: >=160/110 mmHg (single measurement enough, requires urgent treatment). Pre-pregnancy 'high normal' is now considered abnormal in pregnancy due to physiological BP fall. ACOG/ISSHP definitions agree on these cutoffs."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "Classification of hypertensive disorders of pregnancy includes all EXCEPT:",
+    "options": [
+      "Chronic hypertension (pre-existing or before 20 weeks)",
+      "Gestational hypertension (after 20 weeks, no proteinuria)",
+      "Preeclampsia (HTN + proteinuria/end-organ damage after 20 weeks)",
+      "Postpartum hypertension only"
+    ],
+    "correct": "D",
+    "rationale": "ISSHP/ACOG classification: 1) Chronic HTN (before pregnancy or before 20 weeks, persists postpartum). 2) Gestational HTN (after 20 weeks, no proteinuria, no organ damage). 3) Preeclampsia/Eclampsia (after 20 weeks + proteinuria or organ damage; eclampsia = + seizures). 4) Chronic HTN with superimposed preeclampsia. 5) White-coat HTN. Postpartum HTN can occur but is not a separate classification."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "Preeclampsia is defined as:",
+    "options": [
+      "BP >=140/90 alone",
+      "BP >=140/90 after 20 weeks + proteinuria (>=300mg/24hr) OR end-organ damage",
+      "Only seizures in pregnancy",
+      "BP >120/80"
+    ],
+    "correct": "B",
+    "rationale": "Preeclampsia criteria (ACOG 2013, no longer requires proteinuria): NEW-onset HTN >=140/90 after 20 weeks PLUS one of: 1) Proteinuria >=300mg/24hr or P/C ratio >0.3 or dipstick >=2+. 2) Thrombocytopenia (<100,000). 3) Renal insufficiency (Cr >1.1). 4) Impaired liver function (transaminases 2x normal). 5) Pulmonary edema. 6) New cerebral/visual symptoms (headache, blurred vision)."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "Severe features (severe preeclampsia) include all EXCEPT:",
+    "options": [
+      "BP >=160/110 mmHg",
+      "Severe headache, visual disturbances, epigastric pain",
+      "Mild ankle edema",
+      "Thrombocytopenia, elevated LFTs, renal failure, pulmonary edema"
+    ],
+    "correct": "C",
+    "rationale": "Severe preeclampsia features: BP >=160/110, persistent severe headache, visual changes (scotomata, blurring, blindness), epigastric/RUQ pain, pulmonary edema, oliguria, thrombocytopenia (<100,000), elevated LFTs, severe IUGR/oligohydramnios. Mild ankle edema is PHYSIOLOGICAL in pregnancy. Sudden facial/generalized edema is concerning."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "First-line antihypertensive drugs SAFE in pregnancy include:",
+    "options": [
+      "Methyldopa, Labetalol, Nifedipine",
+      "ACE inhibitors",
+      "ARBs",
+      "Atenolol"
+    ],
+    "correct": "A",
+    "rationale": "Safe antihypertensives in pregnancy: 1) METHYLDOPA - long safety record, first choice for chronic HTN. 2) LABETALOL - alpha-beta blocker, oral or IV (acute severe HTN). 3) NIFEDIPINE - oral or sublingual for acute. 4) Hydralazine - IV for acute. AVOID: ACE inhibitors and ARBs (fetal renal damage, oligohydramnios, skull hypoplasia). Atenolol: associated with IUGR if used long-term."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "The drug of choice for prevention/treatment of eclamptic seizures is:",
+    "options": [
+      "Phenytoin",
+      "Magnesium sulfate (MgSO4)",
+      "Diazepam",
+      "Phenobarbitone"
+    ],
+    "correct": "B",
+    "rationale": "Magnesium sulfate (MgSO4): drug of choice for eclamptic seizure prevention AND treatment (Magpie trial, Collaborative Eclampsia Trial). Pritchard regimen (IM): loading 4g IV + 5g IM each buttock, then 5g IM every 4 hours. Zuspan regimen (IV): 4g IV loading + 1-2g/hr infusion. Continue 24 hours after delivery or last seizure. Better than phenytoin or diazepam."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "Magnesium sulfate toxicity manifests as:",
+    "options": [
+      "Hyperreflexia",
+      "Loss of patellar reflexes -> respiratory depression -> cardiac arrest",
+      "Seizures",
+      "Hypertension"
+    ],
+    "correct": "B",
+    "rationale": "MgSO4 toxicity progression with rising serum levels: Therapeutic (4-7 mEq/L) - patellar reflex preserved. Loss of patellar reflex (>=10 mEq/L) - first sign of toxicity. Respiratory depression (>=12 mEq/L). Cardiac arrest (>=15 mEq/L). Monitoring: patellar reflex, respiratory rate (>16/min), urine output (>30 mL/hr). Antidote: calcium gluconate 1g IV slowly. Avoid MgSO4 in renal failure."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "Eclampsia is defined as:",
+    "options": [
+      "Severe headache in pregnancy",
+      "Onset of new generalized tonic-clonic seizures or coma in a woman with preeclampsia",
+      "BP >180/120",
+      "Convulsions in any pregnant woman"
+    ],
+    "correct": "B",
+    "rationale": "Eclampsia: new-onset grand mal seizures or coma in a woman with preeclampsia, not attributable to other causes (epilepsy, drug, hypoxia). Can occur antepartum (53%), intrapartum (19%), or postpartum (28%). Maternal mortality: 1-2% in developed, up to 14% in developing countries. Treatment: ABC, MgSO4, control BP, deliver baby (only definitive treatment)."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "HELLP syndrome stands for:",
+    "options": [
+      "High BP, Elevated LFTs, Low Platelets",
+      "Hemolysis, Elevated Liver enzymes, Low Platelets",
+      "Headache, Edema, Lung Lesions, Proteinuria",
+      "Hyperemesis, ELevated Pressure"
+    ],
+    "correct": "B",
+    "rationale": "HELLP syndrome (variant of severe preeclampsia, 10-20%): H - Hemolysis (microangiopathic, schistocytes on smear, increased LDH, indirect bilirubin). EL - Elevated Liver enzymes (AST/ALT >2x normal). LP - Low Platelets (<100,000). Symptoms: epigastric/RUQ pain, nausea, vomiting, headache. Complications: liver hematoma/rupture, abruption, DIC, renal failure. Treatment: delivery (only definitive), corticosteroids."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "The only definitive treatment for preeclampsia/eclampsia is:",
+    "options": [
+      "Antihypertensive drugs",
+      "MgSO4",
+      "Delivery of the baby and placenta",
+      "Bed rest"
+    ],
+    "correct": "C",
+    "rationale": "Only DEFINITIVE cure for preeclampsia is delivery (removes the placenta, which is the cause). Decision to deliver depends on: severity, gestational age, fetal status, maternal status. Severe preeclampsia at term: deliver. <34 weeks: stabilize, give steroids, expectant management if possible. <24 weeks: termination usually offered. Postpartum: BP normalizes within 6 weeks (most cases)."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "Aspirin for preeclampsia prevention is given:",
+    "options": [
+      "300 mg/day from 36 weeks",
+      "Low-dose 75-150 mg/day from 12-16 weeks in high-risk women",
+      "1 g/day throughout",
+      "After 28 weeks only"
+    ],
+    "correct": "B",
+    "rationale": "Low-dose aspirin (75-150 mg/day): reduces preeclampsia risk by 24% in high-risk women (USPSTF, ACOG). Start 12-16 weeks (before placentation completes), continue until delivery. High-risk: previous preeclampsia, chronic HTN, DM, multiple pregnancy, autoimmune disease, kidney disease, BMI >30, age >40, family history. ASPRE trial: 150 mg most effective."
+  },
+  {
+    "section": "21: HYPERTENSIVE DISORDERS OF PREGNANCY",
+    "question": "The pathophysiology of preeclampsia involves:",
+    "options": [
+      "Increased aldosterone",
+      "Failed trophoblast invasion -> placental ischemia -> antiangiogenic factors (sFlt-1) -> endothelial dysfunction",
+      "High estrogen",
+      "Allergic reaction"
+    ],
+    "correct": "B",
+    "rationale": "Two-stage model of preeclampsia: STAGE 1 (placental, asymptomatic) - failed trophoblast invasion of spiral arteries -> high-resistance uteroplacental circulation -> placental ischemia/hypoxia -> release of anti-angiogenic factors (sFlt-1, soluble endoglin). STAGE 2 (maternal syndrome, clinical) - circulating factors cause systemic endothelial dysfunction -> hypertension, proteinuria, organ damage. PIGF and sFlt-1 ratio used as biomarkers."
+  },
+  {
+    "section": "22: DIABETES IN PREGNANCY",
+    "question": "Gestational Diabetes Mellitus (GDM) is defined as:",
+    "options": [
+      "Diabetes diagnosed before pregnancy",
+      "Diabetes first detected during pregnancy (any degree of glucose intolerance)",
+      "Type 1 diabetes only",
+      "Type 2 diabetes only"
+    ],
+    "correct": "B",
+    "rationale": "GDM: any degree of glucose intolerance with onset/first recognition during pregnancy. Resolves after delivery in ~90%. Increases lifetime DM risk by 50%. Prevalence: 5-15%. Risk factors: obesity, age >25, family history of DM, previous GDM, previous macrosomic baby, previous stillbirth, PCOS, glucosuria, ethnic minorities. ACOG recommends screening all pregnant women at 24-28 weeks."
+  },
+  {
+    "section": "22: DIABETES IN PREGNANCY",
+    "question": "Risks to mother in poorly controlled diabetes during pregnancy include all EXCEPT:",
+    "options": [
+      "Polyhydramnios, preeclampsia, infection",
+      "Diabetic ketoacidosis (DKA), retinopathy progression",
+      "Operative delivery (CS due to macrosomia)",
+      "Decreased risk of preterm labor"
+    ],
+    "correct": "D",
+    "rationale": "Maternal complications of DM in pregnancy: increased risk of - preeclampsia (4x), polyhydramnios, infection (UTI, candidiasis), DKA (especially type 1), retinopathy progression, nephropathy worsening, preterm labor (INCREASED, not decreased), operative delivery (CS for macrosomia, shoulder dystocia, fetal distress), recurrent abortion, hypoglycemia (especially in type 1). Long-term: future T2DM."
+  },
+  {
+    "section": "22: DIABETES IN PREGNANCY",
+    "question": "The most common congenital anomaly in pre-existing diabetes is:",
+    "options": [
+      "Down syndrome",
+      "Cardiac defects (most common) and neural tube defects",
+      "Limb defects only",
+      "Renal anomalies"
+    ],
+    "correct": "B",
+    "rationale": "Pre-existing (overt) diabetes: 2-4x increased risk of congenital anomalies (related to first trimester hyperglycemia). Most common: cardiac defects (transposition of great vessels, VSD, hypoplastic left heart). Other: NTDs, sacral agenesis (caudal regression syndrome - pathognomonic of diabetic embryopathy though rare), renal anomalies, gastrointestinal. Pre-conception glucose control + folic acid reduces risk."
+  },
+  {
+    "section": "22: DIABETES IN PREGNANCY",
+    "question": "Macrosomia in diabetic pregnancy is due to:",
+    "options": [
+      "Maternal hyperinsulinemia",
+      "Fetal hyperinsulinemia (response to maternal hyperglycemia) acting as growth factor",
+      "Increased estrogen",
+      "Multiple pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "Pedersen hypothesis: Maternal hyperglycemia -> glucose crosses placenta -> fetal hyperglycemia -> fetal pancreas hyperinsulinemia -> insulin acts as growth factor -> macrosomia (truncal/visceral, especially shoulders) + organomegaly + adipose deposition. Risks: shoulder dystocia, brachial plexus injury (Erb's), birth trauma, cesarean delivery, neonatal hypoglycemia (insulin levels still high after birth)."
+  },
+  {
+    "section": "22: DIABETES IN PREGNANCY",
+    "question": "Target blood glucose levels in pregnancy with GDM are:",
+    "options": [
+      "Fasting <140 mg/dL",
+      "Fasting <95 mg/dL, 1-hr post-meal <140 mg/dL, 2-hr post-meal <120 mg/dL",
+      "Fasting <120 mg/dL",
+      "Random <200 mg/dL"
+    ],
+    "correct": "B",
+    "rationale": "Glucose targets in GDM (ADA/ACOG): Fasting <95 mg/dL, 1-hour postprandial <140 mg/dL, 2-hour postprandial <120 mg/dL. HbA1c target <6%. Achieved by: medical nutrition therapy + exercise (first-line, 80% adequate). Insulin if diet/exercise fail (preferred drug). Metformin and glyburide are alternatives but cross placenta. SMBG (self-monitoring) 4-7 times daily."
+  },
+  {
+    "section": "22: DIABETES IN PREGNANCY",
+    "question": "Postpartum follow-up of GDM patient should include:",
+    "options": [
+      "No follow-up needed",
+      "75g OGTT at 6-12 weeks postpartum to rule out persistent DM/IGT",
+      "Weekly glucose monitoring for life",
+      "Annual blood test only"
+    ],
+    "correct": "B",
+    "rationale": "GDM postpartum follow-up: 75g 2-hour OGTT at 6-12 weeks postpartum to detect persistent diabetes (10%) or impaired glucose tolerance (20%). Then 1-3 yearly screening (50% develop T2DM within 5-10 years). Lifestyle counseling: weight loss, exercise, healthy diet. Breastfeeding reduces maternal DM risk and is encouraged. Discuss contraception (avoid high-dose progestin)."
+  },
+  {
+    "section": "22: DIABETES IN PREGNANCY",
+    "question": "Optimal time of delivery in well-controlled GDM (no complications) is:",
+    "options": [
+      "Before 36 weeks",
+      "39-40 weeks (avoid extending beyond 40 weeks)",
+      "Wait until labor",
+      "42 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Delivery timing in diabetes: Well-controlled GDM (diet alone): 39-40 weeks. GDM on insulin (good control): 39-40 weeks. Pre-existing DM well-controlled: 39 weeks. Poor control or complications (vasculopathy, IUGR, macrosomia): 36-38 weeks. Suspected macrosomia >4500g: consider elective cesarean to avoid shoulder dystocia. Don't extend beyond 40 weeks (increased stillbirth risk)."
+  },
+  {
+    "section": "23: MULTIFETAL/TWIN PREGNANCY",
+    "question": "Monozygotic (identical) twins result from:",
+    "options": [
+      "Two ova fertilized by two sperms",
+      "Single ovum fertilized by one sperm that splits into two embryos",
+      "Two ova fertilized by one sperm",
+      "Splitting of placenta"
+    ],
+    "correct": "B",
+    "rationale": "Monozygotic (MZ) twins: 1 ovum + 1 sperm -> single zygote splits into 2 embryos. Genetically identical, same sex. Frequency: 3-4 per 1000 (constant worldwide). Splitting time determines chorionicity: <3 days - dichorionic diamniotic (DCDA, 30%). 4-8 days - monochorionic diamniotic (MCDA, 70%). 8-13 days - monochorionic monoamniotic (MCMA, 1%). >13 days - conjoined twins (rare)."
+  },
+  {
+    "section": "23: MULTIFETAL/TWIN PREGNANCY",
+    "question": "Dizygotic (fraternal) twins result from:",
+    "options": [
+      "Splitting of single zygote",
+      "Two separate ova fertilized by two separate sperms",
+      "Cloning",
+      "Single ovum fertilized twice"
+    ],
+    "correct": "B",
+    "rationale": "Dizygotic (DZ) twins: 2 ova + 2 sperms -> 2 separate zygotes. Genetically as similar as siblings (50% shared genes). Can be same or different sexes. ALWAYS DCDA (dichorionic-diamniotic - 2 placentas, 2 amniotic sacs). Frequency varies: increased with maternal age, parity, race (African >Caucasian >Asian), family history (maternal side), fertility treatment (clomiphene, IVF)."
+  },
+  {
+    "section": "23: MULTIFETAL/TWIN PREGNANCY",
+    "question": "The most reliable way to determine chorionicity (one placenta vs two) is:",
+    "options": [
+      "Maternal symptoms",
+      "First trimester ultrasound (<14 weeks) - lambda sign vs T sign",
+      "Sex of babies",
+      "Amniocentesis"
+    ],
+    "correct": "B",
+    "rationale": "Chorionicity determination: BEST in first trimester (<14 weeks). Signs on USG: 1) LAMBDA SIGN (twin peak sign) - thick projection of placenta into membrane = DICHORIONIC. 2) T SIGN - thin membrane joins placenta at right angle = MONOCHORIONIC. Number of placentas. Membrane thickness (>2mm = DC, <2mm = MC). Different sex = always DZ = DCDA. Same sex doesn't tell zygosity."
+  },
+  {
+    "section": "23: MULTIFETAL/TWIN PREGNANCY",
+    "question": "Twin-to-twin transfusion syndrome (TTTS) occurs ONLY in:",
+    "options": [
+      "Dichorionic twins",
+      "Monochorionic twins (shared placenta with vascular anastomoses)",
+      "Triplet pregnancies",
+      "Conjoined twins"
+    ],
+    "correct": "B",
+    "rationale": "TTTS: complication of monochorionic twins (shared placenta) with imbalanced AV anastomoses. 10-15% of MC twins. Donor twin: hypovolemic, anemic, IUGR, oligohydramnios ('stuck twin'). Recipient: hypervolemic, polycythemic, polyhydramnios, cardiac failure, hydrops. Quintero staging I-V. Treatment: amnioreduction (palliative), fetoscopic laser ablation of anastomoses (definitive, improves survival)."
+  },
+  {
+    "section": "23: MULTIFETAL/TWIN PREGNANCY",
+    "question": "Vanishing twin syndrome refers to:",
+    "options": [
+      "Loss of one twin in 1st trimester (reabsorbed)",
+      "Both twins die",
+      "One twin smaller",
+      "Twins separate at birth"
+    ],
+    "correct": "A",
+    "rationale": "Vanishing twin: one twin demised in 1st trimester (10-15% of twin pregnancies originally seen on USG). Tissue is reabsorbed without significant maternal symptoms. May cause: spotting, mild cramps. Surviving twin usually develops normally. Late demise (2nd/3rd trimester): more complications - 'fetus papyraceus' (compressed flat fetus). MC twin demise: risk to surviving twin (hypoperfusion via anastomoses)."
+  },
+  {
+    "section": "23: MULTIFETAL/TWIN PREGNANCY",
+    "question": "Mode of delivery in twins depends primarily on:",
+    "options": [
+      "Maternal preference always",
+      "Presentation of FIRST twin (Twin A): cephalic - vaginal trial; non-cephalic - cesarean",
+      "Always cesarean",
+      "Always vaginal"
+    ],
+    "correct": "B",
+    "rationale": "Twin delivery: Twin A determines mode. Twin A cephalic + Twin B cephalic (40%): vaginal delivery. Twin A cephalic + Twin B non-cephalic (40%): vaginal trial (internal podalic version + breech extraction for B). Twin A non-cephalic (20%): planned cesarean. MCMA twins (sharing sac): elective cesarean at 32-34 weeks (cord entanglement risk). All TTTS, conjoined: cesarean."
+  },
+  {
+    "section": "23: MULTIFETAL/TWIN PREGNANCY",
+    "question": "Optimal delivery timing for uncomplicated twin pregnancy is:",
+    "options": [
+      "32 weeks",
+      "DCDA: 38 weeks; MCDA: 36-37 weeks; MCMA: 32-34 weeks",
+      "40 weeks for all",
+      "42 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Twin delivery timing (uncomplicated): DCDA (dichorionic diamniotic) - deliver at 38 weeks (stillbirth risk increases beyond). MCDA (monochorionic diamniotic) - 36-37 weeks (placental insufficiency risk). MCMA (monochorionic monoamniotic) - 32-34 weeks by elective cesarean (cord entanglement). Triplets: 35-36 weeks. Don't extend beyond optimal time - stillbirth risk rises."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "True labor is differentiated from false labor by all EXCEPT:",
+    "options": [
+      "Regular, painful contractions increasing in frequency and intensity",
+      "Progressive cervical effacement and dilatation",
+      "Show (blood-stained mucus discharge)",
+      "Contractions relieved by walking or sedation"
+    ],
+    "correct": "D",
+    "rationale": "True labor features: REGULAR contractions, increasing intensity/frequency/duration, cause progressive cervical changes (effacement + dilatation), painful, NOT relieved by sedation/rest, often associated with show. False labor (Braxton-Hicks): irregular, no cervical change, often relieved by walking, hydration, or sedation. Distinction is clinical - serial cervical exam over hours confirms true labor."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "The three stages of labor are:",
+    "options": [
+      "Pre-labor, labor, post-labor",
+      "Stage 1 (cervical dilatation), Stage 2 (delivery of baby), Stage 3 (delivery of placenta)",
+      "Latent, active, transition",
+      "Early, mid, late"
+    ],
+    "correct": "B",
+    "rationale": "Three stages of labor: STAGE 1 (cervical dilatation): from onset of regular contractions to full dilatation (10 cm). Latent phase (0-4 cm) + Active phase (4-10 cm). Duration: 8-12 hrs (primi), 4-6 hrs (multi). STAGE 2 (delivery of baby): from full dilatation to delivery. 30-60 min (primi), 15-30 min (multi). STAGE 3 (delivery of placenta): 5-30 min. STAGE 4: first 1-2 hours postpartum (observation)."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Active phase of first stage of labor begins at:",
+    "options": [
+      "1 cm cervical dilatation",
+      "4-6 cm cervical dilatation (modern definition: 6 cm per ACOG/WHO 2014)",
+      "8 cm",
+      "10 cm"
+    ],
+    "correct": "B",
+    "rationale": "Active phase definition has changed. Old (Friedman): begins at 4 cm. New (ACOG/WHO 2014, based on Zhang's data): begins at 6 cm. Latent phase: 0-6 cm (can be prolonged, slower than thought, especially in modern obstetrics). Active phase: 6-10 cm. Implication: don't diagnose 'arrest of labor' before 6 cm with adequate contractions for 4-6 hours."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Normal rate of cervical dilatation in active phase is:",
+    "options": [
+      ">=0.5 cm/hr (primi); >=1 cm/hr (multi) per WHO",
+      "5 cm/hr",
+      "0.1 cm/hr",
+      "Cervix dilates only at term"
+    ],
+    "correct": "A",
+    "rationale": "WHO/Zhang's modern data: active phase progresses at >=0.5 cm/hr in primi and >=1 cm/hr in multi (slower than Friedman's old 1.2 cm/hr). Slower progress in early active phase, faster as approaching full dilatation. Plotted on partogram. Action line crossing = consider augmentation. 'Arrest of labor': no progress in >=4 hours of adequate contractions in active phase."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Movements of fetal head during normal labor (cardinal movements) include all EXCEPT:",
+    "options": [
+      "Engagement, descent, flexion",
+      "Internal rotation, extension",
+      "Restitution (external rotation), expulsion",
+      "Voluntary movement by fetus"
+    ],
+    "correct": "D",
+    "rationale": "Cardinal movements of labor (passive, not voluntary): 1) ENGAGEMENT (BPD passes pelvic inlet), 2) DESCENT (continuous), 3) FLEXION (chin to chest, smaller diameter SOB 9.5cm), 4) INTERNAL ROTATION (occiput to anterior), 5) EXTENSION (head delivers under symphysis), 6) RESTITUTION/External rotation (head untwists), 7) EXPULSION (anterior shoulder, then posterior, then body). Mnemonic: Every Decent Family In England Eats Roast Eels."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Engagement in labor refers to:",
+    "options": [
+      "Fetal head crowning",
+      "Biparietal diameter (BPD) passing through the pelvic inlet (level of ischial spines = station 0)",
+      "Cervix fully dilated",
+      "Membranes ruptured"
+    ],
+    "correct": "B",
+    "rationale": "Engagement: largest transverse diameter of presenting part (BPD for cephalic = 9.5 cm) passes through the pelvic INLET. Clinically: presenting part at level of ischial spines (Station 0). Primi: usually engaged 2-3 weeks before term. Multi: may not engage until labor. Failure to engage: suggests pelvic disproportion, malpresentation, placenta previa, or lax abdomen."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "The smallest anteroposterior diameter of fetal head presents in well-flexed cephalic presentation is:",
+    "options": [
+      "Mentovertical (14 cm)",
+      "Suboccipitobregmatic (SOB, 9.5 cm) - in occipitoanterior",
+      "Occipitofrontal (12 cm)",
+      "Occipitomental (13 cm)"
+    ],
+    "correct": "B",
+    "rationale": "Fetal head AP diameters: Suboccipitobregmatic (SOB, 9.5 cm) - well-flexed vertex (smallest, ideal). Suboccipitofrontal (10 cm) - partial flexion. Occipitofrontal (12 cm) - deflexed/military attitude. Occipitomental (13 cm) - brow presentation (largest, often impossible vaginal delivery). Submentobregmatic (9.5 cm) - face presentation. Engagement diameter is BPD (transverse, 9.5 cm)."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Bishop score of 8 or more indicates:",
+    "options": [
+      "Unfavorable cervix - induction may fail",
+      "Favorable cervix - induction likely to succeed",
+      "Need for cesarean",
+      "Active labor"
+    ],
+    "correct": "B",
+    "rationale": "Bishop score (cervical favorability for induction): 5 parameters scored 0-3 each: dilatation, effacement, station, consistency, position. Maximum: 13. Score >=8: FAVORABLE - induction likely to succeed (similar to spontaneous labor). Score 6-7: intermediate. Score <=5: UNFAVORABLE - cervical ripening needed first (PG, mechanical methods). Modified Bishop also includes parity (multipara: score >=5 favorable)."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Methods for induction of labor (cervical ripening + augmentation) include all EXCEPT:",
+    "options": [
+      "PGE2 (dinoprostone) gel/insert intracervical/vaginal",
+      "Misoprostol (PGE1) oral or vaginal",
+      "Mechanical: Foley catheter or laminaria",
+      "Aspirin"
+    ],
+    "correct": "D",
+    "rationale": "Cervical ripening methods: 1) Prostaglandin E2 (dinoprostone, gel or controlled-release insert). 2) Misoprostol (PGE1) - cheaper, more effective but unlicensed for this. 3) Mechanical: Foley catheter (balloon dilates cervix), laminaria (osmotic dilators), double-balloon Cook catheter. AUGMENTATION (after favorable cervix): oxytocin infusion + amniotomy. Aspirin has no role in induction."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Friedman's curve describes:",
+    "options": [
+      "Fetal heart rate",
+      "Cervical dilatation pattern over time during labor",
+      "Maternal blood pressure",
+      "Uterine contraction pattern"
+    ],
+    "correct": "B",
+    "rationale": "Friedman's curve (1954): graphical representation of cervical dilatation over time. Sigmoid shape: latent phase (slow), active phase (rapid - 1.2 cm/hr primi, 1.5 cm/hr multi), deceleration phase. Modified by Zhang (2010) - dilatation can be slower especially before 6 cm. Modern WHO/ACOG guidelines reflect this. Partogram is based on Friedman's principles. Used to detect labor abnormalities."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Partogram is used to:",
+    "options": [
+      "Monitor fetal weight",
+      "Graphically record progress of labor (cervical dilatation, descent, contractions, FHR)",
+      "Calculate due date",
+      "Diagnose pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "Partogram (WHO modified): single graphical record of labor progress. Plots: cervical dilatation vs time, descent of head, FHR, contractions (frequency, duration, intensity), maternal vital signs, drugs/fluids. ALERT line: starts at 4 cm, slope 1 cm/hr. ACTION line: 4 hours right of alert. Crossing alert: prepare for action; crossing action: intervene (augmentation, transfer, or cesarean). Reduces obstructed labor."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Active management of third stage of labor (AMTSL) includes:",
+    "options": [
+      "Wait passively",
+      "Uterotonic (oxytocin 10 IU IM) within 1 minute + controlled cord traction (Brandt-Andrews) + uterine massage after delivery",
+      "Forceps delivery",
+      "Episiotomy"
+    ],
+    "correct": "B",
+    "rationale": "AMTSL components (WHO): 1) Uterotonic (oxytocin 10 IU IM) within 1 minute of delivery (most important). 2) Controlled cord traction with counter-pressure on uterus (Brandt-Andrews maneuver) when uterus contracts. 3) Uterine massage after placental delivery. Reduces PPH by 60%. Modified AMTSL: drops uterine massage. Routine practice in all deliveries (WHO). Detects retained placenta early."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Signs of placental separation include all EXCEPT:",
+    "options": [
+      "Lengthening of cord (Kustner's sign)",
+      "Sudden gush of blood",
+      "Uterus becomes globular and rises",
+      "Maternal collapse"
+    ],
+    "correct": "D",
+    "rationale": "Signs of placental separation (5-30 min after baby): 1) Sudden gush of blood from vagina. 2) Lengthening of cord (cord descends a few cm). 3) Uterus changes from discoid to globular (smaller, firmer, rises into abdomen). 4) Kustner's sign: pushing uterus up with hand on abdomen does NOT retract cord (= separated). Schroeder's sign: fundus rises and shifts to right. Maternal collapse is abnormal."
+  },
+  {
+    "section": "24: NORMAL LABOR",
+    "question": "Two mechanisms of placental separation are:",
+    "options": [
+      "Cervical and uterine",
+      "Schultze (central, fetal side first) and Matthews-Duncan (marginal, maternal side first)",
+      "Anterior and posterior",
+      "Manual and natural"
+    ],
+    "correct": "B",
+    "rationale": "Mechanisms of placental separation: 1) SCHULTZE mechanism (80%) - separation begins at center, retroplacental hematoma forms, placenta delivered FETAL SIDE FIRST (shiny, like inverted umbrella). Less bleeding visible until placenta delivered. 2) MATTHEWS-DUNCAN (20%) - separation from margin, blood escapes early, placenta delivered MATERNAL SIDE FIRST (rough, dark). More bleeding throughout."
+  },
+  {
+    "section": "25: PARTOGRAM & LABOR ABNORMALITIES",
+    "question": "On partogram, ALERT line is crossed when:",
+    "options": [
+      "Cervical dilatation rate >1.2 cm/hr",
+      "Cervical dilatation slows to <1 cm/hr (right of expected line)",
+      "Fetal heart drops",
+      "Membranes rupture"
+    ],
+    "correct": "B",
+    "rationale": "Partogram lines: ALERT LINE - drawn from 4 cm rising at 1 cm/hr expected dilatation. Crossing it = labor slower than expected, alert team. Action: review, hydrate, allow time, consider augmentation. ACTION LINE - parallel to alert, 4 hours to the right. Crossing = significant delay, intervention needed (augmentation, transfer, or cesarean section). Helps identify obstructed labor early."
+  },
+  {
+    "section": "25: PARTOGRAM & LABOR ABNORMALITIES",
+    "question": "Prolonged latent phase is defined as:",
+    "options": [
+      ">10 hours in primigravida and >8 hours in multigravida",
+      ">20 hours in primi, >14 hours in multi",
+      ">30 hours",
+      ">2 hours"
+    ],
+    "correct": "B",
+    "rationale": "Prolonged latent phase: Primigravida >20 hours, Multigravida >14 hours (Friedman). Causes: pre-labor (false labor), unfavorable cervix, malposition, excessive sedation, hypotonic contractions. Management: rest, hydration, observation if mother and fetus stable. Augmentation only after ensuring true labor. Modern view: latent phase can be prolonged without intervention if mother/baby well."
+  },
+  {
+    "section": "25: PARTOGRAM & LABOR ABNORMALITIES",
+    "question": "Arrest of dilatation in active phase is diagnosed when:",
+    "options": [
+      "No cervical change in 1 hour",
+      "No cervical change in >=4 hours of adequate contractions OR >=6 hours of inadequate contractions (after 6 cm)",
+      "Cervix never reaches 5 cm",
+      "Membranes ruptured"
+    ],
+    "correct": "B",
+    "rationale": "Arrest of dilatation in active phase (modern criteria): At >=6 cm dilatation, no progress for >=4 hours with ADEQUATE contractions (>=200 Montevideo units) OR >=6 hours of INADEQUATE contractions despite oxytocin. Indication for cesarean if persists. Old criterion was 2 hours - changed to allow for natural slower progress. Avoid premature cesarean."
+  },
+  {
+    "section": "25: PARTOGRAM & LABOR ABNORMALITIES",
+    "question": "Causes of prolonged labor (3 P's) include all EXCEPT:",
+    "options": [
+      "Power - inadequate uterine contractions",
+      "Passenger - malpresentation, malposition, macrosomia",
+      "Passage - contracted pelvis",
+      "Pain - excessive maternal pain"
+    ],
+    "correct": "D",
+    "rationale": "Three P's of labor (causes of dystocia): 1) POWER - hypotonic uterine contractions (inadequate frequency/intensity), incoordinate contractions. 2) PASSENGER - macrosomia, malpresentation (breech, brow, face), malposition (OP), hydrocephalus, conjoined twins. 3) PASSAGE - contracted pelvis (anatomical), pelvic mass (fibroid, ovarian cyst). Pain can be managed (epidural) but is not a primary cause."
+  },
+  {
+    "section": "26: PRETERM LABOR & PROM",
+    "question": "Preterm labor is defined as labor occurring at:",
+    "options": [
+      "<37 weeks (between 20-37 weeks)",
+      "<32 weeks only",
+      ">42 weeks",
+      "<28 weeks only"
+    ],
+    "correct": "A",
+    "rationale": "Preterm labor: regular contractions with cervical change between 20-37 weeks gestation. Subcategories: Late preterm (34-36+6 weeks, 70%), Moderate preterm (32-34 weeks), Very preterm (28-32 weeks), Extremely preterm (<28 weeks). Major cause of neonatal mortality and morbidity (RDS, IVH, NEC). Risk factors: previous preterm, multiple pregnancy, infection, short cervix, smoking."
+  },
+  {
+    "section": "26: PRETERM LABOR & PROM",
+    "question": "Tocolytics used to delay preterm labor include all EXCEPT:",
+    "options": [
+      "Nifedipine (calcium channel blocker)",
+      "Atosiban (oxytocin antagonist)",
+      "Indomethacin (NSAID, <32 weeks only)",
+      "Oxytocin"
+    ],
+    "correct": "D",
+    "rationale": "Tocolytics (delay preterm labor 48 hours for steroids): NIFEDIPINE - first-line, oral CCB. ATOSIBAN - oxytocin antagonist (expensive). INDOMETHACIN - NSAID, only <32 weeks (causes premature ductus closure). MgSO4 - controversial as tocolytic but used for fetal neuroprotection <32 weeks. Beta-agonists (terbutaline, ritodrine) - older, more side effects. Oxytocin INDUCES labor - opposite effect."
+  },
+  {
+    "section": "26: PRETERM LABOR & PROM",
+    "question": "Antenatal corticosteroids (betamethasone or dexamethasone) are given in preterm labor to:",
+    "options": [
+      "Stop contractions",
+      "Accelerate fetal lung maturity (surfactant production) and reduce RDS, IVH, NEC",
+      "Treat infection",
+      "Increase fetal weight"
+    ],
+    "correct": "B",
+    "rationale": "Antenatal corticosteroids (24-34 weeks): Betamethasone 12 mg IM x 2 doses 24 hours apart OR Dexamethasone 6 mg IM x 4 doses 12 hours apart. Maximum benefit 24 hours-7 days after first dose. Reduces: RDS (40%), IVH (intraventricular hemorrhage), NEC (necrotizing enterocolitis), neonatal mortality. Single course standard; rescue course if delivery delayed >7 days and still <34 weeks."
+  },
+  {
+    "section": "26: PRETERM LABOR & PROM",
+    "question": "Premature Rupture of Membranes (PROM) is defined as:",
+    "options": [
+      "Rupture during 2nd stage labor",
+      "Rupture of membranes BEFORE onset of labor (at any gestational age)",
+      "Rupture before 20 weeks",
+      "Rupture in 1st stage"
+    ],
+    "correct": "B",
+    "rationale": "PROM: rupture of membranes BEFORE onset of labor. Term PROM: at >=37 weeks. Preterm PROM (PPROM): <37 weeks (most concerning). Diagnosis: pooling of fluid in posterior fornix, nitrazine test (alkaline pH turns paper blue), ferning test, IGFBP-1/PAMG-1 tests. Sterile speculum - avoid digital exam (risk of infection). USG: oligohydramnios."
+  },
+  {
+    "section": "26: PRETERM LABOR & PROM",
+    "question": "Most common complication of PROM is:",
+    "options": [
+      "Cord prolapse",
+      "Chorioamnionitis (intra-amniotic infection)",
+      "Placental abruption",
+      "Preeclampsia"
+    ],
+    "correct": "B",
+    "rationale": "PROM complications: 1) Chorioamnionitis (most common, especially with prolonged ROM >18 hours). 2) Cord prolapse (risk if presenting part not engaged). 3) Placental abruption. 4) Pulmonary hypoplasia (if prolonged oligohydramnios <24 weeks). 5) Cord compression. 6) Preterm labor (most PPROM enters labor within 1 week). Risk of infection rises with each hour after rupture and with vaginal exams."
+  },
+  {
+    "section": "26: PRETERM LABOR & PROM",
+    "question": "Management of term PROM (>=37 weeks) without infection is:",
+    "options": [
+      "Wait expectantly only",
+      "Induce labor within 24 hours (or expectant management with monitoring)",
+      "Immediate cesarean",
+      "No intervention"
+    ],
+    "correct": "B",
+    "rationale": "Term PROM management: Most enter labor spontaneously within 24 hours. Induction (oxytocin or PGE) reduces chorioamnionitis without increasing CS rate (TERMPROM trial). Antibiotic prophylaxis if GBS positive or unknown status (with risk factors). Expectant management acceptable up to 24-48 hours if no signs of infection and surveillance available."
+  },
+  {
+    "section": "26: PRETERM LABOR & PROM",
+    "question": "Management of PPROM (preterm PROM) at 28-34 weeks is:",
+    "options": [
+      "Immediate delivery",
+      "Expectant management with antibiotics + corticosteroids + monitoring (deliver at 34 weeks if stable)",
+      "Tocolysis only",
+      "Discharge home"
+    ],
+    "correct": "B",
+    "rationale": "PPROM 28-34 weeks: Hospitalize. Antibiotics (ampicillin + erythromycin x 7 days - prolongs latency, reduces infection). Corticosteroids (betamethasone x 2 doses). Tocolysis only short-term to allow steroid effect. Magnesium sulfate (<32 weeks for neuroprotection). Monitor for chorioamnionitis (fever, fetal tachycardia, uterine tenderness). Deliver at 34 weeks (or earlier if infection/distress)."
   }
 ];
