@@ -7882,5 +7882,737 @@ const questions = [
     ],
     "correct": "B",
     "rationale": "Endometriosis: functioning endometrial glands and stroma OUTSIDE the uterus. Most common sites: ovaries (chocolate cyst/endometrioma), pouch of Douglas, uterosacral ligaments, fallopian tubes. Symptoms: chronic pelvic pain, dysmenorrhea (progressive), dyspareunia (deep), infertility, dyschezia. Gold standard diagnosis: laparoscopy with biopsy. CA-125 may be elevated."
+  },
+  {
+    "section": "1: ANATOMY PART-1 - VULVA (External Genitalia)",
+    "question": "In the diagram of vulvar anatomy, the structure located between the urethral opening and the vaginal opening is:",
+    "options": [
+      "Clitoris",
+      "Skene's gland openings",
+      "Bartholin gland openings",
+      "Fourchette"
+    ],
+    "correct": "B",
+    "rationale": "Anatomical layout (top to bottom in vestibule): Clitoris -> Urethral opening -> Skene's (paraurethral) gland openings flanking urethra -> Vaginal opening (introitus) -> Bartholin gland openings at posterolateral aspect -> Fourchette (posterior junction). This sequence is essential for catheterization and clinical examination."
+  },
+  {
+    "section": "1: ANATOMY PART-1 - VULVA (External Genitalia)",
+    "question": "Female genital mutilation (FGM) Type III (infibulation) involves:",
+    "options": [
+      "Removal of clitoral hood only",
+      "Removal of clitoris only",
+      "Narrowing of vaginal opening by sealing labia",
+      "Pricking of genitalia"
+    ],
+    "correct": "C",
+    "rationale": "WHO FGM Classification: Type I (clitoridectomy - prepuce/clitoris removal), Type II (excision - labia minora removal), Type III (infibulation - narrowing introitus by cutting and repositioning labia, often sewn together leaving small opening), Type IV (other - pricking, piercing, cauterization). Complications: hemorrhage, infection, dyspareunia, obstructed labor, fistula."
+  },
+  {
+    "section": "1: ANATOMY PART-1 - VULVA (External Genitalia)",
+    "question": "Lichen sclerosus of the vulva is characterized by:",
+    "options": [
+      "Red painful lesions",
+      "White, atrophic, parchment-like skin (figure-of-8 around vulva and anus)",
+      "Multiple cysts",
+      "Hyperpigmentation"
+    ],
+    "correct": "B",
+    "rationale": "Lichen sclerosus: chronic inflammatory skin condition with atrophic white plaques in figure-of-8 distribution (around vulva and perianal area). Itching is intense. Architectural changes: loss of labia minora, clitoral hood phimosis, introital narrowing. Risk: 4-5% develop vulvar squamous cell carcinoma. Treatment: high-potency topical steroids (clobetasol)."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "The deep perineal pouch contains all EXCEPT:",
+    "options": [
+      "Deep transverse perinei muscle",
+      "External urethral sphincter",
+      "Bartholin glands",
+      "Bulbourethral glands (in males)"
+    ],
+    "correct": "C",
+    "rationale": "Deep perineal pouch (between superior and inferior layers of urogenital diaphragm): contains deep transverse perinei muscle, external urethral sphincter (sphincter urethrae), in males Cowper/bulbourethral glands. Bartholin's glands are in SUPERFICIAL perineal pouch (between perineal membrane and Colles fascia). Superficial pouch also has: bulbospongiosus, ischiocavernosus, superficial transverse perinei."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "Ischiorectal fossa contains:",
+    "options": [
+      "Levator ani muscle",
+      "Fat and pudendal nerve in Alcock's canal",
+      "Uterine artery",
+      "Ovarian vessels"
+    ],
+    "correct": "B",
+    "rationale": "Ischiorectal fossa: wedge-shaped space lateral to anal canal in the anal triangle. Contents: fat (allows distension during defecation/childbirth), pudendal nerve and internal pudendal vessels in Alcock's canal (pudendal canal, on lateral wall), inferior rectal nerve and vessels. Common site of ischiorectal abscess (very painful, requires surgical drainage)."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "The mesovarium attaches the ovary to the:",
+    "options": [
+      "Lateral pelvic wall",
+      "Uterus",
+      "Posterior surface of broad ligament",
+      "Bladder"
+    ],
+    "correct": "C",
+    "rationale": "Mesovarium: short peritoneal fold attaching the anterior surface of ovary to the POSTERIOR aspect of broad ligament. Contains ovarian vessels, nerves, lymphatics. Surgical importance: during oophorectomy, vessels travel through mesovarium and infundibulopelvic ligament. Mesosalpinx (suspending tube) and mesometrium (lateral to uterus) are other parts of broad ligament."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "Tubo-ovarian abscess (TOA) is most commonly a complication of:",
+    "options": [
+      "Ovarian cancer",
+      "Acute pelvic inflammatory disease (PID)",
+      "Endometriosis",
+      "Ectopic pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "TOA: complication of severe acute PID where infection spreads from tubes to ovaries forming a complex inflammatory mass. Organisms: Neisseria gonorrhoeae, Chlamydia trachomatis, anaerobes (Bacteroides). Presentation: fever, lower abdominal pain, adnexal mass. Treatment: IV antibiotics; if rupture or no response in 48-72 hrs - surgical drainage. Ruptured TOA = surgical emergency (sepsis, mortality)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The middle layer of myometrium (stratum vasculare) is unique because:",
+    "options": [
+      "It has no blood vessels",
+      "Its muscle fibers crisscross around blood vessels (acts as living ligature)",
+      "It is striated muscle",
+      "It is non-contractile"
+    ],
+    "correct": "B",
+    "rationale": "Stratum vasculare (middle myometrium): muscle fibers arranged in interlacing/crisscross pattern (figure-of-8) around blood vessels. After delivery, contraction of these fibers compresses the vessels = LIVING LIGATURE = mechanism for stopping postpartum bleeding. Atony of this layer = postpartum hemorrhage. Oxytocin enhances this contraction."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Most common position of the uterus that is considered a normal variant is:",
+    "options": [
+      "Anteverted, anteflexed",
+      "Retroverted, retroflexed",
+      "Hyperanteflexed",
+      "Lateral position"
+    ],
+    "correct": "A",
+    "rationale": "Anteverted-anteflexed (AVAF): normal in ~80% of women. The cervix points downward and backward; uterine body bends forward over bladder. Retroverted-retroflexed: 20% (normal variant unless symptomatic). Causes of pathological retroversion: endometriosis, PID adhesions, fibroids. Symptoms: dyspareunia, low backache, infertility. Pessary or surgical correction if symptomatic."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The Pap smear is recommended to begin at age:",
+    "options": [
+      "18 years",
+      "21 years (or 3 years after first sexual activity)",
+      "25 years",
+      "30 years"
+    ],
+    "correct": "B",
+    "rationale": "Pap smear screening (per current guidelines): Start at age 21 (regardless of sexual activity). 21-29 years: Pap every 3 years. 30-65 years: Pap + HPV co-testing every 5 years OR Pap alone every 3 years. Stop at 65 if 3 consecutive negative Paps in past 10 years. India: many programs start at 30 due to resource constraints."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "The HPV types most commonly associated with cervical cancer are:",
+    "options": [
+      "HPV 6 and 11",
+      "HPV 16 and 18 (high-risk)",
+      "HPV 1 and 2",
+      "HPV 30 and 31"
+    ],
+    "correct": "B",
+    "rationale": "HPV 16 and 18: cause ~70% of cervical cancers (high-risk types). HPV 16 also causes vulvar, anal, oropharyngeal cancers. HPV 6 and 11: low-risk types causing genital warts (condyloma acuminata) - NOT cervical cancer. Quadrivalent HPV vaccine (Gardasil): protects against 6, 11, 16, 18. Nonavalent (Gardasil-9): adds 31, 33, 45, 52, 58. Best given before sexual debut."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Female internal genital organs are determined by:",
+    "options": [
+      "Presence of estrogen",
+      "Absence of AMH (Anti-Mullerian Hormone) and androgens",
+      "Presence of testosterone",
+      "Presence of SRY gene"
+    ],
+    "correct": "B",
+    "rationale": "Default sex is FEMALE. Without AMH (which would cause Mullerian duct regression) and without androgens (which would virilize), the Mullerian duct develops into uterus/tubes/upper vagina, and external genitalia remain feminine. In males: SRY -> Testis -> AMH (causes Mullerian regression) + Testosterone (causes Wolffian duct development) + DHT (masculinizes external genitalia)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Persistent Mullerian Duct Syndrome (PMDS) occurs due to:",
+    "options": [
+      "Excess estrogen in male fetus",
+      "Defective AMH or AMH receptor in 46 XY individual",
+      "Absent Y chromosome",
+      "Excess androgens"
+    ],
+    "correct": "B",
+    "rationale": "PMDS: 46 XY male with normal external genitalia BUT has uterus and fallopian tubes (Mullerian structures persist). Cause: AMH gene mutation or AMH receptor defect - testes form but fail to suppress Mullerian duct. Often discovered during inguinal hernia surgery (uterus and tubes herniated). Treatment: removal of Mullerian remnants if causing problems."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "The proliferative phase of the endometrium corresponds to which ovarian phase?",
+    "options": [
+      "Luteal phase",
+      "Follicular phase (preovulatory)",
+      "Ovulation only",
+      "Menstrual phase"
+    ],
+    "correct": "B",
+    "rationale": "Synchronization of cycles: Endometrial proliferative phase (Day 5-14) = Ovarian follicular phase (under estrogen from growing follicles). Endometrial secretory phase (Day 15-28) = Ovarian luteal phase (under progesterone from corpus luteum). Menstrual phase (Day 1-4) corresponds to early follicular phase (low hormones, FSH starting to rise)."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Basal body temperature (BBT) increases by 0.2-0.5 degree C after ovulation due to:",
+    "options": [
+      "Estrogen",
+      "Progesterone (thermogenic effect on hypothalamus)",
+      "LH",
+      "FSH"
+    ],
+    "correct": "B",
+    "rationale": "Progesterone has thermogenic effect on hypothalamic temperature center, raising basal body temperature by 0.2-0.5 deg C after ovulation. BBT charting: temperature taken every morning before getting out of bed. Biphasic curve = ovulation occurred. Sustained elevation >18 days suggests pregnancy. Old method of natural family planning (rhythm method)."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Premenstrual syndrome (PMS) symptoms typically occur in:",
+    "options": [
+      "Follicular phase only",
+      "Luteal phase, resolving with menses",
+      "Throughout cycle",
+      "Only during menstruation"
+    ],
+    "correct": "B",
+    "rationale": "PMS: physical and behavioral symptoms in LUTEAL phase (after ovulation), resolving within days of menses onset. Symptoms: irritability, mood swings, depression, breast tenderness, bloating, headache. Severe form = Premenstrual Dysphoric Disorder (PMDD). Treatment: lifestyle, NSAIDs, OCPs, SSRIs (luteal phase only or continuous), GnRH agonists (severe cases)."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "First-line management of dysfunctional uterine bleeding (DUB) in adolescents is:",
+    "options": [
+      "Hysterectomy",
+      "Combined oral contraceptive pills (OCPs)",
+      "Endometrial ablation",
+      "Dilatation and curettage"
+    ],
+    "correct": "B",
+    "rationale": "Adolescent DUB: usually anovulatory due to immature HPO axis. First-line: COMBINED OCPs (regulate cycles, suppress endometrial growth, reduce bleeding). Severe acute bleeding: high-dose estrogen IV or oral. NEVER do D&C in adolescents (risk of Asherman syndrome and trauma). Tranexamic acid: also useful (decreases blood loss 40-50%)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "The dose of folic acid recommended periconceptionally to prevent neural tube defects is:",
+    "options": [
+      "100 mcg/day",
+      "400 mcg (0.4 mg)/day for low-risk; 4-5 mg/day for high-risk women",
+      "10 mg/day",
+      "50 mg/day"
+    ],
+    "correct": "B",
+    "rationale": "Folic acid: 400 mcg (0.4 mg)/day for low-risk women, starting at least 1 month before conception and continuing through 1st trimester. 4-5 mg/day for HIGH-RISK: previous NTD baby, on antiepileptic drugs (especially valproate, carbamazepine), diabetes, obesity, malabsorption. Reduces NTD risk by 70%. India: anemia mukt bharat program includes folic acid."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The number of polar bodies released during oogenesis is:",
+    "options": [
+      "1",
+      "2 (one at meiosis I, one at meiosis II)",
+      "3",
+      "4"
+    ],
+    "correct": "B",
+    "rationale": "Oogenesis produces 1 secondary oocyte + 2 polar bodies (NOT 4 like spermatogenesis). Meiosis I (completed at ovulation due to LH surge): 1 secondary oocyte + 1st polar body. Meiosis II (completed at fertilization): 1 ovum + 2nd polar body. The 1st polar body may also divide making 3 total polar bodies. Polar bodies degenerate. Asymmetric division ensures all nutrients go to ovum."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "Spermatogenesis takes how long?",
+    "options": [
+      "24 hours",
+      "70-75 days",
+      "1 year",
+      "5 years"
+    ],
+    "correct": "B",
+    "rationale": "Spermatogenesis: 70-75 days (~10-11 weeks) from spermatogonium to mature spermatozoa. Begins at puberty, continues throughout life. Stages: Spermatogonia (mitosis) -> Primary spermatocyte (meiosis I) -> Secondary spermatocyte (meiosis II) -> Spermatids -> Spermatozoa (after spermiogenesis). Each spermatogonium produces 4 spermatozoa (vs 1 ovum in oogenesis)."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Calcification of placenta is graded by Grannum classification. Grade III placenta indicates:",
+    "options": [
+      "Immature placenta",
+      "Mature placenta typically seen near term (>=37 weeks)",
+      "Always pathological",
+      "Placenta of preterm pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "Grannum grading of placental maturity: Grade 0 (homogeneous, <30 wks), Grade I (subtle calcifications, 30-32 wks), Grade II (visible calcifications, 32-36 wks), Grade III (extensive calcifications, dense - typically >=37 weeks/term). Grade III before 36 weeks = premature placental aging (associated with hypertension, smoking, IUGR). Modern practice: less reliance on grading."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "Maternal plasma estriol (E3) levels rapidly fall in:",
+    "options": [
+      "Normal pregnancy",
+      "Anencephaly (no fetal adrenal stimulation)",
+      "Twin pregnancy",
+      "Molar pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "E3 synthesis requires fetal adrenal precursor (DHEA-S) and placental aromatization = needs intact fetoplacental unit. ANENCEPHALY: absent pituitary -> no ACTH -> hypoplastic fetal adrenals -> very low DHEA-S -> very low E3. Also low in: fetal demise, IUGR, placental insufficiency, maternal corticosteroid therapy (suppresses fetal adrenals). E3 monitoring less used now (replaced by USG/Doppler)."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Amnioinfusion is the procedure of:",
+    "options": [
+      "Removing excess amniotic fluid",
+      "Instilling sterile saline into amniotic cavity to relieve cord compression",
+      "Testing amniotic fluid",
+      "Diagnostic amniocentesis"
+    ],
+    "correct": "B",
+    "rationale": "Amnioinfusion: instillation of warm sterile saline into amniotic cavity through transcervical catheter during labor. Indications: variable decelerations from cord compression (oligohydramnios), thick meconium (dilution to reduce MAS risk - though this benefit now disputed). Reduces cesarean rates for non-reassuring FHR. Risks: chorioamnionitis, uterine rupture (rare)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "ACE inhibitors (e.g., enalapril) in pregnancy cause:",
+    "options": [
+      "No effect",
+      "Fetal renal failure, oligohydramnios, skull hypoplasia (especially 2nd/3rd trimester)",
+      "Neural tube defects",
+      "Cardiac defects only"
+    ],
+    "correct": "B",
+    "rationale": "ACE inhibitors and ARBs: Category D (1st trimester) and X (2nd/3rd trimester). Fetopathy: renal hypoplasia/dysplasia, oligohydramnios -> pulmonary hypoplasia, limb contractures, calvarial hypoplasia (skull bone underdevelopment), hypotension. Mechanism: fetal kidneys depend on angiotensin II for normal development. Switch to safe antihypertensives: methyldopa, labetalol, nifedipine."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Methotrexate in pregnancy is contraindicated because it causes:",
+    "options": [
+      "Maternal toxicity only",
+      "Aminopterin syndrome (CNS, craniofacial, limb defects)",
+      "Hypotension",
+      "No fetal effects"
+    ],
+    "correct": "B",
+    "rationale": "Methotrexate: folate antagonist, FDA Category X. Causes aminopterin/methotrexate syndrome: CNS abnormalities (anencephaly, hydrocephalus), craniofacial defects (cleft lip/palate, low-set ears), limb defects, growth restriction, mental retardation. Used therapeutically in unruptured ectopic pregnancy (NOT intrauterine pregnancy). Wait 3 months after stopping before conception."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "VBAC (Vaginal Birth After Cesarean) is contraindicated in:",
+    "options": [
+      "Previous one low transverse cesarean",
+      "Previous classical (vertical) cesarean - high rupture risk",
+      "Healthy second pregnancy",
+      "Twin pregnancy alone"
+    ],
+    "correct": "B",
+    "rationale": "VBAC contraindications: Previous classical (vertical) cesarean (rupture risk 4-9%), Previous T or J incision, Previous uterine rupture, More than 2 prior cesareans, Placenta previa, Contracted pelvis. Low transverse uterine incision: rupture risk only 0.5-1% - VBAC is safe with monitoring. Successful VBAC rate: ~70%. Counseling and informed consent essential."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Uses of ultrasound in pregnancy include all EXCEPT:",
+    "options": [
+      "Confirm pregnancy and dating",
+      "Detect fetal anomalies",
+      "Assess amniotic fluid",
+      "Determine paternity"
+    ],
+    "correct": "D",
+    "rationale": "Ultrasound uses: 1) Confirm pregnancy (gestational sac at 5 weeks), 2) Dating (most accurate <20 weeks - CRL), 3) Detect anomalies (TIFFA at 18-20 wks), 4) Assess fetal growth (BPD, HC, AC, FL), 5) Locate placenta (rule out previa), 6) Assess amniotic fluid (AFI), 7) Determine fetal lie/presentation, 8) Doppler studies. Paternity is determined by DNA testing, not USG."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "The crown-rump length (CRL) is the most accurate measurement for dating pregnancy in:",
+    "options": [
+      "First trimester (6-13 weeks)",
+      "Second trimester only",
+      "Third trimester only",
+      "At any gestational age"
+    ],
+    "correct": "A",
+    "rationale": "CRL: measured from top of fetal head (crown) to bottom of buttocks (rump). Most accurate dating method in 1st trimester (6-13 weeks) - accurate to +/- 5-7 days. After 13 weeks: BPD (biparietal diameter), HC (head circumference), AC (abdominal circumference), FL (femur length) used. Accuracy decreases with gestational age (3rd trimester: +/- 3 weeks)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "All pregnant women in India should receive how many doses of tetanus toxoid?",
+    "options": [
+      "1 dose",
+      "2 doses (4 weeks apart) in primigravida; 1 booster in subsequent pregnancies",
+      "3 doses",
+      "5 doses"
+    ],
+    "correct": "B",
+    "rationale": "TT schedule in pregnancy (India): Primigravida - 2 doses (TT-1 at first contact in 2nd trimester, TT-2 at least 4 weeks later, ideally 1 month before delivery). Multigravida (within 3 years of last TT): only 1 BOOSTER dose. Multigravida >3 years since last TT: full 2 doses. Some programs now use Tdap (replaces TT - includes pertussis protection for newborn)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "The most common cause of anemia in pregnancy is:",
+    "options": [
+      "Vitamin B12 deficiency",
+      "Iron deficiency anemia",
+      "Folate deficiency",
+      "Thalassemia"
+    ],
+    "correct": "B",
+    "rationale": "Iron deficiency: most common anemia in pregnancy (50-80% in developing countries). Pregnancy needs ~1000 mg extra iron (fetus 300, placenta 50, expanded RBC mass 500, blood loss at delivery 200). Diet alone insufficient - supplementation needed. WHO Hb cutoff: <11 g/dL (1st & 3rd trimester), <10.5 g/dL (2nd). Severe: <7 g/dL needs IV iron or transfusion."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Normal range of hemoglobin in pregnancy (WHO) is:",
+    "options": [
+      ">=11 g/dL throughout",
+      ">=11 g/dL in 1st & 3rd trimester; >=10.5 g/dL in 2nd trimester",
+      ">=12 g/dL throughout",
+      ">=9 g/dL throughout"
+    ],
+    "correct": "B",
+    "rationale": "WHO Hb cutoffs in pregnancy: 1st trimester >=11 g/dL, 2nd trimester >=10.5 g/dL (lowest due to maximum hemodilution), 3rd trimester >=11 g/dL. Below these = anemia. Indian classification: Mild (10-10.9), Moderate (7-9.9), Severe (<7), Very severe (<4) g/dL. Below 7: requires hospitalization, IV iron, possible transfusion."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "The total iron requirement during pregnancy is approximately:",
+    "options": [
+      "100 mg",
+      "1000 mg",
+      "5000 mg",
+      "10,000 mg"
+    ],
+    "correct": "B",
+    "rationale": "Total iron requirement in pregnancy: ~1000 mg = Expansion of maternal RBC mass (500 mg) + Fetus (300 mg) + Placenta and cord (50 mg) + Blood loss at delivery (200 mg). Daily requirement: 27 mg vs 18 mg non-pregnant. Standard supplementation: 60-100 mg elemental iron + 500 mcg folic acid daily from 14 weeks (Indian guidelines)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "The thyroid gland in pregnancy:",
+    "options": [
+      "Decreases in size",
+      "Enlarges (~10-20%) and increases hormone production",
+      "Becomes non-functional",
+      "Remains unchanged"
+    ],
+    "correct": "B",
+    "rationale": "Thyroid changes: gland enlarges by 10-20% (hyperplasia and hypervascularity). hCG has thyrotropic activity (similar alpha subunit to TSH) - mildly stimulates thyroid in early pregnancy. Total T3/T4 increase (due to TBG increase from estrogen) but FREE T3/T4 remain near normal. TSH slightly suppressed in 1st trimester (hCG effect). Iodine requirement increases."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Mild hyperthyroidism in early pregnancy may be physiological due to:",
+    "options": [
+      "Iodine deficiency",
+      "Stimulation of thyroid by hCG (similar alpha subunit to TSH)",
+      "Decreased TBG",
+      "Adrenal insufficiency"
+    ],
+    "correct": "B",
+    "rationale": "Gestational transient hyperthyroidism: due to high hCG cross-reacting with TSH receptors (especially common in molar pregnancy, hyperemesis gravidarum, multiple pregnancy where hCG is very high). Self-limiting, resolves with declining hCG after 12-14 weeks. Distinguishing from Graves: no goiter, no eye signs, negative TRAb, resolves spontaneously."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Estrogen in pregnancy is mainly produced by:",
+    "options": [
+      "Maternal ovary throughout",
+      "Fetoplacental unit (fetal adrenal + placenta)",
+      "Maternal adrenal gland only",
+      "Corpus luteum throughout pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "Estrogens in pregnancy = Fetoplacental unit cooperation. Fetal adrenal: produces DHEA-S (precursor). Fetal liver: 16-hydroxylates DHEA-S. Placenta: aromatizes precursors to estrogens (E1, E2, E3). Estriol (E3) production specifically requires intact fetus AND placenta - hence used as marker of fetal well-being. Placenta lacks 16-alpha hydroxylase (needed for E3) so depends on fetus."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Diabetogenic effect of pregnancy peaks in:",
+    "options": [
+      "1st trimester",
+      "2nd-3rd trimester (16-28 weeks)",
+      "Immediately after delivery",
+      "Pre-pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "Insulin resistance progressively increases in pregnancy due to: hPL (placental lactogen, peaks 3rd trimester), cortisol (3x normal), progesterone, prolactin, growth hormone. Maximum insulin resistance: 24-28 weeks (when GDM screening is done). After delivery, insulin sensitivity rapidly returns to normal as placenta is removed. GDM resolves in 90% but increases lifetime DM risk by 50%."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "After medical abortion, the most common complication is:",
+    "options": [
+      "Uterine perforation",
+      "Incomplete abortion requiring surgical evacuation (5-10%)",
+      "Uterine rupture",
+      "Maternal death"
+    ],
+    "correct": "B",
+    "rationale": "Medical abortion (mifepristone + misoprostol): complete abortion rate 95%. Incomplete abortion: 5-10% needing MVA/D&C. Failed (continuing pregnancy): 1-2%. Other complications: heavy bleeding (rarely needing transfusion), infection (<1%), pain. Advantages over surgical: avoids anesthesia, more privacy, no instrumentation. Limitation: only effective up to 9-10 weeks gestation."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "After surgical abortion, contraception should be initiated:",
+    "options": [
+      "After 6 weeks",
+      "Immediately or before discharge (ovulation can return within 2-3 weeks)",
+      "After next menstrual period",
+      "Never required"
+    ],
+    "correct": "B",
+    "rationale": "Ovulation can return as early as 2 weeks (8-10 days) after first trimester abortion. Contraception should be initiated IMMEDIATELY post-abortion to prevent unintended pregnancy. IUD can be inserted at the time of MVA/D&C (immediate post-abortion IUD - high continuation, low expulsion). Combined OCPs can be started same day. Bilateral tubal ligation also possible if desired."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Methotrexate dose for unruptured ectopic pregnancy is:",
+    "options": [
+      "Single dose 50 mg/m2 IM",
+      "Daily oral 5 mg",
+      "10 mg/m2 IV daily x 5 days",
+      "Single dose 1 g IV"
+    ],
+    "correct": "A",
+    "rationale": "Methotrexate dosing for ectopic: Single dose protocol: 50 mg/m2 IM Day 1 (most common). Multi-dose protocol: 1 mg/kg IM alternating with leucovorin (folinic acid rescue). Day 4 and Day 7 hCG measurement - should fall by >=15% between days 4 and 7. If not, give second dose. Success rate: 85-90% for single dose. Avoid: alcohol, NSAIDs, folate supplements during treatment."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Salpingostomy (linear incision and removal of products) preserves the tube. It is preferred when:",
+    "options": [
+      "Tube is severely damaged",
+      "Patient desires future fertility and has unruptured ectopic with intact contralateral tube",
+      "Massive hemorrhage",
+      "Patient is hemodynamically unstable"
+    ],
+    "correct": "B",
+    "rationale": "Salpingostomy: linear incision on antimesenteric border of tube, ectopic removed, tube left to heal by secondary intention. Preserves tube for future fertility. Indications: unruptured ectopic, future fertility desired, contralateral tube damaged or absent, hemodynamically stable. Risk: persistent trophoblast (5-10%) needing methotrexate. Salpingectomy preferred if recurrent ectopic in same tube or massive damage."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "WHO scoring for gestational trophoblastic neoplasia (GTN) considers all EXCEPT:",
+    "options": [
+      "Patient age",
+      "Antecedent pregnancy type",
+      "Interval from index pregnancy",
+      "Patient education level"
+    ],
+    "correct": "D",
+    "rationale": "WHO/FIGO GTN scoring parameters: Age, antecedent pregnancy (mole/abortion/term), interval since index pregnancy (months), pre-treatment hCG level, largest tumor size, site of metastasis, number of metastases, previous failed chemotherapy. Score <7 = low risk (single agent chemo). Score >=7 = high risk (multi-agent chemo, EMA-CO regimen). Education level not a factor."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "After choriocarcinoma treatment with chemotherapy, beta-hCG should be monitored for:",
+    "options": [
+      "1 month",
+      "12 months minimum after normalization",
+      "10 years",
+      "Lifetime"
+    ],
+    "correct": "B",
+    "rationale": "After choriocarcinoma cure: monitor beta-hCG monthly for 12 months minimum (some recommend 24 months). Avoid pregnancy during this period (would mask recurrence detection by raising hCG). Use reliable contraception (OCP). After 12 months of normal hCG, pregnancy is allowed. Subsequent pregnancies: ~98% have normal outcome. Recurrence rate after cure: <5%."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Twin-to-twin transfusion syndrome (TTTS) occurs in:",
+    "options": [
+      "All twin pregnancies",
+      "Monochorionic twins (sharing placenta with vascular anastomoses)",
+      "Dichorionic twins only",
+      "Singleton pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "TTTS: complication of MONOCHORIONIC twin pregnancy (shared placenta with arteriovenous anastomoses). Unidirectional shunting causes: Donor twin = hypovolemic, anemic, oligohydramnios, IUGR, 'stuck twin' appearance. Recipient twin = hypervolemic, polycythemic, polyhydramnios, cardiac failure, hydrops. Treatment: amnioreduction (palliative) or fetoscopic laser ablation of anastomoses (definitive)."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Lamellar body count (LBC) in amniotic fluid is used to assess:",
+    "options": [
+      "Chromosomal abnormalities",
+      "Fetal lung maturity (alternative to L/S ratio)",
+      "Neural tube defects",
+      "Infection"
+    ],
+    "correct": "B",
+    "rationale": "Lamellar bodies: storage form of surfactant in Type II pneumocytes. LBC measured by automated cell counter on amniotic fluid sample. >50,000/uL = mature lungs. <15,000/uL = immature. Advantages over L/S ratio: faster (15 min vs hours), automated, less affected by blood/meconium contamination. Now widely used for assessing fetal lung maturity."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Phenytoin in pregnancy can cause fetal hydantoin syndrome characterized by:",
+    "options": [
+      "Limb amputation",
+      "Craniofacial dysmorphism, IUGR, hypoplastic nails/distal phalanges",
+      "Renal agenesis",
+      "Cardiac defects only"
+    ],
+    "correct": "B",
+    "rationale": "Fetal hydantoin syndrome: 5-10% of phenytoin-exposed fetuses. Features: craniofacial dysmorphism (broad nasal bridge, short nose, hypertelorism, cleft lip/palate), distal digital hypoplasia (small distal phalanges, hypoplastic nails), microcephaly, IUGR, mental retardation (2-3x increased risk). Other AED teratogens: Valproate (NTDs - 1-2%), Carbamazepine (NTDs, similar to hydantoin syndrome)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Diethylstilbestrol (DES) exposure in utero causes:",
+    "options": [
+      "Limb defects",
+      "Clear cell adenocarcinoma of vagina/cervix and T-shaped uterus",
+      "Cardiac defects",
+      "Neural tube defects"
+    ],
+    "correct": "B",
+    "rationale": "DES (synthetic estrogen, used 1940s-1970s for threatened abortion - now banned): Daughters exposed in utero develop: clear cell adenocarcinoma of vagina/cervix (rare but distinctive), structural anomalies of cervix (cervical hood, cockscomb), T-shaped uterus, infertility, ectopic pregnancy, preterm labor. Sons: epididymal cysts, hypospadias, cryptorchidism. Effects appear at adolescence/adulthood."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Routine investigations done in the first antenatal visit include all EXCEPT:",
+    "options": [
+      "Hemoglobin, blood group and Rh typing",
+      "Urine for protein/sugar",
+      "VDRL/RPR (syphilis), HIV, HBsAg",
+      "BRCA gene testing"
+    ],
+    "correct": "D",
+    "rationale": "First antenatal visit investigations: Complete blood count (Hb, TLC, platelets), Blood group and Rh, Urine routine (proteins, sugars, microscopy), VDRL (syphilis), HIV, HBsAg, Random/fasting blood sugar, TSH (in many guidelines), USG for dating. BRCA testing is NOT routine - only for women with strong family history of breast/ovarian cancer."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Daily caloric requirement in pregnancy is increased by:",
+    "options": [
+      "1000 kcal/day",
+      "300 kcal/day in 2nd and 3rd trimester",
+      "500 kcal/day throughout",
+      "No change"
+    ],
+    "correct": "B",
+    "rationale": "Caloric needs: +300 kcal/day in 2nd and 3rd trimester (no extra in 1st). Total weight gain: 10-12 kg (BMI normal). BMI <19 (underweight): gain 12-18 kg. BMI 25-30 (overweight): gain 7-11 kg. BMI >30 (obese): gain 5-9 kg. Protein: extra 25 g/day (total 70 g/day). Calcium: 1200 mg/day. Iron: 27 mg/day. Folic acid: 600 mcg/day."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Live vaccines contraindicated in pregnancy include all EXCEPT:",
+    "options": [
+      "MMR (Measles, Mumps, Rubella)",
+      "Tetanus toxoid",
+      "Varicella",
+      "Yellow fever"
+    ],
+    "correct": "B",
+    "rationale": "Tetanus toxoid is INACTIVATED (toxoid) - SAFE in pregnancy. Live vaccines AVOIDED in pregnancy: MMR (theoretical risk to fetus), Varicella, Yellow Fever, BCG, Live polio (OPV), Live influenza (intranasal), Smallpox. Inactivated vaccines SAFE: Tetanus, Diphtheria, Pertussis (Tdap), Hepatitis B, Influenza injection, Rabies, Inactivated polio (IPV)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Tdap (Tetanus, Diphtheria, acellular Pertussis) vaccine in pregnancy is given at:",
+    "options": [
+      "First trimester",
+      "27-36 weeks (preferably 27-32 weeks)",
+      "Just before delivery",
+      "Postpartum only"
+    ],
+    "correct": "B",
+    "rationale": "Tdap: ideally given at 27-36 weeks (peak antibody transfer to fetus). Purpose: protects newborn from PERTUSSIS (whooping cough) - which can be fatal in young infants. Maternal antibodies transferred via placenta provide passive immunity for first 2-3 months until baby's own pertussis vaccine. Replaces TT in many countries. Must be given in EACH pregnancy (antibody levels wane)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Foods to avoid during pregnancy due to listeria/toxoplasma risk include all EXCEPT:",
+    "options": [
+      "Unpasteurized milk and soft cheeses",
+      "Raw/undercooked meat and seafood",
+      "Cooked rice and well-cooked vegetables",
+      "Deli meats and pate"
+    ],
+    "correct": "C",
+    "rationale": "AVOID in pregnancy: Unpasteurized dairy (Listeria), Soft cheeses like brie/feta unless pasteurized, Raw/undercooked meat (Toxoplasma, Salmonella), Raw fish/sushi (Listeria, parasites), Deli meats/pate (Listeria), High-mercury fish (shark, tilefish, king mackerel - mercury toxicity), Raw eggs (Salmonella), Excess caffeine (>200 mg/day). Cooked foods are SAFE."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "TORCH infection screen includes all EXCEPT:",
+    "options": [
+      "Toxoplasmosis",
+      "Rubella",
+      "Cytomegalovirus (CMV) and Herpes simplex",
+      "Tuberculosis"
+    ],
+    "correct": "D",
+    "rationale": "TORCH: Toxoplasmosis, Other (Syphilis, HIV, Hepatitis B, Varicella, Parvovirus B19), Rubella, CMV, Herpes simplex (HSV). All can cause congenital infection with severe fetal effects: IUGR, microcephaly, intracranial calcifications, deafness, cataracts, hepatosplenomegaly. Tuberculosis screening done separately if risk factors present (not part of TORCH)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Coagulation changes in pregnancy include:",
+    "options": [
+      "Decreased fibrinogen and clotting factors",
+      "Increased fibrinogen, factors VII, VIII, X; decreased protein S",
+      "Increased bleeding tendency",
+      "No change in coagulation"
+    ],
+    "correct": "B",
+    "rationale": "Pregnancy = hypercoagulable state. INCREASED: Fibrinogen (300->450 mg/dL), Factors I, II, VII, VIII, IX, X, XII; vWF; D-dimer. DECREASED: Protein S (anticoagulant), fibrinolysis (PAI-1 increased). Protein C: unchanged. Net effect: 5-10x increased VTE risk. Highest in postpartum (first 6 weeks). Use LMWH for prophylaxis if risk factors. D-dimer NOT useful for VTE diagnosis in pregnancy (always elevated)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Postpartum hemorrhage (PPH) is defined as blood loss greater than:",
+    "options": [
+      "100 mL",
+      "500 mL after vaginal delivery (or 1000 mL after cesarean)",
+      "2000 mL",
+      "Any visible bleeding"
+    ],
+    "correct": "B",
+    "rationale": "PPH definition: blood loss >500 mL after vaginal delivery or >1000 mL after cesarean within 24 hours of delivery. Severe PPH: >1500 mL or hemodynamic instability. Primary PPH: within 24 hours (most common cause: uterine atony). Secondary PPH: 24 hours to 12 weeks postpartum (most common cause: retained products, infection). Mnemonic for causes: 4 T's - Tone, Tissue, Trauma, Thrombin."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "The most common cause of primary postpartum hemorrhage is:",
+    "options": [
+      "Genital tract trauma",
+      "Uterine atony",
+      "Retained placenta",
+      "Coagulopathy"
+    ],
+    "correct": "B",
+    "rationale": "Causes of PPH (4 T's): TONE (uterine atony - 80%, most common), TRAUMA (cervical/vaginal lacerations, uterine rupture - 15%), TISSUE (retained placenta/cotyledon - 10%), THROMBIN (coagulopathy - 1%). Risk factors for atony: prolonged labor, oxytocin use, multiparity, polyhydramnios, multiple pregnancy, large baby, chorioamnionitis. Treatment: uterotonics (oxytocin, ergometrine, misoprostol, carboprost)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Active management of third stage of labor includes all EXCEPT:",
+    "options": [
+      "Uterotonic (oxytocin) within 1 minute of delivery",
+      "Controlled cord traction",
+      "Uterine massage after delivery of placenta",
+      "Waiting for spontaneous placental separation only"
+    ],
+    "correct": "D",
+    "rationale": "Active management of 3rd stage (AMTSL) - prevents PPH, reduces by 60%. Components: 1) Oxytocin 10 IU IM within 1 minute of delivery (most important), 2) Controlled cord traction with counter-traction on uterus (Brandt-Andrews maneuver), 3) Uterine massage after placental delivery (until firm). Modified AMTSL: skips uterine massage. WHO recommends AMTSL routinely."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Anti-D immunoglobulin should be given to Rh-negative women after abortion if:",
+    "options": [
+      "Only after term delivery",
+      "After any abortion (spontaneous or induced) regardless of gestational age",
+      "Only if abortion is after 12 weeks",
+      "Never required"
+    ],
+    "correct": "B",
+    "rationale": "Anti-D after abortion: GIVEN to ALL Rh-negative women regardless of gestational age. Doses: <12 weeks - 50 mcg (250 IU); >=12 weeks - 300 mcg (1500 IU). Also after: ectopic pregnancy, molar pregnancy, threatened abortion with bleeding, amniocentesis/CVS, abdominal trauma, external cephalic version. Prevents formation of anti-D antibodies that could cause hemolytic disease in future pregnancies."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Tranexamic acid in menorrhagia acts by:",
+    "options": [
+      "Suppressing ovulation",
+      "Inhibiting fibrinolysis (antifibrinolytic)",
+      "Increasing platelets",
+      "Vasoconstriction"
+    ],
+    "correct": "B",
+    "rationale": "Tranexamic acid: antifibrinolytic - inhibits plasminogen activation, preventing breakdown of fibrin clots. Reduces menstrual blood loss by 40-50%. Dose: 1 g 3-4 times daily during menses (max 5 days). Side effects: GI upset, headache. Contraindicated: history of thromboembolism. Also used for: PPH (saves lives - WOMAN trial), surgical bleeding, trauma (CRASH-2 trial)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Mirena IUS (intrauterine system) releases:",
+    "options": [
+      "Estrogen",
+      "Levonorgestrel (progestin)",
+      "Copper",
+      "GnRH agonist"
+    ],
+    "correct": "B",
+    "rationale": "Mirena IUS: releases levonorgestrel (progestin) 20 mcg/day for 5 years (FDA approved up to 8 years). Mechanism: thickens cervical mucus, thins endometrium, partially inhibits ovulation. Uses: contraception (>99% effective), heavy menstrual bleeding (reduces bleeding 80-95%), endometrial protection during HRT, dysmenorrhea, adenomyosis, endometrial hyperplasia/cancer prevention."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Cervical screening using VIA (Visual Inspection with Acetic Acid) shows positive if:",
+    "options": [
+      "Cervix turns blue",
+      "Acetowhite areas appear in transformation zone",
+      "Cervix bleeds",
+      "Erythema of cervix"
+    ],
+    "correct": "B",
+    "rationale": "VIA: acetic acid (3-5%) applied to cervix; viewed under good light. ABNORMAL areas turn WHITE (acetowhite) within 1 minute - indicates increased nuclear density (CIN, carcinoma). Sensitivity: 70-80% for CIN. Used in low-resource settings (no need for cytology lab). 'Single visit approach': VIA followed by immediate cryotherapy or LEEP if positive (see-and-treat)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Uterine fibroids (leiomyomas) are most commonly located in which layer?",
+    "options": [
+      "Endometrium",
+      "Myometrium (intramural fibroids - most common)",
+      "Perimetrium",
+      "Cervix"
+    ],
+    "correct": "B",
+    "rationale": "Fibroid (leiomyoma) types by location: 1) Intramural (within myometrium - MOST COMMON, 70%), 2) Submucosal (project into cavity - cause heavy bleeding even when small), 3) Subserosal (project outward - may be pedunculated), 4) Cervical (rare, can cause obstruction). Most common benign tumor in women. Estrogen-dependent (regress after menopause). Symptoms: menorrhagia, pelvic pressure, infertility."
   }
 ];
