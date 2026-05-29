@@ -8614,5 +8614,317 @@ const questions = [
     ],
     "correct": "B",
     "rationale": "Fibroid (leiomyoma) types by location: 1) Intramural (within myometrium - MOST COMMON, 70%), 2) Submucosal (project into cavity - cause heavy bleeding even when small), 3) Subserosal (project outward - may be pedunculated), 4) Cervical (rare, can cause obstruction). Most common benign tumor in women. Estrogen-dependent (regress after menopause). Symptoms: menorrhagia, pelvic pressure, infertility."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "Time taken for the morula to reach the uterine cavity is approximately:",
+    "options": [
+      "1 day",
+      "3-4 days after fertilization",
+      "7 days",
+      "10 days"
+    ],
+    "correct": "B",
+    "rationale": "Timeline of zygote transport: Day 1 = fertilization in ampulla. Day 1-3 = cleavage divisions while in tube (2->4->8->16 cell). Day 3 = morula in tube. Day 4 = morula enters uterine cavity. Day 5-6 = blastocyst forms (free in cavity). Day 6-7 = implantation begins. Day 10 = implantation complete. The 4-day journey through tube relies on cilia and peristalsis."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "Polar body biopsy is performed during:",
+    "options": [
+      "Pregnancy",
+      "Preimplantation Genetic Diagnosis (PGD) before fertilization",
+      "Post-implantation",
+      "Trimester screening"
+    ],
+    "correct": "B",
+    "rationale": "Polar body biopsy: removes 1st or 2nd polar body for genetic testing in PGD/PGS during IVF. Advantages: only maternal genetic material assessed, less invasive than blastomere biopsy. Limitations: only tells about MATERNAL genetic status (not paternal). Used for autosomal recessive maternal disorders, mitochondrial disease, X-linked diseases. Cleavage stage or trophectoderm biopsy more common now."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "The maternal blood that bathes the chorionic villi in the intervillous space comes from:",
+    "options": [
+      "Uterine veins",
+      "Spiral arteries (after trophoblast invasion converts them to low-resistance vessels)",
+      "Ovarian vessels",
+      "Umbilical artery"
+    ],
+    "correct": "B",
+    "rationale": "Spiral arteries (branches of uterine artery): converted by EXTRAVILLOUS TROPHOBLAST invasion into low-resistance, high-capacity vessels in 1st and 2nd trimester. This 'physiological conversion' allows ~600 mL/min uteroplacental blood flow at term. Failure of trophoblast invasion = preeclampsia (high resistance, poor perfusion, placental ischemia, releases anti-angiogenic factors)."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Failure of trophoblast invasion of spiral arteries is the underlying mechanism of:",
+    "options": [
+      "Placenta accreta",
+      "Preeclampsia",
+      "Placenta previa",
+      "Vasa previa"
+    ],
+    "correct": "B",
+    "rationale": "Preeclampsia: shallow trophoblast invasion fails to remodel spiral arteries -> high-resistance uteroplacental circulation -> placental ischemia -> release of anti-angiogenic factors (sFlt-1, soluble endoglin) and inflammatory mediators -> systemic endothelial dysfunction -> hypertension, proteinuria, organ damage. Stage 1: poor placentation (subclinical). Stage 2: maternal syndrome (clinical preeclampsia)."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Placenta increta refers to:",
+    "options": [
+      "Villi attached to myometrium without invasion",
+      "Villi invading INTO myometrium",
+      "Villi penetrating THROUGH myometrium to serosa/bladder",
+      "Normal placenta"
+    ],
+    "correct": "B",
+    "rationale": "Placenta accreta spectrum (PAS): graded by depth of invasion. Accreta (75%): villi attach to myometrium (no decidua basalis but no invasion). Increta (15%): villi invade INTO myometrium. Percreta (5-10%): villi penetrate THROUGH myometrium to serosa, may invade bladder/bowel. Risk factors: previous cesarean (most important), placenta previa over scar, maternal age, multiparity, prior uterine surgery."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Management of suspected placenta accreta at delivery is:",
+    "options": [
+      "Forceful manual removal of placenta",
+      "Planned cesarean hysterectomy with placenta in situ at 34-36 weeks",
+      "Vaginal delivery",
+      "Methotrexate alone"
+    ],
+    "correct": "B",
+    "rationale": "Placenta accreta delivery plan: PLANNED cesarean hysterectomy with placenta LEFT IN SITU at 34-36 weeks (after antenatal steroids). Performed at tertiary center with multidisciplinary team. NEVER attempt to remove placenta forcefully (massive hemorrhage, mortality). If fertility desired and accreta is focal: conservative management (uterine artery embolization, methotrexate, leave placenta in situ to resorb)."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "hCG levels are usually undetectable in maternal serum after delivery by:",
+    "options": [
+      "1 day",
+      "1-2 weeks postpartum",
+      "1 month",
+      "6 months"
+    ],
+    "correct": "B",
+    "rationale": "hCG half-life: 24-36 hours. After delivery (term/abortion), hCG falls progressively. Becomes undetectable: 1-2 weeks (some up to 4 weeks). Persistent hCG after delivery = retained products of conception, GTN, choriocarcinoma. After complete molar evacuation: serial weekly hCG until 3 consecutive normal levels, then monthly for 6-12 months."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Polyhydramnios is most commonly idiopathic, but other causes include all EXCEPT:",
+    "options": [
+      "Maternal diabetes",
+      "Fetal anomalies (anencephaly, esophageal atresia)",
+      "Twin-to-twin transfusion (recipient twin)",
+      "Renal agenesis"
+    ],
+    "correct": "D",
+    "rationale": "Polyhydramnios causes: Idiopathic (60%), Maternal diabetes (poorly controlled - osmotic diuresis in fetus), Fetal anomalies preventing swallowing (anencephaly, esophageal/duodenal atresia), Multiple pregnancy (especially TTTS recipient), Fetal hydrops (Rh disease, parvovirus). Renal agenesis causes OLIGOHYDRAMNIOS (no fetal urine), NOT polyhydramnios."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Maternal varicella infection is most dangerous to fetus when contracted at:",
+    "options": [
+      "Any time",
+      "<20 weeks (congenital varicella syndrome) or perinatal (5 days before to 2 days after delivery)",
+      "After 30 weeks",
+      "First trimester only"
+    ],
+    "correct": "B",
+    "rationale": "Maternal varicella: <20 weeks - 1-2% risk of congenital varicella syndrome (limb hypoplasia, skin scarring, microcephaly, eye defects). Perinatal varicella (mother infected 5 days before to 2 days after delivery): newborn at risk of disseminated varicella with high mortality (30%). VZIG (varicella-zoster immunoglobulin) given to newborn. Maternal varicella immunization should be done pre-pregnancy."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Congenital rubella syndrome is most severe when maternal infection occurs in:",
+    "options": [
+      "First trimester (especially first 8-10 weeks)",
+      "Second trimester only",
+      "Third trimester only",
+      "Just before delivery"
+    ],
+    "correct": "A",
+    "rationale": "Congenital rubella syndrome (CRS): risk highest in 1st trimester. <8 weeks: 80-90% risk. 9-12 weeks: 60%. 13-16 weeks: 35%. >16 weeks: minimal risk. Classic triad (Gregg's triad): cataracts (eye), cardiac defects (PDA, pulmonary stenosis), deafness (sensorineural). Other: microcephaly, IUGR, hepatosplenomegaly, 'blueberry muffin' rash. Prevention: rubella vaccination before pregnancy."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Cytomegalovirus (CMV) is the most common congenital infection. Most common manifestation in newborn is:",
+    "options": [
+      "All infected babies are symptomatic",
+      "Asymptomatic at birth (90%) but later sensorineural hearing loss",
+      "Only severe disease",
+      "No clinical effects"
+    ],
+    "correct": "B",
+    "rationale": "Congenital CMV: most common congenital infection (1% of all newborns). 90% asymptomatic at birth - of these, 10-15% develop late sequelae (especially sensorineural hearing loss - leading congenital cause). 10% symptomatic at birth: IUGR, microcephaly, periventricular calcifications, hepatosplenomegaly, jaundice, petechiae ('blueberry muffin'), chorioretinitis. Treatment: ganciclovir (only for symptomatic newborns)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Toxoplasmosis in pregnancy is acquired by:",
+    "options": [
+      "Cat litter handling, raw/undercooked meat, contaminated soil/water",
+      "Mosquito bite",
+      "Sexual contact only",
+      "Inhalation"
+    ],
+    "correct": "A",
+    "rationale": "Toxoplasma gondii: acquired by ingestion of oocysts from cat feces (litter box) or tissue cysts in raw/undercooked meat (lamb, pork). Maternal infection: usually asymptomatic. Fetal effects: severe in 1st trimester (lower transmission rate but worse outcomes), milder in 3rd trimester. Classic triad: chorioretinitis, hydrocephalus, intracranial calcifications. Prevention: avoid cat litter, cook meat well, wash vegetables."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Group B Streptococcus (GBS) screening is done at:",
+    "options": [
+      "First trimester",
+      "35-37 weeks vaginal-rectal swab",
+      "At delivery only",
+      "Postpartum"
+    ],
+    "correct": "B",
+    "rationale": "GBS (Streptococcus agalactiae) screening: vaginal-rectal swab at 35-37 weeks. Colonization rate: 10-30% of women. If positive: intrapartum IV penicillin (or ampicillin) prophylaxis - prevents early-onset neonatal GBS sepsis (pneumonia, meningitis). Also indication for prophylaxis: previous GBS-affected baby, GBS bacteriuria in pregnancy, intrapartum fever, ROM >18 hrs, preterm labor."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Down syndrome (Trisomy 21) most commonly results from:",
+    "options": [
+      "Robertsonian translocation",
+      "Maternal meiotic non-disjunction (95%)",
+      "Mosaicism only",
+      "Paternal contribution"
+    ],
+    "correct": "B",
+    "rationale": "Down syndrome causes: Maternal meiotic non-disjunction (95%) - extra chromosome 21 in egg. Risk increases sharply with maternal age: 1/1500 at 20, 1/350 at 35, 1/100 at 40. Robertsonian translocation (3-4%) - inherited from balanced carrier parent. Mosaicism (1-2%) - milder phenotype. Recurrence risk: ~1% if maternal age <35 (higher if older)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Cell-free fetal DNA (cffDNA / NIPT) testing in maternal blood can be done from:",
+    "options": [
+      "6 weeks",
+      "10 weeks onwards (most accurate from 11-12 weeks)",
+      "20 weeks",
+      "Only at term"
+    ],
+    "correct": "B",
+    "rationale": "NIPT (Non-Invasive Prenatal Testing): from 10 weeks onwards. Tests cell-free fetal DNA (placental origin) in maternal blood. Detects: trisomy 21, 18, 13, sex chromosome aneuploidies. Sensitivity for Down: >99%, false positive rate <0.1%. SCREENING test (not diagnostic) - positive needs confirmation by amniocentesis/CVS. More accurate than serum screening but more expensive. Doesn't detect structural anomalies."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "External cephalic version (ECV) for breech presentation is offered at:",
+    "options": [
+      "28 weeks",
+      "36-37 weeks (at term, before labor)",
+      "First trimester",
+      "Only at delivery"
+    ],
+    "correct": "B",
+    "rationale": "ECV: external manipulation to turn breech baby to cephalic. Done at 36-37 weeks (before labor onset, after most spontaneous version has occurred). Success rate: 50-60% (higher in multiparas). Done in hospital with continuous CTG monitoring and immediate cesarean readiness. Anti-D given if Rh-negative. Contraindications: placenta previa, multiple pregnancy, fetal anomaly, ruptured membranes, IUGR with abnormal Doppler."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Total peripheral vascular resistance in pregnancy:",
+    "options": [
+      "Increases markedly",
+      "Decreases (due to progesterone vasodilation; reaches nadir at 20-24 weeks)",
+      "Remains unchanged",
+      "Doubles"
+    ],
+    "correct": "B",
+    "rationale": "TPR decreases significantly in pregnancy: progesterone causes vascular smooth muscle relaxation; placenta is a low-resistance circulation. Diastolic BP drops more than systolic. BP nadir: mid-pregnancy (20-24 weeks), then gradually rises to non-pregnant level by term. Pregnancy is a high-output, low-resistance state. Pulse pressure widens. Heart rate increases by 10-15 bpm."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Bicarbonate level in arterial blood gas during pregnancy:",
+    "options": [
+      "Increases",
+      "Decreases (compensation for respiratory alkalosis)",
+      "Remains unchanged",
+      "Doubles"
+    ],
+    "correct": "B",
+    "rationale": "Pregnancy ABG changes: Progesterone stimulates respiratory center -> increased ventilation -> respiratory ALKALOSIS (PaCO2 falls from 40 to 28-32 mmHg). Renal compensation: increased bicarbonate excretion -> serum HCO3 falls from 24 to 18-22 mEq/L. Net: pH slightly alkalotic (7.42-7.46). Reduced buffering capacity = pregnant women decompensate faster in metabolic acidosis (DKA, sepsis, hemorrhage)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "The most common skin change of pregnancy is:",
+    "options": [
+      "Acne",
+      "Hyperpigmentation (melasma, linea nigra, areolar darkening)",
+      "Vitiligo",
+      "Psoriasis flare"
+    ],
+    "correct": "B",
+    "rationale": "Pigmentation changes: most common skin finding in pregnancy. Caused by elevated MSH (melanocyte-stimulating hormone), estrogen, and progesterone effects on melanocytes. Examples: linea nigra (midline of abdomen), melasma/chloasma (butterfly mask of pregnancy on face), areolar darkening, perineal pigmentation. Worse with sun exposure. Usually fade after delivery but may persist in some women."
+  },
+  {
+    "section": "1: ANATOMY PART-1 - VULVA (External Genitalia)",
+    "question": "The most common cause of vulvar itching (pruritus vulvae) is:",
+    "options": [
+      "Vulvar cancer",
+      "Candidal vulvovaginitis",
+      "Foreign body",
+      "Allergic dermatitis"
+    ],
+    "correct": "B",
+    "rationale": "Pruritus vulvae causes (most common to least): 1) Candidal vulvovaginitis (white curdy discharge, intense itching), 2) Bacterial vaginosis (fishy odor, less itching), 3) Trichomoniasis (frothy yellow-green discharge), 4) Lichen sclerosus (chronic, white plaques), 5) Lichen planus, 6) Contact dermatitis (soaps, perfumes), 7) Atrophic vulvovaginitis (postmenopausal). Vulvar cancer is rare cause but must be excluded in older women."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Bacterial vaginosis (BV) is characterized by:",
+    "options": [
+      "Thick white curdy discharge",
+      "Thin grey-white discharge with fishy odor (positive whiff test)",
+      "Frothy yellow-green discharge",
+      "Bloody discharge"
+    ],
+    "correct": "B",
+    "rationale": "BV (Gardnerella vaginalis overgrowth): Amsel criteria (3 of 4): 1) Thin grey-white discharge, 2) Vaginal pH >4.5, 3) Positive whiff test (fishy odor on adding KOH), 4) Clue cells on microscopy (epithelial cells covered with bacteria). Treatment: Metronidazole 500mg BD x 7 days OR Clindamycin. NOT a sexually transmitted infection but associated with sexual activity. Causes preterm labor in pregnancy."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Trichomonas vaginalis vaginitis is characterized by:",
+    "options": [
+      "Asymptomatic always",
+      "Frothy yellow-green discharge with strawberry cervix appearance",
+      "Curdy white discharge",
+      "Watery clear discharge"
+    ],
+    "correct": "B",
+    "rationale": "Trichomonas vaginalis: protozoan STI. Discharge: frothy yellow-green, malodorous. Strawberry cervix (5-15%): punctate hemorrhages on cervix - pathognomonic. Vaginal pH >5.0. Diagnosis: wet mount microscopy showing motile protozoa (lashing flagella), or NAAT (most sensitive). Treatment: Metronidazole 2g single dose for both partners. In pregnancy: associated with preterm labor and PROM."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Hormone replacement therapy (HRT) for menopausal symptoms is contraindicated in:",
+    "options": [
+      "Women with hot flashes",
+      "Women with history of breast cancer, VTE, or active liver disease",
+      "Women with osteoporosis",
+      "All women"
+    ],
+    "correct": "B",
+    "rationale": "HRT contraindications: Estrogen-dependent cancers (breast, endometrial), Active or recent VTE/stroke/MI, Active liver disease, Undiagnosed vaginal bleeding, Pregnancy. Indications: Severe vasomotor symptoms (hot flashes), Premature menopause, Osteoporosis prevention. Risks: Breast cancer (combined HRT >5 years), VTE, stroke, gallbladder disease. Add progestin if uterus present (prevents endometrial cancer)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Misoprostol used for labor induction acts as:",
+    "options": [
+      "Oxytocin antagonist",
+      "Prostaglandin E1 analogue (causes cervical ripening and uterine contractions)",
+      "Estrogen",
+      "Anti-progesterone"
+    ],
+    "correct": "B",
+    "rationale": "Misoprostol (PGE1 analogue): used for cervical ripening and labor induction. Routes: oral, sublingual, vaginal. Lower dose than for medical abortion. Indications: post-term pregnancy, prelabor rupture of membranes, IUGR, hypertension, fetal demise. Contraindications: previous cesarean (uterine rupture risk), placenta previa, transverse lie, fetal distress. Side effects: hyperstimulation, fever, GI upset."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "The amnion is derived from:",
+    "options": [
+      "Trophoblast",
+      "Inner cell mass (epiblast)",
+      "Decidua",
+      "Hypoblast"
+    ],
+    "correct": "B",
+    "rationale": "Amnion: derived from epiblast (part of inner cell mass). Forms the amniotic cavity around the embryo. Innermost membrane. Avascular (depends on amniotic fluid for nutrients). Produces some amniotic fluid initially. Chorion: derived from trophoblast - forms outer membrane with chorionic villi. Amnion + Chorion = fetal membranes (the 'bag of waters' that ruptures at labor)."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Chorioamnionitis is suspected when amniotic fluid is:",
+    "options": [
+      "Clear",
+      "Turbid/foul-smelling, fever, uterine tenderness, fetal tachycardia",
+      "Green",
+      "Yellow"
+    ],
+    "correct": "B",
+    "rationale": "Chorioamnionitis (intra-amniotic infection): clinical diagnosis based on - maternal fever (>38C), uterine tenderness, foul-smelling amniotic fluid, maternal/fetal tachycardia, leukocytosis. Risk factors: prolonged ROM, prolonged labor, multiple vaginal exams, GBS colonization. Treatment: broad-spectrum IV antibiotics + delivery (regardless of gestational age). Untreated: neonatal sepsis, maternal sepsis."
   }
 ];
