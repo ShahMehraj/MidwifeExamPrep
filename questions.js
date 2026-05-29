@@ -8926,5 +8926,341 @@ const questions = [
     ],
     "correct": "B",
     "rationale": "Chorioamnionitis (intra-amniotic infection): clinical diagnosis based on - maternal fever (>38C), uterine tenderness, foul-smelling amniotic fluid, maternal/fetal tachycardia, leukocytosis. Risk factors: prolonged ROM, prolonged labor, multiple vaginal exams, GBS colonization. Treatment: broad-spectrum IV antibiotics + delivery (regardless of gestational age). Untreated: neonatal sepsis, maternal sepsis."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "The ductus arteriosus connects:",
+    "options": [
+      "Right and left atria",
+      "Pulmonary artery and aorta (bypasses fetal lungs)",
+      "Umbilical vein and IVC",
+      "Two umbilical arteries"
+    ],
+    "correct": "B",
+    "rationale": "Fetal circulation shunts (3): 1) Ductus venosus - umbilical vein to IVC (bypasses fetal liver). 2) Foramen ovale - right atrium to left atrium (bypasses lungs). 3) Ductus arteriosus - pulmonary artery to aorta (bypasses lungs). All needed because fetal lungs are non-functional. Closure after birth: foramen ovale (functional within hours, anatomical by 1 yr), ductus arteriosus (within 24-48 hrs), ductus venosus (within 1 week)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Patent ductus arteriosus (PDA) treatment in newborn includes:",
+    "options": [
+      "Aspirin",
+      "Indomethacin or ibuprofen (prostaglandin synthesis inhibitor)",
+      "Prostaglandin E1",
+      "Heparin"
+    ],
+    "correct": "B",
+    "rationale": "Closure of ductus arteriosus is mediated by: increased oxygen, decreased prostaglandins after birth. Indomethacin/Ibuprofen (NSAIDs - inhibit prostaglandin synthesis) are used to CLOSE PDA in preterm babies. Conversely, Prostaglandin E1 (alprostadil) is given to KEEP PDA OPEN in cyanotic congenital heart disease (where ductal flow is needed - e.g., transposition of great arteries, pulmonary atresia)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "After birth, the umbilical arteries become:",
+    "options": [
+      "Round ligament of liver",
+      "Medial umbilical ligaments",
+      "Median umbilical ligament",
+      "Pulmonary veins"
+    ],
+    "correct": "B",
+    "rationale": "Postnatal fate of fetal vessels: Umbilical vein -> Round ligament of liver (ligamentum teres). Ductus venosus -> Ligamentum venosum. Umbilical arteries (paired) -> Medial umbilical ligaments. Urachus (allantois remnant) -> Median umbilical ligament. Foramen ovale -> Fossa ovalis. Ductus arteriosus -> Ligamentum arteriosum. These are useful surgical landmarks."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Fetal hematopoiesis sequence in order is:",
+    "options": [
+      "Bone marrow -> liver -> yolk sac",
+      "Yolk sac -> Liver (and spleen) -> Bone marrow",
+      "Liver only throughout pregnancy",
+      "Bone marrow only"
+    ],
+    "correct": "B",
+    "rationale": "Fetal hematopoiesis sites change with gestation: 1) Yolk sac (3-8 weeks) - first site, makes embryonic hemoglobin. 2) Liver (6 weeks-birth) - main site in mid-pregnancy, also spleen contributes. 3) Bone marrow (after 22 weeks - takes over by birth). After birth: only bone marrow. In hemolytic disease of newborn: extramedullary hematopoiesis can recur in liver/spleen (hepatosplenomegaly)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Hemoglobin types in fetus during gestation include:",
+    "options": [
+      "HbA only",
+      "Embryonic Hb (Gower 1, Gower 2, Portland) -> HbF (alpha2-gamma2) -> HbA at birth",
+      "HbS",
+      "HbC"
+    ],
+    "correct": "B",
+    "rationale": "Hemoglobin switching: Embryonic (yolk sac, 0-8 wks): Gower 1 (zeta2-epsilon2), Gower 2 (alpha2-epsilon2), Portland (zeta2-gamma2). Fetal: HbF (alpha2-gamma2) - main from 8 weeks to birth. Adult: HbA (alpha2-beta2) - takes over from 6 months postnatal. At birth: 70-90% HbF, 10-30% HbA. By 6 months: <2% HbF. Persistent HbF: hereditary persistence, sickle cell disease (protective)."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Mature placenta at term has approximately how many cotyledons?",
+    "options": [
+      "5",
+      "10",
+      "15-20",
+      "30-40"
+    ],
+    "correct": "C",
+    "rationale": "Cotyledons (placental lobes): 15-20 visible on maternal surface, separated by decidual septa. Each cotyledon contains 1-4 main stem villi with branches. Each main stem villus arises from chorionic plate. Diameter of each: 1-2 cm. Functional unit. Manual examination of placenta after delivery: count cotyledons - if any missing -> retained products -> PPH risk."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Placental transfer of substances is regulated by all mechanisms EXCEPT:",
+    "options": [
+      "Simple diffusion (gases)",
+      "Facilitated diffusion (glucose)",
+      "Active transport (amino acids, calcium, iron)",
+      "Magnetic transport"
+    ],
+    "correct": "D",
+    "rationale": "Placental transfer mechanisms: 1) Simple diffusion - O2, CO2, water, urea (down concentration gradient). 2) Facilitated diffusion - glucose (carrier-mediated, no energy). 3) Active transport - amino acids, calcium, iron, water-soluble vitamins (against gradient, ATP-dependent). 4) Pinocytosis - IgG, lipoproteins (vesicular). 5) Bulk flow - water, electrolytes. No magnetic mechanism exists."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "The biological half-life of beta-hCG is approximately:",
+    "options": [
+      "2-4 hours",
+      "24-36 hours",
+      "5-7 days",
+      "1 month"
+    ],
+    "correct": "B",
+    "rationale": "hCG half-life: 24-36 hours (intermediate-fast clearance). After complete molar evacuation: hCG should be undetectable in 8-10 weeks. After abortion: 2-3 weeks. After term delivery: 1-2 weeks. Persistent or rising hCG = retained products, GTN, choriocarcinoma. Slow elimination requires serial monitoring after evacuation. False positives: heterophile antibodies, pituitary hCG (rare)."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "Hyperemesis gravidarum is associated with elevated levels of:",
+    "options": [
+      "Progesterone",
+      "hCG (especially in molar pregnancy and multiple gestation)",
+      "Cortisol",
+      "Prolactin"
+    ],
+    "correct": "B",
+    "rationale": "Hyperemesis gravidarum: severe nausea, vomiting, dehydration, weight loss >5%, ketonuria, electrolyte imbalance. Strongly correlates with hCG levels (peaks at 10-12 weeks when hCG peaks). More common in: molar pregnancy (very high hCG), multiple pregnancy. Treatment: IV fluids, antiemetics (doxylamine + pyridoxine first-line, ondansetron if severe), thiamine supplementation (prevent Wernicke's), vitamin B6."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Pulmonary hypoplasia in the fetus is most commonly associated with:",
+    "options": [
+      "Polyhydramnios",
+      "Severe oligohydramnios (especially before 24 weeks)",
+      "Normal amniotic fluid",
+      "Excess amniotic fluid"
+    ],
+    "correct": "B",
+    "rationale": "Pulmonary hypoplasia: incomplete development of fetal lungs due to lack of amniotic fluid (needed for fetal breathing movements that develop alveoli). Most severe if oligohydramnios occurs <24 weeks. Causes: bilateral renal agenesis (Potter syndrome), bladder outlet obstruction (posterior urethral valves), prolonged PROM. Pulmonary hypoplasia is the leading cause of death in Potter sequence."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Cardiotocography (CTG) measures:",
+    "options": [
+      "Maternal blood pressure",
+      "Fetal heart rate and uterine contractions",
+      "Cervical dilatation",
+      "Amniotic fluid volume"
+    ],
+    "correct": "B",
+    "rationale": "CTG: continuous monitoring of fetal heart rate (FHR) and uterine contractions. Components: baseline FHR (110-160 bpm normal), variability (5-25 bpm normal), accelerations (reassuring), decelerations (early/variable/late). Late decelerations: uteroplacental insufficiency (worrisome). Variable: cord compression. NICE/RCOG/FIGO classifications used to interpret CTG (normal/suspicious/pathological)."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Late decelerations on CTG indicate:",
+    "options": [
+      "Normal finding",
+      "Uteroplacental insufficiency / fetal hypoxia",
+      "Cord compression",
+      "Head compression"
+    ],
+    "correct": "B",
+    "rationale": "FHR decelerations: Early - mirror contractions, due to head compression (BENIGN, normal in late labor). Variable - V or W shaped, due to cord compression (rapid drop, rapid recovery). Late - begin AFTER contraction starts and recover AFTER it ends, due to uteroplacental insufficiency = FETAL HYPOXIA (worrisome, indicates need for delivery). Sinusoidal pattern: severe fetal anemia or hypoxia."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Doppler study of umbilical artery in IUGR shows worst prognosis with:",
+    "options": [
+      "Normal Doppler",
+      "Increased S/D ratio only",
+      "Absent or reversed end-diastolic flow (AREDF)",
+      "Decreased systolic flow"
+    ],
+    "correct": "C",
+    "rationale": "Umbilical artery Doppler progression in placental insufficiency: 1) Increased S/D ratio (>3 after 30 weeks), 2) Absent end-diastolic flow (AEDF) - high resistance. 3) Reversed end-diastolic flow (REDF) - critical, severe hypoxia, deliver urgently. AEDF: deliver by 32-34 weeks (after steroids). REDF: deliver soon. Middle cerebral artery Doppler: shows brain-sparing (cerebral vasodilation, decreased PI) in compensated hypoxia."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Daily fetal kick count - alarm if less than:",
+    "options": [
+      "20 movements per day",
+      "10 movements in 12 hours (or <10 in 2 hours focused count)",
+      "30 movements per hour",
+      "100 movements per day"
+    ],
+    "correct": "B",
+    "rationale": "Daily Fetal Movement Count (DFMC): from 28-32 weeks. Cardiff count: 10 movements in 12 hours (alarm if <10). Sadovsky count: <4 movements in 2 hours. Decreased fetal movements = warning sign of fetal compromise (hypoxia, IUGR, oligohydramnios). Action: urgent NST/CTG. Empowers mothers to detect problems. Most fetal deaths preceded by reduced movements."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Pregnancy-induced changes that increase risk of UTI include:",
+    "options": [
+      "Increased gastric acidity",
+      "Ureteral dilatation, urinary stasis, bladder displacement, glycosuria",
+      "Hyperreflexia of bladder",
+      "Decreased GFR"
+    ],
+    "correct": "B",
+    "rationale": "Risk factors for UTI in pregnancy: 1) Progesterone causes ureteral smooth muscle relaxation (hydroureter, more on right). 2) Mechanical compression by gravid uterus. 3) Bladder displacement. 4) Glycosuria (bacterial growth medium). 5) Decreased ureteral peristalsis. Asymptomatic bacteriuria (>=10^5 CFU/mL): MUST treat in pregnancy (risk of pyelonephritis, preterm labor, low birth weight)."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Most common organism causing UTI in pregnancy is:",
+    "options": [
+      "Klebsiella",
+      "Escherichia coli (E. coli)",
+      "Staphylococcus saprophyticus",
+      "Proteus"
+    ],
+    "correct": "B",
+    "rationale": "E. coli: most common UTI organism in pregnancy (75-95%). Other: Klebsiella, Proteus, Staphylococcus saprophyticus, Group B Streptococcus. Treatment: Nitrofurantoin (avoid in 1st trimester and at term - hemolytic anemia in G6PD), Cephalexin, Amoxicillin-clavulanate. AVOID: fluoroquinolones (cartilage damage), trimethoprim (folate antagonist - 1st trimester), tetracycline."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Septic abortion most commonly results from:",
+    "options": [
+      "Ascending infection after unsafe/criminal abortion",
+      "Hematogenous spread of infection",
+      "Sexual contact",
+      "Spontaneous abortion always"
+    ],
+    "correct": "A",
+    "rationale": "Septic abortion: ascending infection through cervix following unsafe/illegal abortion (most common - non-sterile instruments). Organisms: Mixed (E. coli, Streptococci, Bacteroides, Clostridium). Clostridium perfringens infection: gas gangrene, massive intravascular hemolysis, DIC, very high mortality. Presentation: fever, foul discharge, tender uterus, septic shock. Triad: fever + bleeding + history of intervention."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Ovarian ectopic pregnancy diagnosis criteria (Spiegelberg) include all EXCEPT:",
+    "options": [
+      "Tube on affected side intact and separate from ovary",
+      "Gestational sac in position of ovary",
+      "Sac connected to uterus by ovarian ligament",
+      "Patient must be over 35 years"
+    ],
+    "correct": "D",
+    "rationale": "Spiegelberg criteria for ovarian pregnancy: 1) Tube on affected side intact, 2) Gestational sac in normal position of ovary, 3) Sac connected to uterus by ovarian ligament, 4) Ovarian tissue in wall of sac on histology. Ovarian ectopic: <3% of ectopics. Risk factors: IUD use, IVF. Often diagnosed at surgery. Treatment: ovarian wedge resection (preserves ovary) or oophorectomy if extensive damage."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Placental Site Trophoblastic Tumor (PSTT) is:",
+    "options": [
+      "Most common GTN",
+      "Rare slow-growing tumor arising from intermediate trophoblast",
+      "Always metastatic at diagnosis",
+      "Highly chemosensitive like choriocarcinoma"
+    ],
+    "correct": "B",
+    "rationale": "PSTT: rare type of GTN (1-2% of all GTNs). Arises from INTERMEDIATE trophoblast (vs choriocarcinoma from cyto/syncytiotrophoblast). Slow-growing, low hCG (despite tumor burden). Produces hPL more than hCG. RELATIVELY chemoresistant (unlike choriocarcinoma which is highly chemosensitive). Treatment: hysterectomy (definitive). Staging similar to other GTN. Better prognosis if confined to uterus."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Pelvic Inflammatory Disease (PID) most commonly occurs due to:",
+    "options": [
+      "Endogenous flora",
+      "Ascending sexually transmitted infection (Chlamydia, Gonorrhea)",
+      "Hematogenous spread",
+      "Lymphatic spread"
+    ],
+    "correct": "B",
+    "rationale": "PID: ascending infection from cervix/vagina to upper genital tract (uterus, tubes, ovaries, peritoneum). Most common organisms: Chlamydia trachomatis (most common), Neisseria gonorrhoeae, polymicrobial (anaerobes). Clinical: lower abdominal pain, cervical motion tenderness, adnexal tenderness, fever. Sequelae: tubal damage -> infertility, ectopic pregnancy, chronic pelvic pain. Fitz-Hugh-Curtis syndrome: perihepatitis (violin string adhesions)."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "Asherman syndrome presents with all EXCEPT:",
+    "options": [
+      "Secondary amenorrhea or hypomenorrhea",
+      "Recurrent pregnancy loss",
+      "Infertility",
+      "Severe dysmenorrhea"
+    ],
+    "correct": "D",
+    "rationale": "Asherman syndrome (intrauterine adhesions): Secondary amenorrhea/hypomenorrhea (decreased functional endometrium), Infertility, Recurrent pregnancy loss (poor implantation), Cyclic pelvic pain (if outflow obstructed). Severe dysmenorrhea is NOT typical (often hypomenorrhea or amenorrhea instead). Cause: vigorous curettage especially post-abortion/postpartum. Diagnosis: hysteroscopy (gold standard). Treatment: hysteroscopic adhesiolysis."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Uterine fibroid is most common in which age group?",
+    "options": [
+      "<20 years",
+      "30-50 years (peak in 40s, regress after menopause)",
+      "Postmenopausal",
+      "Childhood"
+    ],
+    "correct": "B",
+    "rationale": "Uterine fibroids: most common benign tumor in women. Peak: 40s. Estrogen-dependent (rare before menarche, regress after menopause). More common in: African-American women (3-9x), nulliparous, family history. Symptoms: menorrhagia (especially submucosal), pelvic pressure, infertility (if intramural large or submucosal), recurrent pregnancy loss. Risk of sarcoma transformation is very low (<0.5%)."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Cervical effacement during labor refers to:",
+    "options": [
+      "Opening of cervix",
+      "Thinning and shortening of cervix",
+      "Posterior position of cervix",
+      "Hardening of cervix"
+    ],
+    "correct": "B",
+    "rationale": "Cervical effacement: thinning and shortening of cervix as it gets pulled up by uterine contractions. Measured as percentage (0% = uneffaced 3cm long, 100% = completely thin). In primigravida: effacement occurs FIRST then dilatation. In multigravida: effacement and dilatation occur together. Important for assessing labor progress. Also called 'cervical ripening' before labor (Bishop score component)."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Cervical incompetence is associated with:",
+    "options": [
+      "Painful labor",
+      "Painless cervical dilatation in 2nd trimester (14-26 weeks)",
+      "Bleeding in 1st trimester",
+      "Cesarean delivery"
+    ],
+    "correct": "B",
+    "rationale": "Cervical incompetence (insufficiency): PAINLESS, progressive cervical dilatation in 2nd trimester (typically 14-26 weeks) leading to PPROM and pregnancy loss. Causes: previous cervical surgery (LEEP, conization), DES exposure, cervical lacerations from prior delivery, congenital. Diagnosis: history of recurrent 2nd trimester losses. Treatment: cervical cerclage (McDonald, Shirodkar) at 12-14 weeks."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "True hermaphroditism is characterized by:",
+    "options": [
+      "46 XY with female phenotype",
+      "Presence of both ovarian and testicular tissue (ovotestes) in same individual",
+      "46 XX with male phenotype",
+      "Absent gonads"
+    ],
+    "correct": "B",
+    "rationale": "True hermaphroditism (now called Ovotesticular DSD - disorder of sex development): both ovarian and testicular tissue in same individual (either ovotestes or one of each gonad). Karyotype: most commonly 46 XX (60%), some 46 XY, some mosaic 46XX/46XY. Phenotype variable. Very rare. Different from pseudohermaphroditism: external genitalia don't match gonads (Female pseudohermaphroditism = CAH; Male pseudohermaphroditism = AIS)."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Ergometrine (ergot alkaloid) is used in obstetrics for:",
+    "options": [
+      "Cervical ripening",
+      "Postpartum hemorrhage (causes sustained uterine contraction)",
+      "Pain relief",
+      "Lactation suppression"
+    ],
+    "correct": "B",
+    "rationale": "Ergometrine/Methylergometrine: ergot alkaloid causing sustained uterine contraction. Used for PPH treatment (after oxytocin) and prevention. Dose: 0.2 mg IM. CONTRAINDICATED in: hypertension/preeclampsia (causes vasoconstriction, BP rise), heart disease, retained placenta (causes tetanic contraction trapping it). Side effects: nausea, vomiting, hypertension. NOT for cervical ripening (causes tetanic contractions)."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The first sign of implantation is the formation of:",
+    "options": [
+      "Fetal heart",
+      "Lacunar network with maternal blood (forms primitive uteroplacental circulation)",
+      "Amniotic fluid",
+      "Umbilical cord"
+    ],
+    "correct": "B",
+    "rationale": "Implantation timeline: Day 6-7: blastocyst attaches to endometrium (apposition + adhesion). Day 8: trophoblast invades endometrium. Day 9: lacunae form in syncytiotrophoblast. Day 10: maternal blood fills lacunae (primitive uteroplacental circulation begins). Day 12: complete implantation, decidual reaction begins. hCG production starts at implantation. Heart begins beating around Day 22 post-fertilization."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Sodium and water retention in pregnancy is mediated by:",
+    "options": [
+      "Decreased aldosterone",
+      "Increased aldosterone, renin, and angiotensin (hyperaldosteronism)",
+      "Decreased ADH",
+      "Decreased estrogen"
+    ],
+    "correct": "B",
+    "rationale": "Pregnancy = hyperaldosterone state: Renin (3-4x), Angiotensin (3-4x), Aldosterone (3-5x). Despite this, blood pressure is LOWER (because progesterone-induced vasodilation overcomes the vasoconstrictor effect). Net: increased plasma volume by 45-50% (1500 mL extra). Sodium retention: 950 mEq accumulated over pregnancy. Edema in 80% (physiological). Pregnancy = NOT a state of secondary hyperaldosteronism response - it's primary RAAS upregulation."
   }
 ];
