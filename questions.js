@@ -9262,5 +9262,329 @@ const questions = [
     ],
     "correct": "B",
     "rationale": "Pregnancy = hyperaldosterone state: Renin (3-4x), Angiotensin (3-4x), Aldosterone (3-5x). Despite this, blood pressure is LOWER (because progesterone-induced vasodilation overcomes the vasoconstrictor effect). Net: increased plasma volume by 45-50% (1500 mL extra). Sodium retention: 950 mEq accumulated over pregnancy. Edema in 80% (physiological). Pregnancy = NOT a state of secondary hyperaldosteronism response - it's primary RAAS upregulation."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "The genital hiatus in the levator ani muscle is the gap through which:",
+    "options": [
+      "Anal canal only passes",
+      "Urethra and vagina pass through",
+      "Rectum only passes",
+      "Bladder passes"
+    ],
+    "correct": "B",
+    "rationale": "Genital hiatus (urogenital hiatus): U-shaped gap in anterior part of levator ani through which URETHRA and VAGINA pass. Behind it is the rectal hiatus (or anorectal hiatus) for the rectum/anal canal. Widening of genital hiatus on Valsalva is measured in pelvic floor assessment - >5 cm suggests pelvic floor dysfunction. Levator ani contraction narrows the hiatus."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "The puborectalis muscle (part of levator ani) maintains:",
+    "options": [
+      "Continence by forming a sling around the anorectal junction",
+      "Bladder support only",
+      "Vaginal support only",
+      "Cervical support"
+    ],
+    "correct": "A",
+    "rationale": "Puborectalis: U-shaped sling of muscle around the anorectal junction (origin: pubic bone, passes around rectum). Maintains the anorectal angle (~90 degrees at rest). Essential for fecal continence. Relaxes during defecation to straighten the angle. Dysfunction (paradoxical contraction) causes constipation/obstructed defecation. Puborectalis injury during childbirth = fecal incontinence risk."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "The pelvic outlet is bounded posteriorly by:",
+    "options": [
+      "Pubic symphysis",
+      "Coccyx (tip)",
+      "Sacral promontory",
+      "Iliac crest"
+    ],
+    "correct": "B",
+    "rationale": "Pelvic outlet boundaries (diamond-shaped): Anterior - inferior border of pubic symphysis. Anterolateral - ischiopubic rami. Lateral - ischial tuberosities. Posterolateral - sacrotuberous ligaments. Posterior - tip of coccyx. AP diameter (transcoccygeal): 11.5 cm. Transverse diameter (between ischial tuberosities): 11 cm. Inadequate outlet = outlet contraction = obstructed labor."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Cervical priming before surgical abortion is done with:",
+    "options": [
+      "Oxytocin",
+      "Misoprostol or laminaria tents",
+      "Ergometrine",
+      "Insulin"
+    ],
+    "correct": "B",
+    "rationale": "Cervical priming/ripening before surgical abortion: 1) Misoprostol 400 mcg vaginal/sublingual 3 hours before procedure (most common). 2) Mifepristone 200 mg oral 24-48 hrs before. 3) Laminaria tents (osmotic dilators - swell with moisture, gradually dilate cervix over hours). Reduces cervical trauma, blood loss, perforation risk. Especially important in 2nd trimester abortions and nulliparous women."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "The most common complication of surgical abortion is:",
+    "options": [
+      "Uterine perforation",
+      "Hemorrhage and incomplete evacuation",
+      "Cervical incompetence",
+      "Asherman syndrome"
+    ],
+    "correct": "B",
+    "rationale": "Surgical abortion complications: Most common - hemorrhage and incomplete evacuation (1-2%). Uterine perforation (0.1-0.5%) - more common with sharp curettage and inexperienced operator. Cervical injury (0.1-1%). Infection (0.5-5%). Long-term: Asherman syndrome (rare with vacuum aspiration), cervical incompetence (especially after 2nd trimester abortions). Mortality: <1 per 100,000 (safer than continuing pregnancy)."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Mid-trimester (13-24 weeks) abortion is typically done by:",
+    "options": [
+      "Manual vacuum aspiration alone",
+      "Mifepristone + Misoprostol regimen OR D&E (Dilatation & Evacuation)",
+      "Hysterotomy always",
+      "Suction only"
+    ],
+    "correct": "B",
+    "rationale": "Mid-trimester abortion methods: 1) MEDICAL: Mifepristone 200mg + Misoprostol 400mcg every 3 hours (up to 5 doses) - induces labor-like contractions. 2) SURGICAL: D&E - cervical dilatation followed by evacuation using forceps and suction (requires skill). Hysterotomy/hysterectomy: only as last resort (life-threatening conditions). Mifepristone significantly reduces induction-to-abortion interval."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Cesarean scar pregnancy (CSP) is a type of ectopic pregnancy located:",
+    "options": [
+      "In the fallopian tube",
+      "Implanted in or on the cesarean section scar in the lower uterine segment",
+      "In the ovary",
+      "In the cervix"
+    ],
+    "correct": "B",
+    "rationale": "Cesarean scar pregnancy: implantation within fibrotic tissue of previous cesarean scar. Increasing in incidence (rising cesarean rates). Risk: progresses to placenta accreta or uterine rupture. Diagnosis: TVS shows gestational sac in lower uterine segment with thin myometrium between sac and bladder. Management: methotrexate (early), suction evacuation under USG guidance, sometimes hysterectomy. Avoid blind D&C (risk of perforation/hemorrhage)."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Pseudosac in ectopic pregnancy refers to:",
+    "options": [
+      "Real intrauterine sac",
+      "Fluid collection in uterine cavity that mimics gestational sac",
+      "Hematoma in tube",
+      "Cyst in ovary"
+    ],
+    "correct": "B",
+    "rationale": "Pseudosac: fluid collection (decidual cast or hemorrhage) within the endometrial cavity in ectopic pregnancy that can mimic an intrauterine gestational sac on USG. Found in 10-20% of ectopics. Differentiating features from true sac: pseudosac is centrally located (true sac is eccentric), has no double decidual sac sign, no yolk sac/embryo. Misdiagnosis as IUP can delay diagnosis of ectopic."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Beta-hCG decline pattern after methotrexate treatment for ectopic should show:",
+    "options": [
+      "Sudden drop to zero in 1 day",
+      ">=15% decline between Day 4 and Day 7 after treatment",
+      "Continued rise",
+      "Stable level"
+    ],
+    "correct": "B",
+    "rationale": "Methotrexate treatment monitoring: Day 1 - give MTX. Day 4 - hCG often RISES slightly (initial increase normal). Day 7 - hCG should fall by >=15% from Day 4 level. If decline adequate: weekly hCG until undetectable (4-6 weeks). If <15% decline: give second MTX dose or surgical intervention. Some protocols use Day 0 vs Day 7 (>=25% decline expected)."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Lung metastases in choriocarcinoma typically show:",
+    "options": [
+      "Pleural effusion only",
+      "Cannonball lesions on chest X-ray (multiple round nodules)",
+      "Tree-in-bud appearance",
+      "Linear infiltrates"
+    ],
+    "correct": "B",
+    "rationale": "Choriocarcinoma lung metastases: highly vascular tumor, hematogenous spread. CXR: 'Cannonball' or 'snowstorm' appearance - multiple well-defined round nodules. Most common metastatic site (80% of metastatic GTN). Other sites: vagina (30%), brain (10%), liver (10%). Hemorrhage into metastases can cause symptoms (hemoptysis, intracerebral hemorrhage). Excellent response to chemotherapy even with metastases."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Twin pregnancy with co-existent complete mole carries risk of:",
+    "options": [
+      "No special risk",
+      "Persistent GTN (15-20%) and severe maternal complications (preeclampsia, hyperthyroidism)",
+      "Always normal outcome",
+      "Always lethal to mother"
+    ],
+    "correct": "B",
+    "rationale": "Twin gestation with complete mole + normal fetus (very rare): Risks - persistent GTN (15-20%), severe early preeclampsia, hyperthyroidism, fetal demise, preterm delivery. Counseling difficult. Continuation of pregnancy is option (50% chance of live baby) with intensive monitoring. Outcome better than expected if mother accepts risks. Distinguish from partial mole (triploid abnormal fetus, uniformly molar)."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "Indications for chemotherapy in GTN include all EXCEPT:",
+    "options": [
+      "Plateau in hCG over 4 measurements (3 weeks)",
+      "Rise in hCG of >10% on 3 consecutive measurements over 2 weeks",
+      "Persistent hCG >6 months after evacuation",
+      "Asymptomatic theca lutein cysts"
+    ],
+    "correct": "D",
+    "rationale": "FIGO criteria for GTN diagnosis (start chemo): 1) Plateau in hCG over 4 measurements (>=3 weeks). 2) Rise in hCG >10% across 3 measurements (>=2 weeks). 3) Persistent hCG 6 months after evacuation. 4) Histologic diagnosis of choriocarcinoma. 5) Presence of metastasis. Theca lutein cysts: regress spontaneously after hCG falls; do NOT need chemotherapy if hCG is normalizing."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Components of amniotic fluid include all EXCEPT:",
+    "options": [
+      "Water (98%)",
+      "Fetal urine, lung fluid, skin transudate",
+      "Sodium, potassium, glucose, creatinine, lecithin",
+      "Maternal red blood cells"
+    ],
+    "correct": "D",
+    "rationale": "Amniotic fluid composition: 98% water + dissolved electrolytes (Na+, K+, Cl-, HCO3-), glucose, urea, creatinine (rises near term), bilirubin, fetal cells (epithelial, lanugo), surfactant (lecithin, sphingomyelin, phosphatidylglycerol), proteins, enzymes. Maternal RBCs should NOT be present (would indicate maternal-fetal hemorrhage). Fetal RBCs may be present in small amounts."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Therapeutic amniocentesis (amnioreduction) is performed in:",
+    "options": [
+      "Oligohydramnios",
+      "Severe polyhydramnios (e.g., TTTS) to reduce maternal symptoms",
+      "Normal pregnancy",
+      "Preterm labor only"
+    ],
+    "correct": "B",
+    "rationale": "Therapeutic amniocentesis (amnioreduction): removal of large volumes (1000-3000 mL) of amniotic fluid in severe polyhydramnios. Indications: maternal respiratory distress, severe abdominal discomfort, threatened preterm labor. In TTTS (twin-twin transfusion): reduces pressure, improves placental flow. Repeat if needed. Risks: PROM, preterm labor, infection, placental abruption, fetal injury."
+  },
+  {
+    "section": "1: ANATOMY PART-1 - VULVA (External Genitalia)",
+    "question": "Sebaceous glands of labia minora that are visible as small yellow spots are called:",
+    "options": [
+      "Bartholin glands",
+      "Fordyce spots",
+      "Skene glands",
+      "Carunculae myrtiformis"
+    ],
+    "correct": "B",
+    "rationale": "Fordyce spots: ectopic sebaceous glands appearing as small yellow-white papules on labia minora (also on lips, oral mucosa, glans penis). Completely benign, no treatment needed. Common variant - not a disease. Often misidentified by patients as STI or warts. Reassurance is the only management."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "Most common functional ovarian cyst is:",
+    "options": [
+      "Dermoid cyst",
+      "Follicular cyst",
+      "Theca lutein cyst",
+      "Endometrioma"
+    ],
+    "correct": "B",
+    "rationale": "Follicular cyst: most common functional cyst. Forms when dominant follicle fails to ovulate or rupture. Usually 3-8 cm, unilocular, thin-walled. Asymptomatic or vague pelvic pain. Resolves spontaneously in 4-8 weeks. Other functional cysts: Corpus luteum cyst (after ovulation, can rupture causing pain), Theca lutein cysts (in molar pregnancy, multiple gestation - high hCG)."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "Ovarian torsion presents with:",
+    "options": [
+      "Gradual pelvic pain",
+      "Sudden severe unilateral pelvic pain with nausea, vomiting (surgical emergency)",
+      "Heavy menstrual bleeding",
+      "Infertility only"
+    ],
+    "correct": "B",
+    "rationale": "Ovarian torsion: twisting of ovary on its pedicle compromising blood supply. Surgical emergency. Presents with sudden, severe unilateral lower abdominal pain + nausea/vomiting + adnexal mass on exam. Risk factors: ovarian cyst (>5cm), pregnancy, ovarian hyperstimulation, mass. Doppler USG: decreased/absent flow (late finding - flow may be preserved early). Treatment: emergency laparoscopy, untwist ovary if viable (preserve fertility)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Endometrial polyps are most commonly seen in:",
+    "options": [
+      "Children",
+      "Perimenopausal and postmenopausal women",
+      "Pregnant women",
+      "Newborns"
+    ],
+    "correct": "B",
+    "rationale": "Endometrial polyps: focal hyperplastic overgrowths of endometrial glands and stroma. Most common in 40-50 years (peri/postmenopausal). Symptoms: intermenstrual bleeding, postmenopausal bleeding, infertility (if at tubal ostia). Diagnosis: TVS (focal endometrial thickening), saline infusion sonography, hysteroscopy (gold standard). Treatment: hysteroscopic polypectomy. Most are benign; 0.5-3% have malignancy (more in postmenopausal, large size)."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Cervical erosion (ectropion) refers to:",
+    "options": [
+      "Cancer of cervix",
+      "Eversion of endocervical columnar epithelium onto ectocervix (red appearance)",
+      "Ulcer of cervix",
+      "Polyp of cervix"
+    ],
+    "correct": "B",
+    "rationale": "Cervical erosion/ectropion: misnomer - not actual erosion. It's eversion (turning outward) of endocervical columnar epithelium onto the ectocervix. Appears RED (columnar epithelium thinner, more vascular). Common in: pregnancy, OCP use, adolescents (high estrogen). Usually asymptomatic. May cause: increased discharge, postcoital bleeding. Most resolve spontaneously. Treatment if symptomatic: cryotherapy or LEEP."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Anti-Mullerian Hormone (AMH) in male fetus is produced by:",
+    "options": [
+      "Leydig cells",
+      "Sertoli cells",
+      "Adrenal cortex",
+      "Pituitary"
+    ],
+    "correct": "B",
+    "rationale": "In male fetus: TWO key testicular hormones: 1) AMH/MIS (Anti-Mullerian Hormone/Mullerian Inhibiting Substance) from SERTOLI cells - causes Mullerian duct REGRESSION. 2) Testosterone from LEYDIG cells - causes Wolffian duct development. DHT (5-alpha-reductase converts T to DHT) - masculinizes external genitalia. Without AMH (PMDS): male with female internal organs (uterus, tubes)."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Swyer syndrome is characterized by:",
+    "options": [
+      "46 XX with male genitalia",
+      "46 XY with female phenotype, streak gonads (pure gonadal dysgenesis)",
+      "47 XXY",
+      "45 XO"
+    ],
+    "correct": "B",
+    "rationale": "Swyer syndrome (XY pure gonadal dysgenesis): 46 XY but female phenotype due to SRY gene mutation/deletion. No SRY = gonads form streaks (not testes) = no AMH = Mullerian structures (uterus, tubes) develop = no testosterone = no Wolffian/external masculinization. Presents: primary amenorrhea, normal female external genitalia, NORMAL height (vs Turner). Streak gonads = high cancer risk -> remove. HRT for puberty. Pregnancy possible with donor egg."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "Two cell theory of estrogen synthesis in ovary involves:",
+    "options": [
+      "Granulosa cells produce androgens, theca produces estrogen",
+      "Theca cells produce androgens (LH-driven), granulosa cells aromatize them to estrogen (FSH-driven)",
+      "Both cells produce estrogen independently",
+      "Ovary makes estrogen without other cells"
+    ],
+    "correct": "B",
+    "rationale": "Two-cell, two-gonadotropin theory: Theca cells (under LH) produce androgens (androstenedione, testosterone) from cholesterol via 17-alpha-hydroxylase. Androgens diffuse to GRANULOSA cells (under FSH) which aromatize them to estrogens via aromatase enzyme. This explains: 1) Both LH and FSH needed, 2) PCOS pathophysiology (high LH, theca hyperplasia, excess androgens). Aromatase inhibitors (letrozole) block this conversion."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Cabergoline is preferred over bromocriptine for hyperprolactinemia because:",
+    "options": [
+      "Cheaper",
+      "Better tolerated, more potent, longer acting (twice weekly dosing), fewer GI side effects",
+      "Stronger effect",
+      "Available oral only"
+    ],
+    "correct": "B",
+    "rationale": "Cabergoline vs Bromocriptine (both dopamine agonists for hyperprolactinemia): Cabergoline advantages: longer half-life (twice weekly dosing), fewer side effects (less nausea, dizziness, postural hypotension), better tolerated, more effective at normalizing prolactin and shrinking prolactinomas. Caution: cardiac valvulopathy with high doses (in Parkinson's, not at typical hyperprolactinemia doses). Both safe in pregnancy if needed."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Combined oral contraceptive pills (COCs) primarily prevent pregnancy by:",
+    "options": [
+      "Killing sperm",
+      "Suppressing ovulation (negative feedback on FSH/LH) + thickening cervical mucus + thinning endometrium",
+      "Causing abortion",
+      "Mechanical barrier"
+    ],
+    "correct": "B",
+    "rationale": "COCs (estrogen + progestin) - 3 mechanisms: 1) Primary - SUPPRESS OVULATION (estrogen suppresses FSH; progestin suppresses LH surge). 2) Thicken cervical mucus (progestin) - blocks sperm. 3) Thin endometrium - prevents implantation. Failure rate: 0.3% perfect use, 7% typical use. Health benefits: regulates cycles, reduces dysmenorrhea, decreases ovarian/endometrial cancer risk, treats acne and PCOS."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Absolute contraindications to combined oral contraceptive pills include all EXCEPT:",
+    "options": [
+      "History of breast cancer or DVT/PE",
+      "Migraine with aura",
+      "Active liver disease, smoker >35 years",
+      "Mild hypertension well-controlled"
+    ],
+    "correct": "D",
+    "rationale": "COC contraindications (WHO MEC Category 4 - absolute): History of VTE/DVT/PE/stroke, Active breast cancer, Migraine WITH aura, Severe hypertension (>=160/100), Smoker >=35 years (>=15 cigarettes/day), Active liver disease, Active gallbladder disease, <6 weeks postpartum (breastfeeding), Major surgery with prolonged immobilization. Mild well-controlled HTN in young woman = Category 3 (caution) not absolute contraindication."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The decidual reaction in early pregnancy is characterized by:",
+    "options": [
+      "Endometrial atrophy",
+      "Endometrial stromal cells become large, polygonal, glycogen-rich (decidualization)",
+      "Cervical thickening",
+      "Vaginal atrophy"
+    ],
+    "correct": "B",
+    "rationale": "Decidual reaction: progesterone-induced transformation of endometrial STROMA into DECIDUA. Stromal cells become enlarged, polygonal, glycogen-rich, lipid-rich. Provides: 1) Nutrition for early embryo, 2) Immunological protection (allows fetus to evade maternal immune system), 3) Barrier limiting trophoblast invasion. Beginning at implantation (Day 6-7), spreads through endometrium. After delivery, decidua is shed (lochia)."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Hofbauer cells in the placenta are:",
+    "options": [
+      "Syncytiotrophoblast",
+      "Cytotrophoblast",
+      "Fetal macrophages in chorionic villi",
+      "Maternal blood cells"
+    ],
+    "correct": "C",
+    "rationale": "Hofbauer cells: macrophages in the stroma of chorionic villi. Of fetal origin. Functions: phagocytosis, immune defense, fluid transport, antigen presentation. Numerous in early pregnancy, decrease in number towards term. Increased in: villitis, congenital infections (TORCH). Named after Isfred Isidor Hofbauer (1908). Different from Langhans cells (cytotrophoblast)."
   }
 ];
