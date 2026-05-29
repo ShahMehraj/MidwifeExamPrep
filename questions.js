@@ -9586,5 +9586,341 @@ const questions = [
     ],
     "correct": "C",
     "rationale": "Hofbauer cells: macrophages in the stroma of chorionic villi. Of fetal origin. Functions: phagocytosis, immune defense, fluid transport, antigen presentation. Numerous in early pregnancy, decrease in number towards term. Increased in: villitis, congenital infections (TORCH). Named after Isfred Isidor Hofbauer (1908). Different from Langhans cells (cytotrophoblast)."
+  },
+  {
+    "section": "1: ANATOMY PART-1 - VULVA (External Genitalia)",
+    "question": "The vulvar epithelium is most sensitive to which hormone?",
+    "options": [
+      "Progesterone",
+      "Estrogen (atrophy occurs after menopause due to estrogen deficiency)",
+      "Testosterone",
+      "Cortisol"
+    ],
+    "correct": "B",
+    "rationale": "Vulvar/vaginal epithelium is estrogen-dependent. After menopause: estrogen deficiency causes atrophic vulvovaginitis - thin epithelium, dryness, dyspareunia, pruritus, recurrent UTI, increased vaginal pH. Treatment: vaginal estrogen creams (low systemic absorption), oral HRT if other indications. Children also have low estrogen state - prepubertal vagina is similarly atrophic and prone to infections."
+  },
+  {
+    "section": "2: ANATOMY PART-2 - PERINEUM",
+    "question": "The Colles' fascia is the:",
+    "options": [
+      "Superficial fascia of perineum",
+      "Deep transverse perineal muscle",
+      "Anal sphincter",
+      "Levator ani muscle"
+    ],
+    "correct": "A",
+    "rationale": "Colles' fascia: deep membranous layer of superficial fascia of the perineum. Continuous with Scarpa's fascia of anterior abdominal wall. Forms the floor of the superficial perineal pouch. Important in trauma: blood/urine extravasation can spread along these connected fascial planes (urogenital triangle to anterior abdominal wall but NOT into thigh/anal triangle - because Colles attaches to ischiopubic rami)."
+  },
+  {
+    "section": "3: ANATOMY PART-3 - OVARY & FALLOPIAN TUBE",
+    "question": "Polycystic ovary on USG is defined as:",
+    "options": [
+      "1 cyst >5 cm",
+      ">=12 follicles measuring 2-9 mm OR ovarian volume >10 cm3",
+      "Bilateral solid masses",
+      "Single dominant follicle"
+    ],
+    "correct": "B",
+    "rationale": "Rotterdam criteria for polycystic ovaries on USG: >=12 follicles measuring 2-9 mm in each ovary, AND/OR ovarian volume >10 mL (cm3). Newer criteria (with high-resolution USG): >=20 follicles per ovary or volume >10 mL. 'String of pearls' appearance - peripheral arrangement of follicles. Note: PCOS diagnosis needs 2 of 3 Rotterdam criteria (oligo/anovulation + hyperandrogenism + polycystic ovaries)."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "The endometrial thickness in a postmenopausal woman not on HRT should be:",
+    "options": [
+      ">=10 mm",
+      "<=4-5 mm (thicker is suspicious for hyperplasia or cancer)",
+      ">=15 mm",
+      "Any thickness is normal"
+    ],
+    "correct": "B",
+    "rationale": "Postmenopausal endometrial thickness: <=4-5 mm = normal (atrophic endometrium). >5 mm in postmenopausal woman with bleeding = endometrial sampling needed (rule out hyperplasia/cancer). For asymptomatic women: <=11 mm acceptable. On HRT: thickness up to 8 mm acceptable. Any postmenopausal bleeding needs evaluation regardless of thickness."
+  },
+  {
+    "section": "4: ANATOMY PART-4 - UTERUS",
+    "question": "Most common benign tumor of myometrium is:",
+    "options": [
+      "Leiomyosarcoma",
+      "Leiomyoma (fibroid)",
+      "Adenomyoma",
+      "Angiomyoma"
+    ],
+    "correct": "B",
+    "rationale": "Leiomyoma (uterine fibroid): most common BENIGN tumor of myometrium and most common pelvic tumor in women. Composed of smooth muscle cells with whorled appearance histologically. Estrogen and progesterone-dependent. Malignant transformation extremely rare (<0.5%). Distinguish from leiomyosarcoma: rapid growth, post-menopausal growth, pain, atypical features on imaging."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Posterior fornix is clinically important because it relates to:",
+    "options": [
+      "Bladder",
+      "Pouch of Douglas (rectouterine pouch) - used for culdocentesis",
+      "Anterior abdominal wall",
+      "Sigmoid colon directly"
+    ],
+    "correct": "B",
+    "rationale": "Posterior fornix: deepest part of vagina, separated from pouch of Douglas by only a thin layer (vaginal mucosa + peritoneum). Clinical uses: 1) Culdocentesis - aspirate fluid (blood in ectopic, pus in PID). 2) Colpotomy - access to peritoneal cavity. 3) Vaginal ultrasound (transvaginal probe sits here for best pelvic imaging). 4) Posterior colpotomy used to drain pelvic abscess."
+  },
+  {
+    "section": "6: EMBRYOLOGY RELATED TO GYNECOLOGY",
+    "question": "Klinefelter syndrome (47 XXY) is characterized by all EXCEPT:",
+    "options": [
+      "Tall stature",
+      "Gynecomastia and small firm testes",
+      "Infertility",
+      "Female external genitalia"
+    ],
+    "correct": "D",
+    "rationale": "Klinefelter syndrome (47 XXY): MALE phenotype (Y chromosome present). Features: tall stature (long limbs), small firm testes, azoospermia (infertility), gynecomastia, decreased facial/body hair, learning difficulties (verbal IQ slightly lower), increased breast cancer risk (50x more than normal males). Treatment: testosterone replacement for secondary sex characteristics; ICSI with sperm extraction for fertility."
+  },
+  {
+    "section": "7: MENSTRUAL CYCLE",
+    "question": "The Pictorial Blood Loss Assessment Chart (PBAC) score >100 indicates:",
+    "options": [
+      "Normal periods",
+      "Menorrhagia (heavy menstrual bleeding)",
+      "Amenorrhea",
+      "Polymenorrhea"
+    ],
+    "correct": "B",
+    "rationale": "PBAC: visual scoring system for menstrual blood loss. Patient counts pads/tampons used and degree of soiling. Score >100 corresponds to >80 mL blood loss = MENORRHAGIA. Score 100-150: moderate. >200: severe. More objective than asking patient subjectively. Does not require alkaline hematin testing (gold standard but impractical). Practical clinical tool."
+  },
+  {
+    "section": "8: MENSTRUAL CYCLE PART-2 & DISORDERS OF MENSTRUATION",
+    "question": "PALM-COEIN classification of abnormal uterine bleeding includes structural causes:",
+    "options": [
+      "PALM = Polyp, Adenomyosis, Leiomyoma, Malignancy/hyperplasia",
+      "COEIN = Coagulopathy, Ovulatory, Endometrial, Iatrogenic, Not yet classified",
+      "Both A and B are correct",
+      "PALM is non-structural"
+    ],
+    "correct": "C",
+    "rationale": "FIGO PALM-COEIN classification of AUB: STRUCTURAL (PALM) - Polyp, Adenomyosis, Leiomyoma (fibroid), Malignancy/hyperplasia. NON-STRUCTURAL (COEIN) - Coagulopathy (von Willebrand), Ovulatory dysfunction, Endometrial (primary endometrial), Iatrogenic (drugs - hormonal, anticoagulants), Not otherwise classified. Replaced older terms like DUB. Helps in systematic evaluation."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Emergency contraception (morning-after pill) options include all EXCEPT:",
+    "options": [
+      "Levonorgestrel 1.5 mg within 72 hours",
+      "Ulipristal acetate 30 mg within 120 hours",
+      "Copper IUD within 5 days",
+      "Mifepristone 600 mg always"
+    ],
+    "correct": "D",
+    "rationale": "Emergency contraception options: 1) Levonorgestrel 1.5 mg (Plan B): within 72 hrs (max 120 hrs but reduced efficacy). 2) Ulipristal acetate 30 mg (Ella): within 120 hrs - more effective than LNG, especially for higher BMI. 3) Copper IUD: within 5 days - most effective (>99%). 4) Yuzpe regimen (high-dose COC): within 72 hrs - older, more side effects. Mifepristone 10 mg low-dose (not 600 mg) is for EC in some countries. EC works PRIMARILY by delaying ovulation."
+  },
+  {
+    "section": "10: FERTILIZATION AND IMPLANTATION",
+    "question": "The cortical reaction in the oocyte:",
+    "options": [
+      "Causes more sperm to enter",
+      "Releases enzymes that modify ZP3 receptors preventing polyspermy",
+      "Has no function",
+      "Helps the morula travel"
+    ],
+    "correct": "B",
+    "rationale": "Cortical reaction (zona reaction): exocytosis of cortical granules from oocyte cortex when sperm penetrates. Enzymes released: 1) Modify ZP3 receptors on zona pellucida (no more sperm can bind). 2) Cleave ZP2 (zona hardens). Prevents POLYSPERMY (multiple sperm fertilization, which would create non-viable triploid embryo). Same purpose as plasma membrane block (rapid block - voltage change) but more durable."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Marginal sinus of placenta refers to:",
+    "options": [
+      "Center of placenta",
+      "Venous channel at the periphery of placenta",
+      "Cord insertion",
+      "Nutrient artery"
+    ],
+    "correct": "B",
+    "rationale": "Marginal sinus: venous channel at the periphery of the placenta where intervillous blood drains into uterine veins. Marginal sinus rupture: cause of antepartum hemorrhage (mild, recurrent, painless bleeding) - between placenta abruption and previa in clinical features. Diagnosis: USG may be normal; diagnosis often retrospective. Generally less severe than full abruption."
+  },
+  {
+    "section": "12: PLACENTAL FUNCTIONS & hCG",
+    "question": "Placental enzymes produced include all EXCEPT:",
+    "options": [
+      "Aromatase (converts androgens to estrogens)",
+      "Sulfatase (cleaves DHEA-S)",
+      "Diamine oxidase (degrades histamine)",
+      "Pepsin"
+    ],
+    "correct": "D",
+    "rationale": "Placental enzymes: 1) Aromatase - converts androgens (DHEA, T) to estrogens. 2) Sulfatase - cleaves DHEA-S to free DHEA. 3) Diamine oxidase - degrades histamine (placental DAO levels reflect placental function). 4) Heat-stable alkaline phosphatase (placental ALP - elevated in maternal serum). 5) 11-beta-hydroxysteroid dehydrogenase 2 - inactivates maternal cortisol. Pepsin is gastric, not placental."
+  },
+  {
+    "section": "13: AMNIOTIC FLUID",
+    "question": "Meconium aspiration syndrome (MAS) is most likely in:",
+    "options": [
+      "Preterm <30 weeks",
+      "Post-term/term babies with thick meconium-stained fluid",
+      "All cesarean deliveries",
+      "First-born babies only"
+    ],
+    "correct": "B",
+    "rationale": "MAS: occurs when fetus aspirates meconium-stained amniotic fluid in utero or during delivery, causing chemical pneumonitis, airway obstruction, surfactant inactivation. Risk factors: post-term pregnancy, fetal distress (vagal stimulation -> meconium passage), thick meconium. Treatment: tracheal suctioning if non-vigorous, mechanical ventilation, surfactant, ECMO if severe. Mortality 5-10%. Routine intrapartum suctioning of nose/mouth no longer recommended."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Fetal alcohol syndrome (FAS) classic features include:",
+    "options": [
+      "Limb defects",
+      "Smooth philtrum, thin upper lip, small palpebral fissures, IUGR, intellectual disability",
+      "Cardiac defects only",
+      "No features"
+    ],
+    "correct": "B",
+    "rationale": "Fetal Alcohol Spectrum Disorders (FASD)/FAS classic facial triad: 1) Smooth philtrum (no vertical groove between nose and lip). 2) Thin upper lip (vermillion border). 3) Short palpebral fissures (small eye openings). Plus: IUGR (pre and postnatal), microcephaly, intellectual disability, ADHD, cardiac defects. NO SAFE LEVEL of alcohol in pregnancy. Most common preventable cause of intellectual disability."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Maternal smoking in pregnancy is associated with:",
+    "options": [
+      "Macrosomia",
+      "IUGR, preterm birth, placental abruption, SIDS",
+      "Increased fetal lung maturity",
+      "No fetal effects"
+    ],
+    "correct": "B",
+    "rationale": "Maternal smoking effects: IUGR (CO reduces O2 delivery), preterm birth, placental abruption, placenta previa, perinatal mortality, SIDS, increased risk of childhood asthma, ADHD. Each cigarette/day reduces birthweight by ~10g. Cleft lip/palate risk also increased. Counseling on smoking cessation: most effective intervention. Nicotine replacement preferred over continued smoking if cannot quit."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Modified Poole's index (used in many ANC programs) includes risk factors. High-risk pregnancy includes all EXCEPT:",
+    "options": [
+      "Age <18 or >35 years",
+      "Previous obstetric complications (cesarean, stillbirth, preeclampsia)",
+      "Medical conditions (DM, HTN, heart disease, anemia)",
+      "Working professional women"
+    ],
+    "correct": "D",
+    "rationale": "High-risk pregnancy factors: AGE - <18 or >35 years. PARITY - primigravida or grand multipara (>=5). HEIGHT - <145 cm. WEIGHT - <40 kg or >90 kg. PREVIOUS OB - cesarean, abortion, stillbirth, PPH. MEDICAL - HTN, DM, heart disease, severe anemia, thyroid disease, kidney disease, autoimmune. CURRENT - multiple pregnancy, malpresentation, IUGR, polyhydramnios, bleeding. SOCIAL - poor support, smoking, substance use. Working alone is not a risk factor."
+  },
+  {
+    "section": "15: PREGNANCY DIAGNOSIS & ANTENATAL CARE",
+    "question": "Booking visit (first ANC) ideally should be:",
+    "options": [
+      "After 28 weeks",
+      "Before 12 weeks for early registration",
+      "At delivery",
+      "After 20 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Booking/first visit: ideally before 12 weeks (early registration). Benefits: Accurate dating (CRL), early detection of high-risk factors, first trimester screening (combined test), counseling on diet/lifestyle/folic acid, baseline investigations, identification of need for specialist care. Late booking (>=20 weeks): missed opportunities for screening and prevention. PMSMA in India aims at quality ANC on 9th of each month."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Pregnancy effect on calcium metabolism:",
+    "options": [
+      "Decreased calcium absorption",
+      "Increased calcium absorption (doubled), placental transfer 30 g to fetus",
+      "Decreased PTH",
+      "No change"
+    ],
+    "correct": "B",
+    "rationale": "Calcium in pregnancy: Total calcium DECREASES (due to dilutional hypoalbuminemia) but IONIZED calcium remains normal. Intestinal absorption DOUBLES (due to increased calcitriol/active vitamin D - placental conversion of 25-OH-D to 1,25-(OH)2-D). Total maternal-to-fetal transfer: 30 g (mostly in 3rd trimester). Daily requirement: 1200 mg. Sources: dairy, fortified foods. Vitamin D requirement: 600 IU/day."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Lordosis develops in pregnancy due to:",
+    "options": [
+      "Calcium deficiency",
+      "Compensatory mechanism for shifting center of gravity (gravid uterus)",
+      "Vitamin D deficiency",
+      "Spinal disease"
+    ],
+    "correct": "B",
+    "rationale": "Lumbar lordosis: progressive forward curvature of lumbar spine in pregnancy. Compensatory adjustment for the anterior shift of center of gravity due to gravid uterus. Causes back pain (most common pregnancy complaint, 50-70%). Plus: relaxin causes ligamentous laxity (joint instability). Management: posture correction, prenatal exercises, supportive belt, heat application, physical therapy, paracetamol if needed. Resolves after delivery."
+  },
+  {
+    "section": "17: ABORTION",
+    "question": "Threatened abortion management includes:",
+    "options": [
+      "Immediate evacuation",
+      "Bed rest, avoid coitus, possibly progesterone supplementation, repeat USG",
+      "Hysterectomy",
+      "Antibiotics"
+    ],
+    "correct": "B",
+    "rationale": "Threatened abortion (closed os + bleeding + viable fetus): 1) Bed rest - though no proven benefit, traditionally advised. 2) Avoid coitus and intense activity. 3) Progesterone supplementation - may help in some cases (especially LPD). 4) Repeat USG in 1-2 weeks to assess viability. 5) Reassurance - 50% will continue normally. Anti-D if Rh-negative. NO role for tocolytics, antibiotics (without infection), or steroids."
+  },
+  {
+    "section": "18: ECTOPIC PREGNANCY",
+    "question": "Diagnostic laparoscopy in ectopic pregnancy is indicated when:",
+    "options": [
+      "Always as first-line",
+      "USG and beta-hCG inconclusive after appropriate workup, or therapeutic intervention needed",
+      "Only after methotrexate failure",
+      "Never indicated"
+    ],
+    "correct": "B",
+    "rationale": "Diagnostic laparoscopy: indicated when - 1) USG and beta-hCG inconclusive (pregnancy of unknown location). 2) Hemodynamic instability (immediate surgery). 3) Failure of medical management. 4) Patient preference for surgical management. Both diagnostic and therapeutic - can do salpingostomy or salpingectomy in same procedure. Has largely replaced laparotomy for stable patients."
+  },
+  {
+    "section": "19: GESTATIONAL TROPHOBLASTIC DISEASE",
+    "question": "After hydatidiform mole, the chance of normal pregnancy in subsequent gestation is:",
+    "options": [
+      "<10%",
+      "Approximately 80% - normal outcome",
+      "<20%",
+      "100% - always normal"
+    ],
+    "correct": "B",
+    "rationale": "After complete mole evacuation: ~80% of subsequent pregnancies are normal. Risk of recurrent mole: 1-2% (after 1 mole), 15-20% (after 2 moles). Counseling: postpone pregnancy until hCG normal for 6-12 months. First trimester USG in next pregnancy to confirm normal IUP. Postpartum hCG measurement 6 weeks after delivery (rule out continuing GTN). Most women have normal outcomes."
+  },
+  {
+    "section": "5: ANATOMY PART-5 - CERVIX & VAGINA",
+    "question": "Vaginal candidiasis is treated with:",
+    "options": [
+      "Metronidazole",
+      "Azoles (clotrimazole, miconazole, fluconazole)",
+      "Penicillin",
+      "Doxycycline"
+    ],
+    "correct": "B",
+    "rationale": "Candida albicans (yeast): treatment - Topical azoles (clotrimazole, miconazole) cream/pessary 3-7 days. OR Oral fluconazole 150 mg single dose (CONTRAINDICATED in 1st trimester pregnancy - associated with miscarriage and birth defects). Severe/recurrent: fluconazole weekly for 6 months. Predisposing factors: pregnancy, diabetes, antibiotics, immunosuppression. Not usually sexually transmitted."
+  },
+  {
+    "section": "9: HORMONES IN GYNECOLOGY",
+    "question": "Progestin-only pills (POP, mini-pill) are preferred in:",
+    "options": [
+      "Young women without contraindications",
+      "Breastfeeding women, women >35 who smoke, those with VTE history (no estrogen)",
+      "Women wanting bleeding regulation",
+      "Premenopausal women only"
+    ],
+    "correct": "B",
+    "rationale": "Progestin-only pills (POP/mini-pill): no estrogen. Preferred in - lactating mothers (estrogen reduces milk supply), women with contraindications to estrogen (VTE history, migraine with aura, smokers >35, severe HTN, lupus). Mechanism: thickens cervical mucus (primary), thins endometrium, partial ovulation suppression. Failure rate higher than COC. Must take same time daily (3-hour window only)."
+  },
+  {
+    "section": "11: PLACENTA",
+    "question": "Battledore placenta is associated with:",
+    "options": [
+      "Always pathological outcome",
+      "Marginal cord insertion - usually benign but slight risk of preterm labor",
+      "Severe IUGR always",
+      "Twin pregnancy only"
+    ],
+    "correct": "B",
+    "rationale": "Battledore placenta: cord inserts at edge/margin of placenta. Named after badminton racket shape. Incidence: 7% of singleton, 25% of twin pregnancies. Generally benign but slight increased risk of preterm labor and fetal distress. Distinguish from velamentous insertion (cord vessels travel unprotected through membranes - higher risk especially if vasa previa)."
+  },
+  {
+    "section": "14: FETAL DEVELOPMENT & TERATOLOGY",
+    "question": "Tetracycline given in pregnancy after 16-20 weeks causes:",
+    "options": [
+      "Limb defects",
+      "Yellow-brown discoloration of fetal teeth and growth inhibition of bones",
+      "Cardiac defects",
+      "Neural tube defects"
+    ],
+    "correct": "B",
+    "rationale": "Tetracycline: chelates calcium, deposits in developing teeth and bones. Fetal effects after 16-20 weeks (calcification begins): 1) Yellow-brown to gray staining of deciduous (and later permanent) teeth - permanent. 2) Enamel hypoplasia. 3) Inhibition of bone growth (less significant). Maternal effects: hepatotoxicity (especially IV in pregnancy). Avoid all tetracyclines in pregnancy and breastfeeding. Doxycycline same effect."
+  },
+  {
+    "section": "16: PHYSIOLOGICAL CHANGES IN PREGNANCY",
+    "question": "Diabetes screening (75g OGTT) interpretation per DIPSI (India) - GDM diagnosed if 2-hour value is:",
+    "options": [
+      ">=120 mg/dL",
+      ">=140 mg/dL (regardless of fasting status)",
+      ">=200 mg/dL",
+      ">=180 mg/dL"
+    ],
+    "correct": "B",
+    "rationale": "DIPSI (Diabetes In Pregnancy Study group of India) criteria: 75g glucose given regardless of fasting status; 2-hour plasma glucose >=140 mg/dL = GDM. Simple, single test. WHO 2013 criteria: 75g OGTT - Fasting >=92, 1-hr >=180, 2-hr >=153 mg/dL (any one). IADPSG criteria same as WHO. Carpenter-Coustan: 100g OGTT, 4 values (used in USA). All overlap and identify GDM."
   }
 ];
