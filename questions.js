@@ -11422,5 +11422,737 @@ const questions = [
     ],
     "correct": "B",
     "rationale": "Advanced ovarian cancer: 1) Cytoreductive (debulking) surgery - aim for no residual disease (R0). Includes TAH+BSO + omentectomy + pelvic/para-aortic lymphadenectomy + peritoneal stripping. Option of neoadjuvant chemo if not optimally debulkable. 2) PLATINUM-BASED CHEMOTHERAPY - carboplatin + paclitaxel x 6 cycles. Maintenance: PARP inhibitors (BRCA+/HRD) or bevacizumab. Recurrence common; subsequent lines based on platinum sensitivity."
+  },
+  {
+    "section": "36: MATERNAL PELVIS & FETAL SKULL",
+    "question": "The four types of female pelvis (Caldwell-Moloy classification) are:",
+    "options": [
+      "Round, oval, square, triangular",
+      "Gynecoid (favorable), Anthropoid, Android, Platypelloid",
+      "Small, medium, large, extra-large",
+      "Anterior, posterior, lateral, medial"
+    ],
+    "correct": "B",
+    "rationale": "Caldwell-Moloy pelvis classification: 1) GYNECOID (50%) - rounded, ideal for vaginal delivery, wide subpubic angle. 2) ANTHROPOID (25%) - AP diameter > transverse, narrow subpubic angle, OP delivery common. 3) ANDROID (20%) - heart-shaped, masculine, narrow forepelvis, prone to CPD/arrest. 4) PLATYPELLOID (5%) - flat, transverse > AP, can cause asynclitism. Most pelvises are mixed types."
+  },
+  {
+    "section": "36: MATERNAL PELVIS & FETAL SKULL",
+    "question": "True conjugate of pelvic inlet measures:",
+    "options": [
+      "8 cm",
+      "11 cm (sacral promontory to upper border of pubic symphysis)",
+      "13 cm",
+      "15 cm"
+    ],
+    "correct": "B",
+    "rationale": "Pelvic inlet diameters: TRUE conjugate (Conjugata vera) = 11 cm (anatomical, sacral promontory to upper border of symphysis pubis). OBSTETRIC conjugate = 10.5 cm (sacral promontory to closest point on symphysis - smallest AP, important clinically). DIAGONAL conjugate = 12 cm (sacral promontory to lower border of symphysis - measurable per vaginally). Obstetric = Diagonal - 1.5 cm. Transverse diameter: 13.5 cm. Oblique: 12 cm."
+  },
+  {
+    "section": "36: MATERNAL PELVIS & FETAL SKULL",
+    "question": "Contracted pelvis is suspected when obstetric conjugate is:",
+    "options": [
+      ">11 cm",
+      "<10 cm (severely contracted <8.5 cm)",
+      ">13 cm",
+      "Any size"
+    ],
+    "correct": "B",
+    "rationale": "Contracted pelvis: Obstetric conjugate <10 cm. Mild contraction: 9.5-10 cm. Moderate: 8.5-9.5 cm. Severe: <8.5 cm (CS mandatory). Causes: rickets, polio, fractures, congenital malformations, osteomalacia. Clinical assessment: short stature (<145cm), kyphosis, lameness, narrow Michaelis rhomboid. Imaging: X-ray pelvimetry (rarely done), MRI pelvimetry. Trial of labor possible in mild contraction with adequate facilities."
+  },
+  {
+    "section": "36: MATERNAL PELVIS & FETAL SKULL",
+    "question": "The diameters of fetal skull include:",
+    "options": [
+      "Suboccipitobregmatic 9.5 cm (smallest, well-flexed vertex)",
+      "Occipitofrontal 11.5 cm (military attitude)",
+      "Mentovertical 14 cm (brow - largest)",
+      "All of the above"
+    ],
+    "correct": "D",
+    "rationale": "Fetal skull diameters (smallest to largest): Suboccipitobregmatic (SOB) - 9.5 cm (well-flexed vertex, ideal). Submentobregmatic (SMB) - 9.5 cm (face presentation). Suboccipitofrontal - 10 cm (partial flexion). Occipitofrontal - 11.5 cm (military attitude, deflexed). Mentovertical - 14 cm (brow - LARGEST, undeliverable through normal pelvis). Transverse diameters: BPD 9.5 cm (engagement), Bitemporal 8 cm."
+  },
+  {
+    "section": "36: MATERNAL PELVIS & FETAL SKULL",
+    "question": "Fontanelles in the fetal skull:",
+    "options": [
+      "Anterior (bregma) - diamond-shaped, closes at 18 months; Posterior (lambda) - triangular, closes at 6-8 weeks",
+      "All close at birth",
+      "Same shape",
+      "No clinical importance"
+    ],
+    "correct": "A",
+    "rationale": "Fontanelles: 1) ANTERIOR (Bregma) - diamond-shaped, 4 sutures meeting (sagittal, coronal x2, frontal). Closes 12-18 months. Important for vaginal exam (palpate to determine position). 2) POSTERIOR (Lambda) - triangular, 3 sutures meeting (sagittal + lambdoid x2). Closes 6-8 weeks. Useful for determining position - posterior fontanelle palpable in well-flexed vertex (occipitoanterior)."
+  },
+  {
+    "section": "36: MATERNAL PELVIS & FETAL SKULL",
+    "question": "Caput succedaneum is:",
+    "options": [
+      "A type of birth defect",
+      "Diffuse swelling of fetal scalp due to pressure during labor (crosses suture lines, resolves within days)",
+      "Skull fracture",
+      "Brain injury"
+    ],
+    "correct": "B",
+    "rationale": "Caput succedaneum: edema of fetal scalp from pressure of cervix during labor. Features: 1) Crosses suture lines and midline. 2) Present at birth, resolves in 24-48 hours. 3) Soft, fluctuant, no clear margins. Compare to CEPHALOHEMATOMA: subperiosteal hemorrhage, does NOT cross suture lines, takes 6-8 weeks to resolve, may calcify. Subgaleal hemorrhage: more dangerous, can cause significant blood loss."
+  },
+  {
+    "section": "36: MATERNAL PELVIS & FETAL SKULL",
+    "question": "Moulding of fetal skull during labor:",
+    "options": [
+      "Permanent deformation",
+      "Overlapping of skull bones at sutures - reversible adaptation that allows passage through pelvis",
+      "Always pathological",
+      "Never occurs"
+    ],
+    "correct": "B",
+    "rationale": "Moulding: overlapping of fetal skull bones at sutures during labor (allows ~0.5-1 cm reduction in head diameter to facilitate passage). Grading: 0 (no moulding), 1+ (bones touching), 2+ (overlapping reducible), 3+ (not reducible - significant CPD). Excessive moulding suggests obstructed labor. Reversible after birth (resolves in days). Different from craniosynostosis (premature suture fusion - pathological)."
+  },
+  {
+    "section": "37: INDUCTION OF LABOR",
+    "question": "Indications for induction of labor include all EXCEPT:",
+    "options": [
+      "Post-term pregnancy (>=41-42 weeks)",
+      "PROM at term, severe preeclampsia, IUGR, GDM with poor control",
+      "Maternal medical conditions, oligohydramnios, fetal demise",
+      "Maternal request without indication at 37 weeks"
+    ],
+    "correct": "D",
+    "rationale": "Induction of labor indications: medical conditions where benefits of delivery outweigh risks. Post-term, PROM, preeclampsia/HTN, GDM, IUGR, oligohydramnios, fetal demise, chorioamnionitis, isoimmunization, intrahepatic cholestasis, abruption (mild). Elective induction at 39 weeks for low-risk now permissible (ARRIVE trial). NOT before 39 weeks without medical indication. Maternal request before 39 weeks: not standard."
+  },
+  {
+    "section": "37: INDUCTION OF LABOR",
+    "question": "Contraindications to induction of labor include:",
+    "options": [
+      "Active genital herpes lesion, vasa previa, classical CS scar, transverse lie",
+      "Bishop score 8",
+      "First pregnancy",
+      "Maternal age 30"
+    ],
+    "correct": "A",
+    "rationale": "Induction CONTRAINDICATIONS (same as vaginal delivery contraindications): 1) Placenta previa, vasa previa. 2) Active genital herpes (HSV). 3) Transverse lie. 4) Cord prolapse. 5) Previous classical or T-incision CS. 6) Previous uterine rupture. 7) HIV with high viral load. RELATIVE: previous low transverse CS x 2+, malpresentation, prematurity (without indication), severe macrosomia."
+  },
+  {
+    "section": "37: INDUCTION OF LABOR",
+    "question": "Failed induction is defined as:",
+    "options": [
+      "1 hour of contractions",
+      "Failure to achieve regular contractions and cervical change after adequate trial (>=12-18 hours of oxytocin + ROM in active phase)",
+      "Any pain",
+      "After 1 induction attempt"
+    ],
+    "correct": "B",
+    "rationale": "Failed induction definition (ACOG): failure to enter active phase of labor after >=12-18 hours of oxytocin with artificial ROM. Active phase begins at 5-6 cm. Don't diagnose failure until adequate trial given. Options after failed induction: 1) Allow more time (rest, restart). 2) Cesarean section. Counseling about CPD, future pregnancy implications. Modern shift towards longer trials before declaring failure."
+  },
+  {
+    "section": "38: ANEMIA IN PREGNANCY",
+    "question": "Iron deficiency anemia in pregnancy is treated with:",
+    "options": [
+      "Blood transfusion always",
+      "Oral iron 100-200 mg elemental iron/day (mild-moderate); IV iron sucrose if severe or oral intolerance",
+      "Folate only",
+      "B12 only"
+    ],
+    "correct": "B",
+    "rationale": "Iron deficiency anemia treatment: MILD (Hb 10-10.9): Oral iron 100 mg elemental/day. MODERATE (Hb 7-9.9): Oral 200 mg/day or IV iron. SEVERE (Hb <7): IV iron sucrose (preferred), iron carboxymaltose (single dose option), blood transfusion if Hb <5 or symptomatic. Avoid oral iron in 1st trimester (worsens nausea). Take with vitamin C (improves absorption); avoid with calcium, tea, coffee."
+  },
+  {
+    "section": "38: ANEMIA IN PREGNANCY",
+    "question": "Megaloblastic anemia in pregnancy is most commonly due to:",
+    "options": [
+      "Iron deficiency",
+      "Folate deficiency (rarely B12 in pregnancy)",
+      "Bleeding",
+      "Hemolysis"
+    ],
+    "correct": "B",
+    "rationale": "Megaloblastic anemia: macrocytic anemia with hypersegmented neutrophils. In pregnancy, folate deficiency is more common than B12 (vegetarian Indian diet has B12 issues but folate is also low). Folate needs increase 10-20x in pregnancy. Treatment: folic acid 1-5 mg/day (severe deficiency). Prevention: 400 mcg/day routinely. B12 deficiency: rare, more in vegan/strict vegetarian; treat with B12 injections."
+  },
+  {
+    "section": "38: ANEMIA IN PREGNANCY",
+    "question": "Anemia in pregnancy is severe when Hb is:",
+    "options": [
+      "Hb <11 g/dL",
+      "Hb <7 g/dL (very severe <4 g/dL - immediate transfusion)",
+      "Hb <12 g/dL",
+      "Hb <6 g/dL"
+    ],
+    "correct": "B",
+    "rationale": "Anemia severity in pregnancy (Indian classification): MILD: 10-10.9 g/dL. MODERATE: 7-9.9. SEVERE: <7. VERY SEVERE: <4 (life-threatening, immediate transfusion). Anemia Mukt Bharat (India) targets reduction of anemia to <30%. Maternal complications: heart failure, infection, postpartum hemorrhage, poor wound healing, maternal mortality. Fetal: prematurity, low birth weight, IUGR, perinatal mortality."
+  },
+  {
+    "section": "39: HEART DISEASE IN PREGNANCY",
+    "question": "Functional class of heart disease in pregnancy that is generally well-tolerated is:",
+    "options": [
+      "NYHA Class IV",
+      "NYHA Class I and II",
+      "All classes equally tolerated",
+      "Class III"
+    ],
+    "correct": "B",
+    "rationale": "NYHA Functional Classification: Class I (no symptoms with normal activity) - generally well-tolerated. Class II (slight limitation) - usually well-tolerated. Class III (marked limitation) - high risk. Class IV (symptoms at rest) - very high risk, may need termination. Worsening of class often occurs with hemodynamic burden of pregnancy (peaks at 28-32 weeks and during labor). Maternal mortality risk: I-II <1%, III 5-15%, IV 25-50%."
+  },
+  {
+    "section": "39: HEART DISEASE IN PREGNANCY",
+    "question": "Conditions where pregnancy is contraindicated (high mortality risk) include:",
+    "options": [
+      "All heart disease",
+      "Pulmonary hypertension, Eisenmenger syndrome, severe LV dysfunction, severe aortic stenosis, peripartum cardiomyopathy from previous pregnancy",
+      "Mild MR",
+      "Healed rheumatic heart disease"
+    ],
+    "correct": "B",
+    "rationale": "Pregnancy CONTRAINDICATED (WHO Class IV - mortality >25%): 1) Pulmonary hypertension (any cause). 2) Eisenmenger syndrome. 3) Severe LV dysfunction (EF <30%). 4) Severe aortic stenosis (symptomatic). 5) Marfan with aortic root >45 mm. 6) Severe mitral stenosis (NYHA III/IV). 7) History of peripartum cardiomyopathy with residual LV dysfunction. 8) Severe coarctation of aorta. Counseling about termination if conceived."
+  },
+  {
+    "section": "39: HEART DISEASE IN PREGNANCY",
+    "question": "Most common cause of heart disease in pregnancy in developing countries is:",
+    "options": [
+      "Congenital heart disease",
+      "Rheumatic heart disease (mitral stenosis most common lesion)",
+      "Hypertensive heart disease",
+      "Cardiomyopathy"
+    ],
+    "correct": "B",
+    "rationale": "Heart disease in pregnancy: DEVELOPING countries: Rheumatic heart disease (RHD) is most common (50-80%) - mitral stenosis is the commonest lesion. Worsens with pregnancy (increased volume, cardiac output, tachycardia). DEVELOPED countries: Congenital heart disease most common (RHD declining). Ischemic heart disease rising due to advancing maternal age, obesity, lifestyle factors. Peripartum cardiomyopathy: emerging issue."
+  },
+  {
+    "section": "40: PUERPERAL & POSTNATAL CARE",
+    "question": "Newborn care immediately after birth includes:",
+    "options": [
+      "Cord care, warmth, breastfeeding within 1 hour, vitamin K injection, eye prophylaxis",
+      "Bath only",
+      "Bottle feeding",
+      "Isolation from mother"
+    ],
+    "correct": "A",
+    "rationale": "Essential newborn care (immediate): 1) DRY and stimulate (prevent hypothermia). 2) DELAYED CORD CLAMPING (1-3 minutes). 3) SKIN-TO-SKIN contact with mother. 4) BREASTFEEDING within 1 hour. 5) VITAMIN K 1 mg IM (prevent hemorrhagic disease of newborn). 6) EYE PROPHYLAXIS - erythromycin or tetracycline ointment (prevents ophthalmia neonatorum from gonorrhea/chlamydia). 7) APGAR scoring at 1 and 5 minutes."
+  },
+  {
+    "section": "40: PUERPERAL & POSTNATAL CARE",
+    "question": "APGAR score components are:",
+    "options": [
+      "Activity, Pulse, Grimace, Appearance, Respiration",
+      "Age, Pulse, Grade, Activity, Respiration",
+      "Apnea, Pulse, Gait, Appetite, Reflex",
+      "Activity, Power, Grade, Affect, Reflex"
+    ],
+    "correct": "A",
+    "rationale": "APGAR score (Virginia Apgar 1953) - 5 components, each 0-2 points (max 10): A - APPEARANCE (color: blue/pink). P - PULSE (heart rate: 0/<100/>100). G - GRIMACE (reflex irritability). A - ACTIVITY (muscle tone). R - RESPIRATION (effort). Scored at 1 min and 5 min. <7 at 5 min: continue resuscitation, score every 5 min. NOT used to predict long-term neurological outcomes. Doesn't replace continuous assessment."
+  },
+  {
+    "section": "40: PUERPERAL & POSTNATAL CARE",
+    "question": "Optimal duration of exclusive breastfeeding (WHO recommendation) is:",
+    "options": [
+      "1 month",
+      "First 6 months",
+      "12 months",
+      "Until child wants formula"
+    ],
+    "correct": "B",
+    "rationale": "WHO recommendation: EXCLUSIVE breastfeeding for first 6 months (no water, formula, juice, food). Continued breastfeeding alongside complementary foods up to 2 years and beyond. Benefits: optimal nutrition, immune protection, cognitive development, bonding, reduces infections (diarrhea, pneumonia). Maternal benefits: contraception (LAM), reduced postpartum bleeding, reduced ovarian/breast cancer risk, weight loss."
+  },
+  {
+    "section": "40: PUERPERAL & POSTNATAL CARE",
+    "question": "Colostrum is:",
+    "options": [
+      "Same as mature milk",
+      "First milk (yellow, thick) produced in first 3-5 days postpartum, rich in immunoglobulins (IgA), proteins, vitamins",
+      "Watery fluid",
+      "Mature milk after 6 months"
+    ],
+    "correct": "B",
+    "rationale": "Colostrum: first milk produced 3-5 days postpartum. Yellow/orange, thick, sticky. Composition: high in immunoglobulins (especially secretory IgA - protects gut), proteins, fat-soluble vitamins (A, D, E, K), zinc, growth factors. Lower in lactose and fat than mature milk. Volume: 5-10 mL per feed. 'First immunization' for baby. Transitions to mature milk by day 10-14."
+  },
+  {
+    "section": "41: COMMON GYN INFECTIONS & STIs",
+    "question": "Genital warts (Condyloma acuminata) are caused by:",
+    "options": [
+      "HPV 16 and 18",
+      "HPV 6 and 11 (low-risk types)",
+      "HSV-2",
+      "Chlamydia"
+    ],
+    "correct": "B",
+    "rationale": "Genital warts: caused by HPV 6 and 11 (low-risk, non-oncogenic types). Cauliflower-like, painless papules on vulva, vagina, cervix, perianal region. Sexually transmitted. Treatment: topical (podofilox, imiquimod, sinecatechins, TCA), procedural (cryotherapy, laser, excision). HPV vaccine (quadrivalent, nonavalent) prevents 90% of warts. Distinguish from condyloma lata (syphilis - treponemal infection)."
+  },
+  {
+    "section": "41: COMMON GYN INFECTIONS & STIs",
+    "question": "Genital herpes (HSV) treatment includes:",
+    "options": [
+      "Penicillin",
+      "Acyclovir, valacyclovir, or famciclovir (antiviral therapy)",
+      "Metronidazole",
+      "Ciprofloxacin"
+    ],
+    "correct": "B",
+    "rationale": "Genital herpes: caused by HSV-2 (mainly) and HSV-1. Antivirals: ACYCLOVIR (oral 400mg TDS x 7-10 days for first episode), VALACYCLOVIR (better bioavailability), FAMCICLOVIR. Suppressive therapy for frequent recurrences. NO CURE. In pregnancy: cesarean if active lesions at delivery (prevents neonatal herpes - high mortality). Suppressive acyclovir from 36 weeks reduces lesions at delivery."
+  },
+  {
+    "section": "41: COMMON GYN INFECTIONS & STIs",
+    "question": "Syphilis screening test in pregnancy is:",
+    "options": [
+      "ELISA",
+      "VDRL or RPR (non-treponemal); confirmed with FTA-ABS or TPHA (treponemal)",
+      "Western blot",
+      "PCR only"
+    ],
+    "correct": "B",
+    "rationale": "Syphilis testing algorithm: SCREENING (non-treponemal): VDRL (Venereal Disease Research Lab), RPR (Rapid Plasma Reagin). Quantitative (titer). False positives in pregnancy, autoimmune disease. CONFIRMATION (treponemal): FTA-ABS, TPHA, TP-PA, EIA - more specific, but stay positive for life. In pregnancy: routine screening at first ANC + 28 weeks + delivery in high-risk areas. Treatment: penicillin (only effective drug, gives to pregnant women with allergy after desensitization)."
+  },
+  {
+    "section": "41: COMMON GYN INFECTIONS & STIs",
+    "question": "Congenital syphilis prevention requires:",
+    "options": [
+      "No treatment",
+      "Maternal benzathine penicillin (only effective drug; if allergic, MUST desensitize)",
+      "Doxycycline",
+      "Ceftriaxone"
+    ],
+    "correct": "B",
+    "rationale": "Syphilis in pregnancy: ONLY effective drug is BENZATHINE PENICILLIN G. Single 2.4 million units IM (early syphilis) to 3 weekly doses (latent or unknown duration). If penicillin allergic: MUST desensitize and give penicillin (alternatives like doxycycline, tetracycline contraindicated in pregnancy; erythromycin doesn't cross placenta well). Untreated syphilis: 50% stillbirth/neonatal death, 50% congenital syphilis."
+  },
+  {
+    "section": "41: COMMON GYN INFECTIONS & STIs",
+    "question": "HIV in pregnancy management to prevent vertical transmission includes:",
+    "options": [
+      "No intervention needed",
+      "Triple ART throughout pregnancy + intrapartum AZT + neonatal prophylaxis (reduces transmission from 25% to <2%)",
+      "Antibiotic only",
+      "Vitamin supplements"
+    ],
+    "correct": "B",
+    "rationale": "HIV PMTCT (Prevention of Mother-to-Child Transmission): 1) MATERNAL ART throughout pregnancy (regardless of CD4) - aim for undetectable viral load. 2) INTRAPARTUM AZT (zidovudine) IV if VL >1000 copies. 3) Mode of delivery: Vaginal if VL <50; CS at 38 weeks if VL >50. 4) NEONATAL prophylaxis (AZT for 4-6 weeks). 5) Avoid breastfeeding (in resource-rich settings) or exclusive breastfeeding (resource-poor). Reduces transmission from 25% to <2%."
+  },
+  {
+    "section": "41: COMMON GYN INFECTIONS & STIs",
+    "question": "Pelvic inflammatory disease (PID) is most commonly polymicrobial. The commonest single causative organisms are:",
+    "options": [
+      "Streptococcus only",
+      "Chlamydia trachomatis and Neisseria gonorrhoeae (with anaerobes added later)",
+      "E. coli",
+      "Candida"
+    ],
+    "correct": "B",
+    "rationale": "PID etiology: ascending infection from cervix. Most common organisms: Chlamydia trachomatis (most common, 40%) and Neisseria gonorrhoeae (asymptomatic carriage common). Polymicrobial - anaerobes (Bacteroides), gardnerella, mycoplasma, ureaplasma. CDC criteria for diagnosis: minimum criteria - cervical motion tenderness OR uterine tenderness OR adnexal tenderness in sexually active woman. Treatment: outpatient: ceftriaxone IM + doxycycline + metronidazole. Inpatient if severe."
+  },
+  {
+    "section": "42: NEONATAL ASSESSMENT & RESUSCITATION",
+    "question": "Apgar score of 7-10 at 1 minute means:",
+    "options": [
+      "Severe distress",
+      "Good condition - routine care",
+      "Moderate distress",
+      "Dead baby"
+    ],
+    "correct": "B",
+    "rationale": "Apgar interpretation at 1 minute: 7-10 = NORMAL (good condition, routine care). 4-6 = MODERATELY depressed (need stimulation, blow-by oxygen). 0-3 = SEVERELY depressed (need positive pressure ventilation, possible intubation). 5-minute score correlates better with outcomes. Persistent low score (<6 at 5 min and beyond) associated with neonatal complications. Perform every 5 min until score >=7 or 20 min reached."
+  },
+  {
+    "section": "42: NEONATAL ASSESSMENT & RESUSCITATION",
+    "question": "Initial steps of neonatal resuscitation (NRP) include:",
+    "options": [
+      "Wait and watch",
+      "Provide warmth, position airway, suction if needed, dry, stimulate (within 30 seconds)",
+      "Immediate intubation",
+      "Cardiac massage immediately"
+    ],
+    "correct": "B",
+    "rationale": "NRP initial steps (within 30 seconds): 1) Provide WARMTH (radiant heater, dry baby). 2) Position airway (slight neck extension - 'sniffing position'). 3) Clear airway if needed (suction mouth then nose). 4) Dry and stimulate. After 30 sec: assess breathing and HR. If apneic or HR <100: PPV with bag-mask. If HR <60 after 30 sec PPV: chest compressions (3:1 ratio with ventilation). Epinephrine if HR <60 after compressions."
+  },
+  {
+    "section": "42: NEONATAL ASSESSMENT & RESUSCITATION",
+    "question": "Vitamin K is given to all newborns to prevent:",
+    "options": [
+      "Anemia",
+      "Hemorrhagic disease of newborn (HDN) / Vitamin K Deficiency Bleeding",
+      "Jaundice",
+      "Sepsis"
+    ],
+    "correct": "B",
+    "rationale": "Vitamin K (1 mg IM) at birth: prevents HDN/VKDB. Newborns are vitamin K deficient (poor placental transfer, sterile gut, low in breast milk). 3 forms of VKDB: 1) EARLY (first 24 hrs) - maternal anticonvulsants, anticoagulants. 2) CLASSICAL (1 day-1 week) - 0.25-1.7% in untreated. 3) LATE (1 week-6 months) - more severe, intracranial bleeding, mortality 20%. IM injection routine; oral has lower efficacy."
+  },
+  {
+    "section": "43: SYNDROMES IN GYNECOLOGY",
+    "question": "Asherman syndrome includes triad of:",
+    "options": [
+      "Amenorrhea, infertility, and history of vigorous curettage",
+      "Heavy periods only",
+      "Hot flashes and obesity",
+      "Pelvic pain alone"
+    ],
+    "correct": "A",
+    "rationale": "Asherman syndrome (Joseph Asherman 1948): intrauterine adhesions/synechiae causing - 1) Amenorrhea or hypomenorrhea. 2) Infertility. 3) Recurrent pregnancy loss. History: vigorous curettage (especially postpartum or post-abortion). Diagnosis: hysteroscopy (gold standard). Treatment: hysteroscopic adhesiolysis + post-op estrogen + IUD/balloon to prevent re-adhesion. Pregnancy outcomes good after treatment."
+  },
+  {
+    "section": "43: SYNDROMES IN GYNECOLOGY",
+    "question": "Sheehan syndrome is:",
+    "options": [
+      "Polycystic ovary",
+      "Postpartum pituitary necrosis (anterior pituitary infarction from severe PPH/shock) -> hypopituitarism",
+      "Vaginal infection",
+      "Adrenal failure"
+    ],
+    "correct": "B",
+    "rationale": "Sheehan syndrome: postpartum hypopituitarism from anterior pituitary necrosis after severe PPH/hypovolemic shock. Pituitary is enlarged in pregnancy (more vulnerable). Features: failure of lactation (low prolactin) - first sign. Then progressive: amenorrhea, loss of pubic/axillary hair, hypothyroidism, adrenal insufficiency, decreased libido. Treatment: lifelong hormone replacement (corticosteroid, thyroxine, estrogen). Also called postpartum hypopituitarism."
+  },
+  {
+    "section": "43: SYNDROMES IN GYNECOLOGY",
+    "question": "Meigs syndrome is the triad of:",
+    "options": [
+      "Ovarian fibroma + ascites + pleural effusion (resolves after fibroma removal)",
+      "Hypertension + edema + proteinuria",
+      "Amenorrhea + galactorrhea + infertility",
+      "Mittelschmerz + dysmenorrhea + menorrhagia"
+    ],
+    "correct": "A",
+    "rationale": "Meigs syndrome: 1) Benign OVARIAN FIBROMA (sometimes thecoma, granulosa cell tumor). 2) ASCITES. 3) PLEURAL EFFUSION (right side most common). Resolution after tumor removal confirms diagnosis. Pseudo-Meigs: similar with malignant tumors. Differential: must rule out ovarian cancer (CA-125 may be elevated in both). Pleural effusion mechanism: fluid moves from peritoneum via diaphragmatic lymphatics."
+  },
+  {
+    "section": "43: SYNDROMES IN GYNECOLOGY",
+    "question": "Mittelschmerz refers to:",
+    "options": [
+      "Pain at the time of ovulation (mid-cycle pain)",
+      "Painful menstruation",
+      "Painful intercourse",
+      "Postpartum pain"
+    ],
+    "correct": "A",
+    "rationale": "Mittelschmerz (German: middle pain): unilateral lower abdominal pain at ovulation (mid-cycle, day 14 in 28-day cycle). Causes: ruptured follicle releases blood/fluid causing peritoneal irritation. Lasts hours to 1-2 days. Alternates sides monthly (corresponds to ovulating ovary). Self-limiting, NSAIDs help. Useful as natural family planning sign of ovulation."
+  },
+  {
+    "section": "43: SYNDROMES IN GYNECOLOGY",
+    "question": "Stein-Leventhal syndrome is the original name of:",
+    "options": [
+      "PCOS (Polycystic Ovary Syndrome)",
+      "Turner syndrome",
+      "Endometriosis",
+      "Sheehan syndrome"
+    ],
+    "correct": "A",
+    "rationale": "Stein-Leventhal syndrome (1935 - Irving Stein, Michael Leventhal): original description of PCOS. Classic triad: 1) Polycystic ovaries (multiple small follicles - 'string of pearls'). 2) Hirsutism. 3) Obesity. Now expanded to Rotterdam criteria (2 of 3): oligo/anovulation + clinical/biochemical hyperandrogenism + polycystic ovaries on USG. Most common endocrine disorder in reproductive women. Insulin resistance is central."
+  },
+  {
+    "section": "44: POST-TERM PREGNANCY",
+    "question": "Post-term pregnancy is defined as:",
+    "options": [
+      "Beyond 38 weeks",
+      "Beyond 42 completed weeks (294 days from LMP)",
+      "Beyond 40 weeks",
+      "Beyond 36 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Post-term pregnancy: gestational age >=42 completed weeks (>=294 days from LMP). Late-term: 41-42 weeks. Incidence: 5-10% (less with active induction at 41 weeks). Risks: stillbirth (rises sharply after 41 weeks), meconium aspiration, macrosomia, oligohydramnios, post-maturity syndrome (dry skin, long nails, lanugo loss, alert wide-eyed look - Clifford syndrome)."
+  },
+  {
+    "section": "44: POST-TERM PREGNANCY",
+    "question": "Management of pregnancy reaching 41 weeks (late-term) is:",
+    "options": [
+      "Wait until labor",
+      "Induce labor at 41 weeks (or after with surveillance) - reduces stillbirth and CS rates",
+      "Cesarean immediately",
+      "No intervention until 43 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Late-term/post-term management: ROUTINE INDUCTION AT 41 WEEKS recommended (ACOG, RCOG) - reduces stillbirth, perinatal mortality, NICU admissions, meconium aspiration, with NO increase in CS (modern data shows reduction). If awaiting spontaneous labor: twice-weekly NST + AFI from 41 weeks. Most centers don't allow >42 weeks. ARRIVE trial supports induction at 39 weeks for low-risk."
+  },
+  {
+    "section": "45: INTRAUTERINE FETAL DEMISE (IUD)",
+    "question": "Intrauterine fetal demise (stillbirth) is defined as:",
+    "options": [
+      "Death after birth",
+      "Death of fetus in utero >=20 weeks gestation (or 28 weeks per WHO definition for international comparison)",
+      "Any abortion",
+      "Death within 1 hour of birth"
+    ],
+    "correct": "B",
+    "rationale": "IUD/Stillbirth definitions: USA - fetal death >=20 weeks. WHO (international) - >=28 weeks for comparison. India - >=20 weeks or 500g. Early stillbirth (20-28 wks), Late stillbirth (28-36 wks), Term (>=37 wks). Causes: 50% unexplained, placental causes (most common known - abruption, insufficiency), fetal anomalies, maternal conditions (HTN, DM, infection), umbilical cord (true knot, prolapse). Investigation: detailed autopsy + placental exam + karyotype + maternal workup."
+  },
+  {
+    "section": "45: INTRAUTERINE FETAL DEMISE (IUD)",
+    "question": "Management of IUD includes:",
+    "options": [
+      "Wait indefinitely for spontaneous labor",
+      "Induce labor as soon as confirmed (medical induction with mifepristone + misoprostol typical) - DIC risk if retained >4 weeks",
+      "Hysterectomy",
+      "Cesarean section always"
+    ],
+    "correct": "B",
+    "rationale": "IUD management: 1) Confirm with USG (absent cardiac activity, Spalding sign - overlapping skull bones, Robert's sign - gas in fetal vessels). 2) Counseling and emotional support. 3) Investigate cause. 4) INDUCTION OF LABOR - vaginal delivery preferred. Method: mifepristone + misoprostol (effective). Wait beyond 4 weeks: DIC risk (release of thromboplastin from dead fetal tissue). Anti-D for Rh-negative. Lactation suppression (cabergoline). Bereavement support."
+  },
+  {
+    "section": "46: NEURAL TUBE DEFECTS",
+    "question": "Anencephaly is characterized by:",
+    "options": [
+      "Brain herniation",
+      "Failure of closure of cranial neural tube - absent skull and cerebral hemispheres - incompatible with life",
+      "Spinal defect only",
+      "Hydrocephalus"
+    ],
+    "correct": "B",
+    "rationale": "Anencephaly: failure of cranial neural tube closure (3rd-4th week). Absent forebrain/cerebrum + open skull. Incompatible with life - stillbirth or death within hours of birth. Associated: polyhydramnios (no swallowing reflex), prolonged pregnancy (no fetal cortisol), face presentation. Detected: alpha-fetoprotein elevated, USG (absent calvaria after 12-14 weeks). 95% recurrence prevented by 4 mg folic acid pre-conceptionally (vs 0.4 mg routine)."
+  },
+  {
+    "section": "46: NEURAL TUBE DEFECTS",
+    "question": "Spina bifida includes spectrum of:",
+    "options": [
+      "Only minor variant",
+      "Spina bifida occulta (covered, mild) -> Meningocele (membranes only) -> Myelomeningocele (cord involvement, severe)",
+      "Brain only",
+      "Skull defects"
+    ],
+    "correct": "B",
+    "rationale": "Spina bifida spectrum (caudal NTDs): 1) Spina bifida OCCULTA - vertebral arch defect, spinal cord normal. May have hair tuft/dimple over site. 5-10% of population, mostly asymptomatic. 2) MENINGOCELE - sac with meninges only protrudes through defect. Usually neurologically intact. 3) MYELOMENINGOCELE - sac with meninges + spinal cord/nerves. Severe neurological deficits below level (paralysis, bowel/bladder, hydrocephalus). Most severe form."
+  },
+  {
+    "section": "46: NEURAL TUBE DEFECTS",
+    "question": "Folic acid for NTD prevention should be started:",
+    "options": [
+      "After diagnosis of pregnancy",
+      "At least 1-3 months BEFORE conception (preconceptional - critical period is first 28 days when most don't know they are pregnant)",
+      "Third trimester",
+      "Postpartum"
+    ],
+    "correct": "B",
+    "rationale": "Folic acid for NTD prevention: START 1-3 MONTHS BEFORE conception (preconceptional) and continue through 1st trimester. Critical neural tube closure: 22-28 days post-fertilization (often before pregnancy known). Standard dose: 400 mcg/day. HIGH-RISK women (4-5 mg/day): previous NTD child, antiepileptic drugs (especially valproate), DM, obesity, malabsorption. Reduces NTD risk by 70%."
+  },
+  {
+    "section": "47: MACROSOMIA & SHOULDER DYSTOCIA",
+    "question": "Macrosomia is defined as fetal weight:",
+    "options": [
+      ">=2500g",
+      ">=4000g (LGA: >90th percentile for gestational age)",
+      ">=5000g only",
+      ">=3500g"
+    ],
+    "correct": "B",
+    "rationale": "Macrosomia: estimated fetal weight (EFW) >=4000g (or >4500g per stricter definitions). Large for Gestational Age (LGA): birth weight >90th percentile. Risk factors: maternal diabetes (especially poorly controlled), obesity, post-term, multiparity, previous macrosomic baby, male sex, genetic. Risks: shoulder dystocia, birth trauma, brachial plexus injury (Erb's palsy), clavicular fracture, cesarean delivery, neonatal hypoglycemia."
+  },
+  {
+    "section": "47: MACROSOMIA & SHOULDER DYSTOCIA",
+    "question": "Shoulder dystocia is an obstetric emergency where:",
+    "options": [
+      "Head delivery is delayed",
+      "After delivery of fetal head, anterior shoulder is impacted behind pubic symphysis (turtle sign) - life-threatening",
+      "Cord prolapses",
+      "Placenta retained"
+    ],
+    "correct": "B",
+    "rationale": "Shoulder dystocia: anterior shoulder impacted behind pubic symphysis after head delivers. Diagnosis: 'TURTLE SIGN' - fetal head retracts back against perineum after delivery. Risk factors: macrosomia, GDM, maternal obesity, post-term, prolonged 2nd stage, previous shoulder dystocia. Complications: brachial plexus injury (Erb's palsy - C5-C6), clavicle/humerus fracture, hypoxic-ischemic injury, fetal death. Maternal: PPH, perineal trauma."
+  },
+  {
+    "section": "47: MACROSOMIA & SHOULDER DYSTOCIA",
+    "question": "Maneuvers for shoulder dystocia (HELPERR mnemonic) include all EXCEPT:",
+    "options": [
+      "H - Help (call for help)",
+      "E - Episiotomy, L - Legs (McRoberts), P - Pressure (suprapubic)",
+      "E - Enter (rotational maneuvers - Woods, Rubin), R - Remove posterior arm, R - Roll (Gaskin)",
+      "Pull harder on baby's head"
+    ],
+    "correct": "D",
+    "rationale": "HELPERR mnemonic for shoulder dystocia: H - call for HELP. E - EPISIOTOMY (often not needed). L - LEGS (McRoberts maneuver - hyperflex maternal hips, very effective). P - suprapubic PRESSURE (Mazzanti's maneuver). E - ENTER pelvis (Woods screw, Rubin's rotational maneuvers). R - REMOVE posterior arm. R - ROLL onto all fours (Gaskin maneuver). NEVER pull on head - causes brachial plexus injury. Symphysiotomy and Zavanelli are last resort."
+  },
+  {
+    "section": "48: ENDOMETRIOSIS",
+    "question": "Most common site of endometriosis is:",
+    "options": [
+      "Lung",
+      "Ovary (forms chocolate cyst/endometrioma) - then pouch of Douglas, uterosacral ligaments",
+      "Brain",
+      "Liver"
+    ],
+    "correct": "B",
+    "rationale": "Endometriosis sites (decreasing frequency): 1) OVARY (chocolate cyst/endometrioma) - most common. 2) Pouch of Douglas. 3) Uterosacral ligaments. 4) Posterior cul-de-sac. 5) Round ligaments. 6) Fallopian tubes. 7) Bowel/bladder (deep infiltrating endometriosis). 8) Distant: lung (catamenial pneumothorax), umbilicus, surgical scars, brain (rare). Theories: retrograde menstruation (Sampson), coelomic metaplasia, lymphatic spread."
+  },
+  {
+    "section": "48: ENDOMETRIOSIS",
+    "question": "Gold standard for diagnosis of endometriosis is:",
+    "options": [
+      "USG",
+      "Laparoscopy with biopsy",
+      "MRI",
+      "Blood test"
+    ],
+    "correct": "B",
+    "rationale": "Endometriosis diagnosis: GOLD STANDARD = laparoscopy with biopsy (visualization + histological confirmation). USG: limited (good for ovarian endometriomas, deep endometriosis, but misses superficial). MRI: useful for deep infiltrating endometriosis. CA-125: nonspecific (also raised in PID, fibroids, malignancy). Empirical treatment can be tried before laparoscopy. ASRM staging I-IV based on laparoscopic findings."
+  },
+  {
+    "section": "48: ENDOMETRIOSIS",
+    "question": "Medical treatment of endometriosis includes all EXCEPT:",
+    "options": [
+      "Combined oral contraceptive pills (continuous use)",
+      "Progestins (dienogest, levonorgestrel IUS), GnRH agonists",
+      "Aromatase inhibitors, danazol",
+      "Estrogen therapy alone"
+    ],
+    "correct": "D",
+    "rationale": "Endometriosis treatment options: 1) NSAIDs - pain relief. 2) COC (continuous, no withdrawal) - first-line for pain. 3) PROGESTINS - dienogest (most effective oral), DMPA injection, Mirena IUS. 4) GnRH agonists (leuprolide) - induces medical menopause (limit 6 months due to bone loss; add-back HRT if longer). 5) DANAZOL - older, androgenic side effects. 6) Aromatase inhibitors. ESTROGEN ALONE: contraindicated (worsens endometriosis)."
+  },
+  {
+    "section": "49: FIBROIDS (LEIOMYOMA)",
+    "question": "Most common symptom of submucosal fibroids is:",
+    "options": [
+      "Asymptomatic always",
+      "Heavy menstrual bleeding (HMB) and infertility",
+      "Bowel obstruction",
+      "Severe abdominal pain"
+    ],
+    "correct": "B",
+    "rationale": "Fibroid symptoms by location: SUBMUCOSAL - protrudes into cavity, causes heavy bleeding (even when small) and infertility/recurrent loss. INTRAMURAL (most common) - bulk symptoms, heavy bleeding if large. SUBSEROSAL - pressure symptoms (urinary frequency, constipation), pain if torsion (pedunculated). CERVICAL - rare, can cause obstruction. Many fibroids asymptomatic. Symptoms depend more on location than size."
+  },
+  {
+    "section": "49: FIBROIDS (LEIOMYOMA)",
+    "question": "Treatment options for symptomatic fibroids include:",
+    "options": [
+      "Watchful waiting",
+      "Medical (GnRH agonists - shrink before surgery, ulipristal, Mirena), Surgical (myomectomy, hysterectomy), UAE",
+      "Both A and B based on patient factors",
+      "Only chemotherapy"
+    ],
+    "correct": "C",
+    "rationale": "Fibroid management depends on: symptoms, size, location, age, fertility wishes. ASYMPTOMATIC: observation. MEDICAL: tranexamic acid (bleeding only), Mirena IUS, GnRH agonists (pre-surgical), ulipristal (Esmya - withdrawn for hepatic concerns), aromatase inhibitors. SURGICAL: myomectomy (preserves fertility), hysterectomy (definitive). UTERINE ARTERY EMBOLIZATION (UAE): minimally invasive, preserves uterus but not fertility. MR-HIFU: focused ultrasound."
+  },
+  {
+    "section": "49: FIBROIDS (LEIOMYOMA)",
+    "question": "Red degeneration of fibroid:",
+    "options": [
+      "Always seen postmenopausal",
+      "Painful necrosis of fibroid commonly during pregnancy (especially 2nd trimester) - conservative management",
+      "Cancer transformation",
+      "Always requires surgery"
+    ],
+    "correct": "B",
+    "rationale": "Fibroid degenerations: 1) RED degeneration (necrobiosis) - common in pregnancy (2nd trimester) - rapid growth outstrips blood supply, hemorrhagic infarction. Presents with severe localized pain, fever, tenderness. Conservative management (rest, analgesics, often paracetamol/opioids). 2) Hyaline (most common). 3) Cystic. 4) Calcific (postmenopausal). 5) Fatty. 6) Sarcomatous (rare, <0.5%). Pregnancy fibroids: 30% increase in size."
+  },
+  {
+    "section": "50: BREAST DISORDERS",
+    "question": "Breast cancer screening recommendations include:",
+    "options": [
+      "MRI for all women",
+      "Annual mammogram from age 40-45 (varies by guideline); BRCA carriers earlier with MRI",
+      "Self-exam only",
+      "No screening needed"
+    ],
+    "correct": "B",
+    "rationale": "Breast cancer screening guidelines: USPSTF: mammogram every 2 years from 50-74. ACS: annual from 45 (option to start 40). NCCN: annual from 40. ACOG: shared decision making 40-49, annual 50-74. HIGH-RISK (BRCA, family history): start earlier, add MRI. Self-breast exam: not recommended for screening (no mortality benefit) but breast self-awareness encouraged. Clinical breast exam: every 1-3 years from 25-39."
+  },
+  {
+    "section": "50: BREAST DISORDERS",
+    "question": "Mastalgia (breast pain) most commonly is:",
+    "options": [
+      "Sign of cancer",
+      "Cyclical mastalgia (related to hormones, premenstrual) - usually benign and bilateral",
+      "Always pathological",
+      "Sign of pregnancy only"
+    ],
+    "correct": "B",
+    "rationale": "Mastalgia types: 1) CYCLICAL (most common, 67%) - bilateral, related to menstrual cycle, peaks premenstrually, related to hormones. Resolves with menses. Usually benign. 2) NON-CYCLICAL - constant, unilateral, may be cyst, fibroadenoma, mastitis, ductal ectasia. 3) Extra-mammary (chest wall, costochondritis - Tietze syndrome). Treatment: reassurance, supportive bra, NSAIDs, evening primrose oil, danazol if severe. Cancer rarely presents with pain."
+  },
+  {
+    "section": "51: NEONATAL JAUNDICE",
+    "question": "Physiological jaundice in newborns:",
+    "options": [
+      "Always present at birth",
+      "Appears after 24 hours, peaks day 3-5, resolves by day 7-10 (term); unconjugated bilirubin",
+      "Always indicates disease",
+      "Conjugated only"
+    ],
+    "correct": "B",
+    "rationale": "Physiological jaundice (60% of term, 80% preterm): UNCONJUGATED hyperbilirubinemia. Causes: increased RBC breakdown (fetal Hb has shorter lifespan), immature hepatic conjugation, increased enterohepatic circulation. Onset: AFTER 24 hours. Peak: day 3-5 (term), day 5-7 (preterm). Resolves: by 1-2 weeks. Pathological: jaundice in <24 hours (hemolytic disease), >2 weeks, conjugated >20%, rapid rise. Treatment: phototherapy or exchange transfusion (severe)."
+  },
+  {
+    "section": "51: NEONATAL JAUNDICE",
+    "question": "Hemolytic disease of newborn (HDN) due to Rh isoimmunization:",
+    "options": [
+      "Mother Rh+, baby Rh-",
+      "Mother Rh-NEGATIVE, baby Rh-positive (mother forms anti-D antibodies that cross placenta and hemolyze fetal RBCs)",
+      "Same blood group",
+      "Affects only first pregnancy"
+    ],
+    "correct": "B",
+    "rationale": "Rh HDN: mother Rh-NEGATIVE, baby Rh-POSITIVE. Mother sensitized in previous pregnancy/abortion/blood transfusion. Forms IgG anti-D antibodies that cross placenta -> destroy fetal RBCs -> hemolysis -> anemia, hydrops fetalis, jaundice (kernicterus). USUALLY affects subsequent pregnancies (first pregnancy generally OK unless prior sensitization). Prevention: Anti-D immunoglobulin to Rh-negative women. ABO incompatibility: more common but usually milder."
+  },
+  {
+    "section": "52: OBSTETRIC EMERGENCIES",
+    "question": "Cord prolapse is:",
+    "options": [
+      "Cord around fetal neck",
+      "Umbilical cord descends ahead of presenting part through cervix - obstetric emergency requiring immediate cesarean",
+      "Cord absent",
+      "Short cord"
+    ],
+    "correct": "B",
+    "rationale": "Cord prolapse: cord descends through cervix ahead of presenting part. Risk factors: malpresentation (transverse, breech), polyhydramnios, prematurity, multiple pregnancy, ROM with high station. Diagnosis: visible cord at vulva, palpable in vagina, fetal bradycardia. EMERGENCY: 1) Push presenting part up off cord (manual elevation). 2) Knee-chest or Trendelenburg position. 3) Catheterize and fill bladder (lifts presenting part). 4) Tocolytic to relax uterus. 5) Immediate CS (unless full dilatation - instrumental delivery)."
+  },
+  {
+    "section": "52: OBSTETRIC EMERGENCIES",
+    "question": "Amniotic fluid embolism (AFE) is characterized by:",
+    "options": [
+      "Slowly progressive symptoms",
+      "Sudden cardiopulmonary collapse during/shortly after delivery + DIC + neurological signs (anaphylactoid syndrome of pregnancy)",
+      "Mild fever",
+      "Postpartum infection"
+    ],
+    "correct": "B",
+    "rationale": "Amniotic fluid embolism (AFE): rare but catastrophic. Mortality 20-60%. Pathology: amniotic fluid enters maternal circulation -> anaphylactoid response. Triad: 1) Sudden cardiopulmonary collapse (hypoxia, hypotension, cardiac arrest). 2) DIC. 3) Coma/seizures. Risk factors: advanced maternal age, induction, multiparity, polyhydramnios, placental abruption. Treatment: ABC support, blood products for DIC, supportive ICU care. Modern term: anaphylactoid syndrome of pregnancy."
+  },
+  {
+    "section": "52: OBSTETRIC EMERGENCIES",
+    "question": "Uterine rupture in labor presents with:",
+    "options": [
+      "Painless bleeding only",
+      "Sudden severe abdominal pain, fetal heart abnormality, vaginal bleeding, recession of presenting part, maternal shock",
+      "Slow gradual progression",
+      "No symptoms"
+    ],
+    "correct": "B",
+    "rationale": "Uterine rupture (catastrophic obstetric emergency): risk factors - previous CS (especially classical), trauma, oxytocin/misoprostol misuse, obstructed labor, grand multiparity. Presents: sudden severe abdominal pain, sudden fetal heart rate abnormality (most reliable sign), recession of presenting part, vaginal bleeding (variable - may be concealed), maternal shock disproportionate to bleeding. Treatment: immediate laparotomy, hysterectomy or repair (depending on extent and fertility wishes). Delivery within 10-37 minutes for fetal survival."
+  },
+  {
+    "section": "52: OBSTETRIC EMERGENCIES",
+    "question": "Eclamptic seizure management priorities are:",
+    "options": [
+      "Wait and observe",
+      "ABC (airway, breathing, circulation) + MgSO4 to stop and prevent seizures + control BP + plan delivery",
+      "Diazepam only",
+      "Cesarean immediately during seizure"
+    ],
+    "correct": "B",
+    "rationale": "Eclamptic seizure management: 1) ABC - left lateral position, airway, oxygen. 2) MgSO4 4-6g IV loading + 2g IV bolus if recurrence + maintenance. 3) Control BP if severe HTN (labetalol, hydralazine). 4) Catheterize for output monitoring. 5) Investigate, monitor for HELLP, organ failure. 6) DELIVERY (definitive) - timing depends on stability. Stabilize mother first - seizure during CS is dangerous. NEVER deliver during active seizure."
+  },
+  {
+    "section": "53: CESAREAN SECTION",
+    "question": "The most common type of cesarean section is:",
+    "options": [
+      "Classical (vertical incision)",
+      "Lower segment cesarean section (LSCS) - transverse incision in lower uterine segment",
+      "T-shaped",
+      "Inverted T"
+    ],
+    "correct": "B",
+    "rationale": "LSCS (transverse incision in lower uterine segment): 99% of CS today. Advantages over classical: less blood loss, less infection, less adhesions, better wound healing, allows VBAC in future. Skin incision: Pfannenstiel (transverse, low) or Joel-Cohen (slightly higher). Classical CS (vertical upper segment): only for - very preterm with poorly developed lower segment, transverse lie with back down, fibroids in lower segment, anterior placenta accreta. Vertical = no VBAC."
+  },
+  {
+    "section": "53: CESAREAN SECTION",
+    "question": "Risks of cesarean section compared to vaginal delivery include:",
+    "options": [
+      "No additional risks",
+      "Higher maternal mortality, infection, hemorrhage, VTE, anesthesia complications, longer recovery; long-term placenta accreta in subsequent pregnancies",
+      "Less risk overall",
+      "Only minor differences"
+    ],
+    "correct": "B",
+    "rationale": "CS risks vs vaginal delivery: SHORT-TERM: 2-4x maternal mortality, higher infection (endometritis, wound), hemorrhage, VTE, anesthesia complications, longer hospital stay (3-4 days vs 1-2). LONG-TERM (cumulative): placenta previa/accreta in next pregnancy (especially with multiple CS - accreta risk: 0.3% with 1 CS, 6% with 4 CS), uterine rupture in TOLAC, adhesions causing chronic pain/infertility/bowel obstruction, ectopic pregnancy."
+  },
+  {
+    "section": "53: CESAREAN SECTION",
+    "question": "Robson Ten Group Classification System for CS audit:",
+    "options": [
+      "Classifies women into 10 mutually exclusive groups based on parity, previous CS, gestational age, lie, presentation, and labor onset",
+      "Classifies CS by surgeon",
+      "By hospital",
+      "By insurance"
+    ],
+    "correct": "A",
+    "rationale": "Robson 10-Group Classification (WHO recommended for CS audit globally): groups women into 10 mutually exclusive categories based on: 1) Parity (nulli/multi). 2) Previous CS. 3) Gestational age. 4) Number of fetuses. 5) Lie/presentation. 6) Labor onset (spontaneous, induced, pre-labor CS). Useful for: identifying drivers of high CS rates, comparing institutions, monitoring trends. Group 5 (multiparous with previous CS) often largest contributor to overall CS rate."
   }
 ];
