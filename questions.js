@@ -10690,5 +10690,737 @@ const questions = [
     ],
     "correct": "B",
     "rationale": "PPROM 28-34 weeks: Hospitalize. Antibiotics (ampicillin + erythromycin x 7 days - prolongs latency, reduces infection). Corticosteroids (betamethasone x 2 doses). Tocolysis only short-term to allow steroid effect. Magnesium sulfate (<32 weeks for neuroprotection). Monitor for chorioamnionitis (fever, fetal tachycardia, uterine tenderness). Deliver at 34 weeks (or earlier if infection/distress)."
+  },
+  {
+    "section": "27: MALPRESENTATION",
+    "question": "Breech presentation is defined as:",
+    "options": [
+      "Head presenting first",
+      "Buttocks/feet presenting first (3-4% at term)",
+      "Shoulder presenting",
+      "Face presenting"
+    ],
+    "correct": "B",
+    "rationale": "Breech: buttocks or feet present first. Incidence: 25% at 28 weeks, 7% at 32 weeks, 3-4% at term (most spontaneously turn). Types: Frank breech (buttocks first, legs flexed at hips, extended at knees - 60%); Complete breech (buttocks + flexed legs - 10%); Footling/Incomplete breech (one or both feet - 30%). Risk factors: prematurity, multiple pregnancy, polyhydramnios, fetal anomaly, placenta previa, uterine anomaly."
+  },
+  {
+    "section": "27: MALPRESENTATION",
+    "question": "External cephalic version (ECV) for breech is offered at:",
+    "options": [
+      "28 weeks",
+      "36-37 weeks (success rate 50-60%)",
+      "40 weeks",
+      "Only in labor"
+    ],
+    "correct": "B",
+    "rationale": "ECV: external manipulation to turn breech to cephalic. Done at 36-37 weeks (after most spontaneous version, before labor). Success rate: 50% in primi, 60% in multi. Done in hospital with continuous CTG, immediate cesarean readiness. Anti-D for Rh-negative. Contraindications: placenta previa, multiple pregnancy, fetal anomaly, ROM, oligohydramnios, IUGR with abnormal Doppler, previous CS (relative)."
+  },
+  {
+    "section": "27: MALPRESENTATION",
+    "question": "Mode of delivery for breech presentation at term is:",
+    "options": [
+      "Vaginal delivery for all",
+      "Planned cesarean section (after Term Breech Trial 2000) - reduces neonatal morbidity",
+      "Forceps delivery",
+      "Vacuum delivery"
+    ],
+    "correct": "B",
+    "rationale": "Term breech: PLANNED cesarean section is recommended (Term Breech Trial 2000 by Hannah - showed reduced neonatal mortality/morbidity with planned CS vs planned vaginal). Vaginal breech delivery still accepted in selective cases (frank/complete breech, normal weight, flexed head, experienced obstetrician, mother's choice). Footling breech: always cesarean (cord prolapse risk)."
+  },
+  {
+    "section": "27: MALPRESENTATION",
+    "question": "Face presentation - mentum (chin) anterior position allows:",
+    "options": [
+      "Vaginal delivery",
+      "Vaginal delivery only if mentoanterior; mentoposterior is impossible (cesarean)",
+      "Always cesarean",
+      "Spontaneous version"
+    ],
+    "correct": "B",
+    "rationale": "Face presentation (rare, 1 in 600-800): head fully extended. Submentobregmatic diameter (9.5 cm). MENTOANTERIOR (chin towards pubis): vaginal delivery possible (head can flex and deliver). MENTOPOSTERIOR: vaginal delivery IMPOSSIBLE (head must extend further to deliver but already fully extended) - mandatory cesarean. Causes: anencephaly, multiple loops of cord around neck, fetal goiter."
+  },
+  {
+    "section": "27: MALPRESENTATION",
+    "question": "Brow presentation:",
+    "options": [
+      "Always delivered vaginally",
+      "Mentovertical diameter 14 cm - too large for vaginal delivery, needs cesarean",
+      "Same as face presentation",
+      "Cephalic position"
+    ],
+    "correct": "B",
+    "rationale": "Brow presentation: head partially extended (between flexion and full extension). Mentovertical diameter (14 cm) is the LARGEST head diameter - cannot pass through normal pelvis. Persistent brow = obstructed labor = mandatory cesarean. Sometimes converts to face or vertex during labor (then proceed accordingly). Often results from causes similar to face presentation."
+  },
+  {
+    "section": "27: MALPRESENTATION",
+    "question": "Transverse lie / shoulder presentation requires:",
+    "options": [
+      "Vaginal delivery",
+      "Cesarean section (delivery impossible with transverse lie)",
+      "Forceps",
+      "Vacuum"
+    ],
+    "correct": "B",
+    "rationale": "Transverse lie: fetal long axis perpendicular to mother's. Presenting part: shoulder/arm. CESAREAN is mandatory (vaginal delivery impossible - no part can engage and descend). Causes: placenta previa, polyhydramnios, multiparity (lax abdomen), uterine anomaly, multiple pregnancy. Risk: cord prolapse with ROM, neglected shoulder presentation -> obstructed labor -> uterine rupture."
+  },
+  {
+    "section": "27: MALPRESENTATION",
+    "question": "Occipito-posterior (OP) position management - most likely outcome with adequate contractions is:",
+    "options": [
+      "Always cesarean",
+      "Spontaneous rotation to OA (90% rotate in labor) and vaginal delivery",
+      "Forceps required always",
+      "Manual rotation always"
+    ],
+    "correct": "B",
+    "rationale": "OP position: occiput facing maternal sacrum. 5-10% of cephalic presentations. Most (90%) rotate spontaneously to OA (occipitoanterior) during labor. Persistent OP: 'face-to-pubis' delivery possible but may need: longer labor, more pain (back pain), increased risk of perineal trauma, instrumental delivery (forceps for rotation - Kielland's), manual rotation, or cesarean. Macrosomia and malposition often combined."
+  },
+  {
+    "section": "28: INSTRUMENTAL DELIVERY",
+    "question": "Indications for instrumental delivery (forceps or vacuum) include all EXCEPT:",
+    "options": [
+      "Maternal exhaustion in second stage",
+      "Fetal distress in second stage",
+      "Prolonged second stage (after full dilatation)",
+      "First stage of labor"
+    ],
+    "correct": "D",
+    "rationale": "Instrumental delivery indications (only in 2nd stage, after full dilatation): 1) Maternal exhaustion. 2) Prolonged 2nd stage (>2 hours primi, >1 hour multi without epidural; longer with epidural). 3) Fetal distress. 4) Maternal medical conditions where pushing contraindicated (cardiac disease, severe HTN). 5) Cord prolapse with full dilatation. NEVER before full dilatation - causes maternal injury (cervical tear)."
+  },
+  {
+    "section": "28: INSTRUMENTAL DELIVERY",
+    "question": "Prerequisites for forceps/vacuum delivery include all EXCEPT:",
+    "options": [
+      "Cervix fully dilated, membranes ruptured",
+      "Adequate analgesia, empty bladder",
+      "Head engaged, position known, no CPD",
+      "Cervix 8 cm dilated"
+    ],
+    "correct": "D",
+    "rationale": "Prerequisites for instrumental delivery (mnemonic: ABCDEF): A - Anesthesia/Analgesia adequate. B - Bladder empty. C - Cervix fully dilated. D - Disproportion absent. E - Engagement (station +2 or below). F - Fontanelles palpable (position known). Membranes ruptured. Skilled operator. Backup for cesarean. NEVER attempt before cervix is FULLY (10 cm) dilated."
+  },
+  {
+    "section": "28: INSTRUMENTAL DELIVERY",
+    "question": "Vacuum extraction (ventouse) compared to forceps:",
+    "options": [
+      "More risk of maternal trauma",
+      "Less maternal trauma but more fetal scalp trauma (cephalohematoma, retinal hemorrhage)",
+      "Higher success rate always",
+      "Cannot be used for rotation"
+    ],
+    "correct": "B",
+    "rationale": "Vacuum (ventouse) vs Forceps comparison: VACUUM advantages - less maternal trauma (no third-degree tears), can be used by less experienced operators, allows fetal head to mold and rotate, can be used at higher stations. Vacuum disadvantages - more fetal scalp trauma (cephalohematoma, retinal hemorrhage), higher failure rate, cannot be used for face presentation/preterm <34 weeks/maternal HIV (limit attempts to 3 pulls or 20 minutes)."
+  },
+  {
+    "section": "28: INSTRUMENTAL DELIVERY",
+    "question": "Cesarean section indications include all EXCEPT:",
+    "options": [
+      "Cephalopelvic disproportion (CPD)",
+      "Placenta previa, transverse lie, cord prolapse with viable fetus",
+      "Severe fetal distress, failure to progress",
+      "Maternal request alone for primigravida without indication"
+    ],
+    "correct": "D",
+    "rationale": "Major CS indications: ABSOLUTE - placenta previa (major), transverse lie, cord prolapse, two or more previous CS, cervical cancer, vesicovaginal fistula. RELATIVE - CPD, breech, fetal distress, failed induction, failure to progress, severe preeclampsia, HSV active lesions, HIV with high viral load, twins (Twin A non-cephalic). MATERNAL REQUEST CS: controversial; not standard indication, requires counseling about risks vs benefits."
+  },
+  {
+    "section": "29: POSTPARTUM HEMORRHAGE (PPH)",
+    "question": "Primary postpartum hemorrhage is defined as:",
+    "options": [
+      "Blood loss >100 mL",
+      "Blood loss >=500 mL after vaginal delivery (or >=1000 mL after CS) within 24 hours",
+      ">2000 mL anytime",
+      "Any visible bleeding"
+    ],
+    "correct": "B",
+    "rationale": "Primary PPH: blood loss >=500 mL after vaginal delivery OR >=1000 mL after cesarean delivery within 24 hours. Severe PPH: >=1500 mL or hemodynamic instability. Major PPH: >=1000 mL with continued bleeding/shock. Secondary PPH: 24 hours to 12 weeks postpartum (rare, often retained products or infection). Leading cause of maternal mortality globally (25%)."
+  },
+  {
+    "section": "29: POSTPARTUM HEMORRHAGE (PPH)",
+    "question": "The 4 T's of PPH causes are:",
+    "options": [
+      "Tone, Time, Tissue, Thrombin",
+      "Tone, Trauma, Tissue, Thrombin",
+      "Twin, Tear, Tissue, Time",
+      "Tear, Time, Trauma, Tone"
+    ],
+    "correct": "B",
+    "rationale": "4 T's of PPH: 1) TONE - uterine atony (most common, 80%). 2) TRAUMA - genital tract lacerations, uterine inversion, rupture (15%). 3) TISSUE - retained products (placenta, clots, membranes - 5%). 4) THROMBIN - coagulopathy (DIC, congenital, anticoagulants - <1%). Identify cause systematically. Tone is most common; check uterus first (massage, oxytocics). Trauma: examine for tears."
+  },
+  {
+    "section": "29: POSTPARTUM HEMORRHAGE (PPH)",
+    "question": "First-line uterotonic drug for PPH is:",
+    "options": [
+      "Methylergometrine",
+      "Oxytocin (10 IU IM or 20 IU in 1L saline IV infusion)",
+      "Misoprostol",
+      "Carboprost"
+    ],
+    "correct": "B",
+    "rationale": "PPH uterotonic ladder: 1) OXYTOCIN - first-line. 10 IU IM bolus, then 40 IU in 1L NS infusion. 2) METHYLERGOMETRINE/Ergometrine - 0.2 mg IM (avoid in HTN/preeclampsia). 3) CARBOPROST (15-methyl PGF2-alpha) - 0.25 mg IM, can repeat every 15 min, max 8 doses (avoid in asthma). 4) MISOPROSTOL (PGE1) - 800-1000 mcg per rectum (when no oxytocin available). 5) Tranexamic acid - reduces mortality (WOMAN trial)."
+  },
+  {
+    "section": "29: POSTPARTUM HEMORRHAGE (PPH)",
+    "question": "Bimanual compression of uterus:",
+    "options": [
+      "Squeezes uterus between two hands - one inside vagina pushing up, other pressing down on abdomen (used in atony)",
+      "Always cesarean",
+      "Two providers",
+      "External compression only"
+    ],
+    "correct": "A",
+    "rationale": "Bimanual compression: emergency maneuver for uterine atony. One hand (gloved) inside vagina compresses anterior wall of uterus from below; other hand on abdomen compresses posterior wall from above. Squeezes uterus between hands. Used while preparing other treatment. B-Lynch suture: surgical compression of uterus (placed at cesarean for refractory atony)."
+  },
+  {
+    "section": "29: POSTPARTUM HEMORRHAGE (PPH)",
+    "question": "Stepwise surgical management of refractory PPH includes:",
+    "options": [
+      "Immediate hysterectomy",
+      "Uterine artery ligation -> Internal iliac (anterior division) ligation -> Hysterectomy",
+      "Always external pressure",
+      "Antibiotics only"
+    ],
+    "correct": "B",
+    "rationale": "Stepwise surgical PPH management: 1) Bimanual compression. 2) B-Lynch (or Hayman, Cho) compression sutures. 3) Bilateral uterine artery ligation. 4) Bilateral ovarian artery ligation. 5) Bilateral internal iliac (anterior division) artery ligation. 6) Uterine artery embolization (if available). 7) HYSTERECTOMY (last resort - subtotal preferred unless cervical trauma). Aim: stop bleeding while preserving fertility if possible."
+  },
+  {
+    "section": "29: POSTPARTUM HEMORRHAGE (PPH)",
+    "question": "Tranexamic acid in PPH:",
+    "options": [
+      "No proven benefit",
+      "Reduces death from bleeding by 30% if given within 3 hours (WOMAN trial)",
+      "Causes more bleeding",
+      "Only used in anemia"
+    ],
+    "correct": "B",
+    "rationale": "Tranexamic acid: antifibrinolytic, inhibits plasminogen activation. WOMAN trial (2017): 1g IV, repeated if bleeding continues. Reduced death from bleeding by 30% if given within 3 hours. Now WHO recommends in PPH treatment. Should be given AS EARLY AS POSSIBLE alongside uterotonics. Side effects: GI upset, headache. Caution: history of thromboembolism."
+  },
+  {
+    "section": "29: POSTPARTUM HEMORRHAGE (PPH)",
+    "question": "Uterine inversion is a rare cause of PPH characterized by:",
+    "options": [
+      "Uterus moves forward",
+      "Inside-out turning of uterus (fundus through cervix into vagina) often after excessive cord traction with non-contracted uterus",
+      "Uterus rotates",
+      "Vaginal eversion"
+    ],
+    "correct": "B",
+    "rationale": "Uterine inversion: fundus turns inside-out through cervix. Cause: excessive cord traction on non-contracted uterus (especially with placenta accreta, fundal placenta, short cord). Presents: shock (vagal reflex), severe bleeding, palpable mass in vagina. Management: IMMEDIATE manual replacement (Johnson maneuver - push fundus back through cervix), avoid removing placenta first, uterotonics AFTER replacement. May need general anesthesia, MgSO4 to relax uterus."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "Puerperium duration is:",
+    "options": [
+      "1 week",
+      "6 weeks (42 days) postpartum - return of reproductive organs to non-pregnant state",
+      "3 months",
+      "1 year"
+    ],
+    "correct": "B",
+    "rationale": "Puerperium: 6-week period after delivery during which maternal anatomy and physiology return to non-pregnant state. Three phases: 1) Immediate (first 24 hrs) - high risk of PPH, eclampsia. 2) Early (1-7 days) - uterine involution, lochia. 3) Late/Remote (1-6 weeks). Most maternal deaths occur within 24 hours postpartum (PPH most common cause)."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "Uterine involution rate (fundal height descent) postpartum is:",
+    "options": [
+      "0.1 cm/day",
+      "About 1 cm/day - involutes from umbilicus level (post-delivery) to non-palpable by 10-14 days",
+      "5 cm/day",
+      "No change"
+    ],
+    "correct": "B",
+    "rationale": "Uterine involution: Immediately after delivery: fundus at umbilicus (uterus weighs ~1000 g). Day 1-2: just below umbilicus. Day 7: midway between umbilicus and pubic symphysis. Day 10-14: not palpable abdominally (back in pelvis). 6 weeks: pre-pregnancy size (60-80 g, weight). Subinvolution: fundus higher than expected, soft uterus - causes: retained products, infection, multiple pregnancy."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "Lochia (postpartum vaginal discharge) progresses through stages:",
+    "options": [
+      "Lochia rubra (red, days 1-4) -> serosa (pink/brown, days 4-10) -> alba (yellow/white, days 10-14)",
+      "Always red",
+      "Always white",
+      "No change in color"
+    ],
+    "correct": "A",
+    "rationale": "Lochia stages: 1) LOCHIA RUBRA (red, days 1-4): blood, decidual debris, fetal membranes. 2) LOCHIA SEROSA (pink/brown, days 4-10): less blood, more serous fluid, leukocytes, cervical mucus. 3) LOCHIA ALBA (yellow/white, days 10-14, may continue 4-6 weeks): leukocytes, mucus, bacteria. Total volume: 240-270 mL. Foul odor or persistent rubra: suspect infection or retained products."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "Puerperal pyrexia is defined as:",
+    "options": [
+      "Any fever",
+      "Temperature >=38.0 C on any 2 of first 10 days postpartum (excluding first 24 hours)",
+      "Only fever during labor",
+      "Fever after 6 weeks"
+    ],
+    "correct": "B",
+    "rationale": "Puerperal pyrexia: temperature >=38.0 C (100.4 F) on any 2 of the first 10 days postpartum, excluding the first 24 hours. First 24 hours fever often physiological (dehydration, exertion). Causes (mnemonic 7 W's): Wind (atelectasis, pneumonia), Water (UTI), Walking (DVT), Wound (incision infection), Womb (endometritis - most common), Weaning/breast (mastitis, engorgement), Wonder drugs (drug fever)."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "The most common cause of puerperal pyrexia is:",
+    "options": [
+      "UTI",
+      "Endometritis (Womb)",
+      "Mastitis",
+      "DVT"
+    ],
+    "correct": "B",
+    "rationale": "Endometritis (puerperal sepsis): infection of decidua, most common cause of puerperal fever. Risk factors: cesarean delivery (major), prolonged labor, prolonged ROM, multiple vaginal exams, retained products, manual removal of placenta, GBS. Organisms: polymicrobial (anaerobes, GBS, E. coli). Symptoms: fever, foul lochia, uterine tenderness, subinvolution. Treatment: IV ampicillin + gentamicin + metronidazole (or clindamycin). D&E if retained products."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "Mastitis in postpartum women presents with:",
+    "options": [
+      "Fever, painful red lump in breast (usually unilateral, in breastfeeding women)",
+      "Painless lump",
+      "Bilateral always",
+      "Greenish discharge"
+    ],
+    "correct": "A",
+    "rationale": "Lactational mastitis: breast inflammation +/- infection during breastfeeding. Causes: blocked duct, nipple cracks (entry point), incomplete emptying. Organism: usually Staphylococcus aureus. Presents: fever, painful red wedge-shaped area on breast, flu-like symptoms, breast tenderness. Treatment: continue breastfeeding (most important), warm compress, NSAIDs, antibiotics (dicloxacillin or cephalexin x 10-14 days). Abscess: needs drainage."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "Postpartum blues (baby blues) are characterized by:",
+    "options": [
+      "Severe psychosis",
+      "Mild emotional lability, tearfulness, anxiety in 50-70% of mothers, peaks day 4-5, resolves within 2 weeks",
+      "Lifelong depression",
+      "Hallucinations"
+    ],
+    "correct": "B",
+    "rationale": "Postpartum blues: TRANSIENT mood changes affecting 50-80% of new mothers. Onset day 3-5, peaks 4-5, resolves within 2 weeks. Symptoms: tearfulness, mood swings, anxiety, irritability. Cause: hormonal (estrogen/progesterone drop), sleep deprivation, adjustment. Self-limiting - reassurance, support. If persists >2 weeks or severe -> postpartum depression (10-15%, needs treatment). Postpartum psychosis (rare, 0.1%) - emergency."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "Postpartum depression typically presents:",
+    "options": [
+      "Within 24 hours",
+      "Within 4-6 weeks postpartum (can occur up to 1 year), persistent low mood, anhedonia, hopelessness",
+      "Only after 1 year",
+      "Identical to baby blues"
+    ],
+    "correct": "B",
+    "rationale": "Postpartum depression (PPD): affects 10-15% of mothers. Onset within 4-6 weeks (can be up to 1 year). DSM criteria: 2 weeks of depressed mood/anhedonia + 4 other symptoms. Risk factors: previous depression, lack of social support, life stressors, traumatic delivery, NICU baby. Screening: Edinburgh Postnatal Depression Scale (EPDS, score >=10). Treatment: SSRIs (sertraline preferred in breastfeeding) + therapy. Distinguish from psychosis (severe, requires admission)."
+  },
+  {
+    "section": "30: PUERPERIUM",
+    "question": "Postpartum thromboembolism risk is highest in:",
+    "options": [
+      "First trimester",
+      "First 6 weeks postpartum (especially first week) - 5x higher than antenatal",
+      "Late pregnancy only",
+      "Never increased"
+    ],
+    "correct": "B",
+    "rationale": "Postpartum is HIGHEST RISK for VTE in pregnancy. First 6 weeks postpartum: 5x higher VTE risk than antenatal. First week: highest risk. Risk factors: cesarean delivery (4x), obesity, age >35, smoking, parity, prolonged immobilization, family history of thrombophilia. Prophylaxis with LMWH for high-risk women. Symptoms: DVT (calf swelling, pain), PE (chest pain, dyspnea, hemoptysis). Treatment: therapeutic LMWH."
+  },
+  {
+    "section": "31: ANTEPARTUM FETAL SURVEILLANCE",
+    "question": "Indications for antepartum fetal testing in third trimester include all EXCEPT:",
+    "options": [
+      "Diabetes, hypertension, IUGR",
+      "Decreased fetal movements, post-term, oligohydramnios",
+      "Previous stillbirth, multiple pregnancy",
+      "Healthy pregnancy with good progress"
+    ],
+    "correct": "D",
+    "rationale": "Antepartum fetal surveillance indications: 1) Maternal medical conditions: HTN, DM, autoimmune, renal disease, thyroid, hemoglobinopathies. 2) Pregnancy complications: IUGR, oligohydramnios, multiple pregnancy, post-term, decreased movements, isoimmunization. 3) Past obstetric history: previous stillbirth, recurrent loss. Tests: NST (twice weekly from 32 weeks), BPP, modified BPP, contraction stress test, Doppler. Healthy uncomplicated pregnancy: only routine ANC."
+  },
+  {
+    "section": "31: ANTEPARTUM FETAL SURVEILLANCE",
+    "question": "Reactive non-stress test (NST) is defined as:",
+    "options": [
+      "Any movement",
+      ">=2 accelerations of >=15 bpm above baseline lasting >=15 sec in 20 minutes (>32 weeks)",
+      "Continuous deceleration",
+      "Constant heart rate"
+    ],
+    "correct": "B",
+    "rationale": "Reactive NST (>=32 weeks): >=2 accelerations of >=15 bpm above baseline lasting >=15 seconds in a 20-minute window (associated with fetal movements). Reflects intact CNS. Reassuring. <32 weeks: criteria are 10 bpm for 10 seconds. Non-reactive: extend to 40 minutes (fetal sleep). If still non-reactive: vibroacoustic stimulation, BPP, or other tests. Non-reactive NST + abnormal BPP = increased risk of fetal hypoxia."
+  },
+  {
+    "section": "31: ANTEPARTUM FETAL SURVEILLANCE",
+    "question": "Modified BPP includes:",
+    "options": [
+      "Only NST",
+      "NST + Amniotic Fluid Index (AFI)",
+      "All 5 components of BPP",
+      "Only ultrasound"
+    ],
+    "correct": "B",
+    "rationale": "Modified BPP: NST + AFI (Amniotic Fluid Index). NST reflects acute fetal status (last few minutes/hours). AFI reflects chronic uteroplacental function (fetal urine output over weeks). Combined: very high negative predictive value for stillbirth (similar to full BPP). Faster, simpler, more practical than full 30-min BPP. If abnormal -> proceed to full BPP. Now first-line surveillance test in many centers."
+  },
+  {
+    "section": "31: ANTEPARTUM FETAL SURVEILLANCE",
+    "question": "Cerebroplacental ratio (CPR) on Doppler is calculated as:",
+    "options": [
+      "Umbilical artery PI / Middle cerebral artery PI",
+      "Middle cerebral artery PI / Umbilical artery PI (low CPR <1 = brain-sparing in IUGR)",
+      "Cardiac output ratio",
+      "Renal artery ratio"
+    ],
+    "correct": "B",
+    "rationale": "CPR (Cerebroplacental Ratio) = MCA-PI / UA-PI. Normal CPR > 1.0 (MCA resistance is normally HIGHER than UA). In placental insufficiency/IUGR: brain-sparing effect causes MCA vasodilation (decreased PI), while UA resistance increases. CPR <1 = redistribution = compensated hypoxia. Useful in late-onset IUGR where UA Doppler may be normal. Predicts adverse outcomes."
+  },
+  {
+    "section": "31: ANTEPARTUM FETAL SURVEILLANCE",
+    "question": "Ductus venosus Doppler abnormality (reversed a-wave) indicates:",
+    "options": [
+      "Normal finding",
+      "Severe fetal compromise - decompensation - imminent demise (urgent delivery)",
+      "Twin pregnancy",
+      "Polyhydramnios"
+    ],
+    "correct": "B",
+    "rationale": "Ductus venosus (DV): Doppler shows blood flow to right atrium. Normal a-wave is forward. Reversed a-wave = severe compromise (failed cardiac compensation, cardiac dysfunction). In IUGR cascade: UA AEDF -> CPR drop -> MCA brain-sparing -> UA REDF -> DV reversed a-wave -> imminent fetal demise. Triggers urgent delivery (after steroids if possible). Most ominous Doppler finding."
+  },
+  {
+    "section": "32: INFERTILITY",
+    "question": "Infertility is defined as:",
+    "options": [
+      "Failure to conceive after 6 months of regular unprotected intercourse",
+      "Failure to conceive after 12 months of regular unprotected intercourse (6 months if woman >35 years)",
+      "Failure for any reason",
+      "Failure after 1 cycle"
+    ],
+    "correct": "B",
+    "rationale": "Infertility: failure to conceive after 12 months of regular unprotected intercourse (6 months if woman >35 years). Affects 10-15% of couples. PRIMARY infertility: never conceived. SECONDARY: previous pregnancy (regardless of outcome). Causes: 35% female factor, 35% male factor, 20% combined, 10% unexplained. Female factors: ovulatory (PCOS most common), tubal, uterine, endometriosis. Male: oligo/azoospermia, varicocele."
+  },
+  {
+    "section": "32: INFERTILITY",
+    "question": "Initial investigations for infertility couple include:",
+    "options": [
+      "Karyotype only",
+      "Semen analysis (male) + ovulation assessment (female) + tubal patency test (HSG)",
+      "MRI",
+      "Laparoscopy first"
+    ],
+    "correct": "B",
+    "rationale": "Initial infertility workup: 1) MALE - semen analysis (after 2-7 days abstinence). 2) FEMALE: ovulation assessment - mid-luteal serum progesterone (Day 21 if 28-day cycle), LH surge testing, BBT charting. Day 2-5 hormones - FSH, LH, estradiol, AMH (ovarian reserve), TSH, prolactin. 3) Tubal patency - HSG (or sonosalpingography). 4) USG for uterine anatomy. Laparoscopy if endometriosis/tubal disease suspected."
+  },
+  {
+    "section": "32: INFERTILITY",
+    "question": "Normal semen parameters per WHO 2010 include:",
+    "options": [
+      "Volume <0.5 mL, count >100 million",
+      "Volume >=1.5 mL, count >=15 million/mL, motility >=40%, normal morphology >=4%",
+      "Volume >5 mL only",
+      "Any count is normal"
+    ],
+    "correct": "B",
+    "rationale": "WHO 2010 normal semen parameters: Volume >=1.5 mL, pH >=7.2, sperm count >=15 million/mL, total count >=39 million/ejaculate, motility >=40% total or >=32% progressive, morphology >=4% (Kruger strict), vitality >=58%. Abnormalities: Oligospermia (<15M/mL), Asthenozoospermia (low motility), Teratozoospermia (abnormal morphology), Azoospermia (no sperm)."
+  },
+  {
+    "section": "32: INFERTILITY",
+    "question": "First-line ovulation induction in PCOS is:",
+    "options": [
+      "IVF",
+      "Letrozole (or clomiphene citrate)",
+      "GnRH analogues",
+      "Gonadotropins"
+    ],
+    "correct": "B",
+    "rationale": "PCOS ovulation induction (PCOS Network 2018): LETROZOLE (aromatase inhibitor) - now FIRST-LINE (more effective, fewer side effects than clomiphene). 2.5-7.5 mg Day 2-6 of cycle. CLOMIPHENE CITRATE - traditional first-line, SERM. 50-150 mg Day 2-6. Both with USG follicle monitoring. If fail x 6 cycles -> gonadotropins (FSH injections) -> IVF. METFORMIN: useful adjunct in obese PCOS."
+  },
+  {
+    "section": "32: INFERTILITY",
+    "question": "ICSI (Intracytoplasmic Sperm Injection) is indicated in:",
+    "options": [
+      "Tubal factor infertility",
+      "Severe male factor infertility (low count, motility, morphology) or previous IVF failure",
+      "All IVF cases",
+      "Female age >35"
+    ],
+    "correct": "B",
+    "rationale": "ICSI: single sperm directly injected into oocyte cytoplasm. Indications: 1) Severe oligospermia (<5M/mL), severe asthenozoospermia, teratozoospermia. 2) Surgically retrieved sperm (TESA, MESA from azoospermia). 3) Previous IVF fertilization failure. 4) Frozen-thawed sperm. 5) Globozoospermia. Higher fertilization rate than conventional IVF in male factor. Doesn't improve outcome in non-male factor cases (more invasive, similar pregnancy rates)."
+  },
+  {
+    "section": "32: INFERTILITY",
+    "question": "Ovarian Hyperstimulation Syndrome (OHSS) is a complication of:",
+    "options": [
+      "Tubal surgery",
+      "Ovulation induction (especially gonadotropins) - excessive ovarian response",
+      "Diagnostic laparoscopy",
+      "Endometrial biopsy"
+    ],
+    "correct": "B",
+    "rationale": "OHSS: iatrogenic complication of ovulation induction (gonadotropins > clomiphene, letrozole). Pathology: increased vascular permeability, third-space fluid shift. Classification: Mild (ovarian enlargement, abdominal discomfort), Moderate (ascites, nausea), Severe (massive ascites, hemoconcentration, oliguria, thromboembolism, ARDS). Risk factors: PCOS, young age, low BMI, high E2, multiple follicles. Prevention: GnRH antagonist protocol, agonist trigger, freeze-all."
+  },
+  {
+    "section": "33: GENITAL PROLAPSE",
+    "question": "Pelvic organ prolapse (POP) most commonly involves:",
+    "options": [
+      "Uterus only",
+      "Anterior wall (cystocele) > Apical (uterine/vault) > Posterior wall (rectocele)",
+      "Bladder only",
+      "Always all together"
+    ],
+    "correct": "B",
+    "rationale": "POP types: 1) ANTERIOR compartment - cystocele (bladder), urethrocele (urethra). 2) APICAL/MIDDLE - uterine prolapse (premenopausal), vaginal vault prolapse (post-hysterectomy). 3) POSTERIOR - rectocele (rectum), enterocele (small bowel). 4) PERINEAL - perineocele. Cystocele most common. Levator ani weakness from childbirth is main cause. POP-Q staging: Stage 0 (no prolapse) to Stage IV (complete eversion)."
+  },
+  {
+    "section": "33: GENITAL PROLAPSE",
+    "question": "Risk factors for genital prolapse include all EXCEPT:",
+    "options": [
+      "Multiparity, vaginal deliveries (especially with prolonged 2nd stage)",
+      "Menopause/estrogen deficiency, advancing age",
+      "Chronic cough, constipation, heavy lifting, obesity",
+      "Nulliparity"
+    ],
+    "correct": "D",
+    "rationale": "POP risk factors: 1) Childbirth - especially vaginal, prolonged 2nd stage, instrumental, large baby. 2) Menopause - estrogen deficiency (atrophy of supporting tissues). 3) Aging, multiparity. 4) Chronic increased intra-abdominal pressure - cough (smoking, COPD), constipation, heavy lifting, obesity. 5) Genetic - connective tissue disorders (Ehlers-Danlos), genetic predisposition. Nulliparous women rarely develop POP."
+  },
+  {
+    "section": "33: GENITAL PROLAPSE",
+    "question": "Symptoms of pelvic organ prolapse include all EXCEPT:",
+    "options": [
+      "Sensation of bulge or 'something coming down', heaviness",
+      "Urinary symptoms (incontinence, retention) and bowel symptoms (constipation, splinting)",
+      "Sexual dysfunction (dyspareunia)",
+      "Severe abdominal pain always"
+    ],
+    "correct": "D",
+    "rationale": "POP symptoms: 1) Pelvic pressure/heaviness, sensation of 'bulge', dragging sensation. 2) Worse with prolonged standing, lifting, end of day. 3) Urinary symptoms - stress incontinence (cystocele), urge, retention, recurrent UTI. 4) Bowel symptoms - constipation, splinting (pushing bulge in to defecate). 5) Sexual - dyspareunia, embarrassment. 6) Visible/palpable bulge at introitus. Severe abdominal pain is NOT typical of POP."
+  },
+  {
+    "section": "33: GENITAL PROLAPSE",
+    "question": "Pessary is used for:",
+    "options": [
+      "Surgical treatment",
+      "Conservative management of POP - vaginal device that supports prolapsed organs",
+      "Diagnosis only",
+      "Contraception"
+    ],
+    "correct": "B",
+    "rationale": "Pessary: silicone or rubber device placed in vagina to support prolapsed organs. Conservative option for: women not fit for surgery, those wanting to avoid surgery, awaiting surgery, pregnancy. Types: ring (most common), Gellhorn, donut, cube. Care: regular cleaning (every 3 months by clinician), local estrogen if postmenopausal. Complications: ulceration, infection, fistula (rare). Advantages: avoids surgery."
+  },
+  {
+    "section": "33: GENITAL PROLAPSE",
+    "question": "Surgical treatment for uterine prolapse with desire to preserve fertility is:",
+    "options": [
+      "Vaginal hysterectomy",
+      "Sacrohysteropexy (uterine suspension to sacrum) or Manchester operation",
+      "Total abdominal hysterectomy",
+      "Cesarean section"
+    ],
+    "correct": "B",
+    "rationale": "Uterine-preserving surgeries for prolapse: 1) SACROHYSTEROPEXY - uterus suspended to sacral promontory using mesh (laparoscopic/abdominal). 2) MANCHESTER OPERATION (Fothergill) - amputation of cervix + cardinal ligament shortening. 3) Vaginal sacrospinous hysteropexy. If fertility not desired: vaginal hysterectomy + repair (most common). Vaginal route preferred over abdominal for prolapse repair."
+  },
+  {
+    "section": "34: FAMILY PLANNING",
+    "question": "Pearl Index measures:",
+    "options": [
+      "Fertility",
+      "Number of pregnancies per 100 woman-years of contraceptive use (lower = more effective)",
+      "Live birth rate",
+      "Abortion rate"
+    ],
+    "correct": "B",
+    "rationale": "Pearl Index: contraceptive failure rate = number of unintended pregnancies per 100 woman-years of use. Lower index = more effective method. Two types: 1) PERFECT USE - method used correctly every time. 2) TYPICAL USE - real-world use including human errors. Examples: COCs (perfect 0.3, typical 7), condoms (3, 18), withdrawal (4, 22), copper IUD (0.6, 0.8), Mirena (0.2, 0.2), tubal ligation (0.5)."
+  },
+  {
+    "section": "34: FAMILY PLANNING",
+    "question": "Most effective reversible contraception (LARC - Long-Acting Reversible Contraception) includes:",
+    "options": [
+      "Condoms",
+      "IUDs (Copper-T, Mirena) and implants (Nexplanon)",
+      "OCPs",
+      "Withdrawal"
+    ],
+    "correct": "B",
+    "rationale": "LARCs: most effective reversible methods. 1) CU-IUD (Copper-T 380A) - 10-12 years, hormone-free, can be EC. 2) Mirena LNG-IUS - 5-8 years, also treats menorrhagia. 3) IMPLANT (Nexplanon, etonogestrel) - 3-5 years, subdermal arm. Failure rates: 0.05-0.8% (typical = perfect, doesn't depend on user compliance). Recommended as first-line by CDC. Reversible after removal. Safe in nulliparous, adolescents."
+  },
+  {
+    "section": "34: FAMILY PLANNING",
+    "question": "Copper-T IUD provides contraception for:",
+    "options": [
+      "1 year",
+      "10-12 years (Cu-T 380A)",
+      "Lifetime",
+      "5 years"
+    ],
+    "correct": "B",
+    "rationale": "Copper IUD (Cu-T 380A): contraception for 10-12 years (extended use up to 12 years). Mechanism: copper ions toxic to sperm, prevents fertilization (primarily); also prevents implantation (post-fertilization mechanism). Inserted within 5 days of unprotected sex = most effective EC. Side effects: heavy painful periods, expulsion, perforation (rare). Contraindications: pregnancy, PID, abnormal uterine cavity, copper allergy, Wilson's disease."
+  },
+  {
+    "section": "34: FAMILY PLANNING",
+    "question": "Best time to insert IUD postpartum is:",
+    "options": [
+      "Within 10 minutes of placenta delivery (immediate postpartum) OR after 6 weeks",
+      "Within 24 hours always",
+      "Never postpartum",
+      "After 1 year only"
+    ],
+    "correct": "A",
+    "rationale": "Postpartum IUD insertion: 1) IMMEDIATE postpartum (within 10 min of placenta delivery) - low expulsion if proper technique, high continuation. 2) Postplacental (10 min-48 hrs) - higher expulsion. 3) AVOID 48 hrs to 4 weeks - high expulsion, perforation risk. 4) DELAYED interval (>=4 weeks, ideally 6 weeks) - lowest expulsion. WHO/India promote immediate postpartum IUD (PPIUCD) as missed opportunity to address unmet contraceptive need."
+  },
+  {
+    "section": "34: FAMILY PLANNING",
+    "question": "Bilateral tubal ligation (BTL) uses which technique most commonly in laparoscopic sterilization?",
+    "options": [
+      "Pomeroy's technique",
+      "Falope ring or clip application on isthmus",
+      "Salpingectomy always",
+      "Cervical clip"
+    ],
+    "correct": "B",
+    "rationale": "BTL methods: 1) POMEROY'S - loop of tube tied with absorbable suture, then cut (most common postpartum). 2) FILSHIE CLIP / FALOPE RING - mechanical occlusion (laparoscopic interval). 3) MODIFIED IRVING/UCHIDA - more complex. 4) ESSURE - hysteroscopic (microinserts in tubal ostia, withdrawn from market). 5) BILATERAL SALPINGECTOMY - now preferred (ovarian cancer risk reduction). Failure rate: 0.5%. Most common cause of failure: technical error (wrong structure)."
+  },
+  {
+    "section": "34: FAMILY PLANNING",
+    "question": "Vasectomy in men compared to female sterilization is:",
+    "options": [
+      "Less effective",
+      "Simpler, safer, cheaper, equally effective with quicker recovery",
+      "More invasive",
+      "Less acceptable"
+    ],
+    "correct": "B",
+    "rationale": "Vasectomy advantages over BTL: 1) Outpatient under local anesthesia (vs BTL needs OT/spinal). 2) Lower complication rate (1% vs 1-3%). 3) Cheaper. 4) Quicker recovery (2-3 days vs 1 week). 5) Equally effective long-term. NSV (No-Scalpel Vasectomy) - puncture instead of incision, less pain, fewer complications. Important: NOT effective immediately - need to confirm azoospermia at 3 months (~20 ejaculations). Continue contraception until then."
+  },
+  {
+    "section": "34: FAMILY PLANNING",
+    "question": "Lactational amenorrhea method (LAM) is effective when ALL three conditions are met:",
+    "options": [
+      "Any breastfeeding",
+      "Exclusive breastfeeding + amenorrheic + within 6 months postpartum (98% effective)",
+      "Mixed feeding",
+      "1 year postpartum"
+    ],
+    "correct": "B",
+    "rationale": "LAM criteria (3 must be met): 1) EXCLUSIVE breastfeeding (no formula, no water, no solids), 2) Mother is AMENORRHEIC (no menses since delivery), 3) Within FIRST 6 MONTHS postpartum. Effectiveness: 98% (when all 3 conditions met). Mechanism: prolactin suppresses GnRH, anovulation. As any condition fails (e.g., periods return, mixed feeding starts) - effectiveness drops, additional contraception needed."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "The most common gynecological cancer in India is:",
+    "options": [
+      "Ovarian cancer",
+      "Cervical cancer (most common in India and developing countries)",
+      "Endometrial cancer",
+      "Vulvar cancer"
+    ],
+    "correct": "B",
+    "rationale": "Cervical cancer: most common gynecological cancer in India and developing countries (#1 cause of cancer death in women in some Indian states). Globally 4th most common female cancer. Caused by persistent HPV infection (16, 18 cause 70%). Peak age 45-55 years. Preventable: HPV vaccine + Pap/HPV screening. Endometrial cancer: most common in developed countries (linked to obesity, estrogen)."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "HPV vaccine is recommended at age:",
+    "options": [
+      "Only after 30 years",
+      "9-14 years (ideally before sexual debut), catch-up till 26",
+      "Only adult women",
+      "Lifetime, any age"
+    ],
+    "correct": "B",
+    "rationale": "HPV vaccine schedule: PRIMARY target 9-14 years (girls AND boys, ideally before sexual debut). 9-14 years: 2 doses (0, 6 months). 15-26 years: 3 doses (0, 1-2, 6 months). Adults 27-45: shared decision making. Vaccines: Bivalent (16, 18), Quadrivalent (6, 11, 16, 18 - also genital warts), Nonavalent (Gardasil-9: adds 31, 33, 45, 52, 58). Doesn't replace screening but reduces lifetime cervical cancer risk by 50-90%."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "The main causative organism for cervical cancer is:",
+    "options": [
+      "Chlamydia",
+      "Human Papillomavirus (HPV) - high-risk types 16 and 18",
+      "Herpes simplex",
+      "HIV"
+    ],
+    "correct": "B",
+    "rationale": "HPV: causes 99% of cervical cancers (necessary cause). High-risk types: 16, 18, 31, 33, 45, 52, 58. HPV 16 + 18 = 70% of cervical cancer. Most HPV infections clear spontaneously (90% within 2 years). Persistent infection -> CIN -> invasive cancer (slow progression over 10-20 years). Co-factors: smoking, multiple sexual partners, immunosuppression, OCP long-term, multiparity. HPV also causes anal, oropharyngeal, vulvar, vaginal, penile cancers."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "FIGO Stage I cervical cancer is treated with:",
+    "options": [
+      "Chemotherapy alone",
+      "Radical hysterectomy + pelvic lymphadenectomy OR radiotherapy (similar outcomes)",
+      "Vaccine",
+      "Observation only"
+    ],
+    "correct": "B",
+    "rationale": "Cervical cancer treatment by stage: Stage IA1 (microinvasive): cone biopsy (fertility-sparing) or simple hysterectomy. Stage IA2-IB1: radical hysterectomy + pelvic lymphadenectomy OR radiotherapy. Stage IB2 onwards: concurrent chemoradiotherapy (cisplatin + radiation). Stage IV: palliative care. Trachelectomy: fertility-sparing for IA2-IB1. Radical hysterectomy: removes uterus + parametrium + upper vagina + pelvic nodes."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "The most common type of endometrial cancer is:",
+    "options": [
+      "Clear cell carcinoma",
+      "Endometrioid adenocarcinoma (Type I, estrogen-dependent)",
+      "Serous carcinoma",
+      "Squamous carcinoma"
+    ],
+    "correct": "B",
+    "rationale": "Endometrial cancer types: TYPE I (80%) - endometrioid adenocarcinoma. Estrogen-dependent. Risk factors: obesity, unopposed estrogen, late menopause, nulliparity, PCOS, tamoxifen, diabetes. Better prognosis. TYPE II (20%) - serous, clear cell, carcinosarcoma. Estrogen-INDEPENDENT, postmenopausal, p53 mutations, worse prognosis. PRESENTATION: postmenopausal bleeding (90%) - investigate any bleeding after menopause."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "Endometrial cancer staging is:",
+    "options": [
+      "Clinical only",
+      "Surgical (FIGO 2009): hysterectomy + bilateral salpingo-oophorectomy + lymphadenectomy + cytology",
+      "Imaging only",
+      "Biopsy only"
+    ],
+    "correct": "B",
+    "rationale": "Endometrial cancer: SURGICALLY staged (one of few cancers). Standard: TAH + BSO + bilateral pelvic + para-aortic lymphadenectomy + peritoneal washings/cytology. Stage I: confined to uterus. II: cervix involved. III: pelvis (adnexa, vaginal, lymph nodes). IV: distant or bladder/bowel. Treatment based on stage and risk: surgery alone (low risk) to surgery + chemo + radiation (high risk)."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "Ovarian cancer most often presents:",
+    "options": [
+      "In Stage I (early)",
+      "Late (Stage III-IV) due to vague non-specific symptoms ('silent killer')",
+      "With heavy bleeding",
+      "With postmenopausal bleeding"
+    ],
+    "correct": "B",
+    "rationale": "Ovarian cancer: deadliest gynecological cancer. 70-80% present at advanced stages (III-IV) - 'silent killer'. Vague symptoms: bloating, abdominal pain, urinary symptoms, early satiety, fatigue. By time symptoms become prominent, disease has spread. No effective screening for general population. CA-125 + USG used in high-risk (BRCA, family history). 5-year survival: 90% Stage I, <30% Stage III-IV."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "BRCA1/BRCA2 mutations are associated with:",
+    "options": [
+      "Lung cancer",
+      "Hereditary breast and ovarian cancer syndrome (HBOC)",
+      "Cervical cancer",
+      "Endometrial cancer"
+    ],
+    "correct": "B",
+    "rationale": "BRCA1/2: tumor suppressor genes. Mutations cause Hereditary Breast and Ovarian Cancer (HBOC) Syndrome. BRCA1: lifetime breast cancer risk 65%, ovarian 40%. BRCA2: breast 45%, ovarian 17%. Autosomal dominant inheritance. Higher in Ashkenazi Jews. Management: enhanced screening (MRI + mammogram), risk-reducing salpingo-oophorectomy (RRSO) at 35-40, prophylactic mastectomy. Targeted therapy: PARP inhibitors (olaparib) for BRCA-mutated cancers."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "The most common type of ovarian cancer is:",
+    "options": [
+      "Germ cell tumor",
+      "Epithelial ovarian cancer (high-grade serous most common, 70%)",
+      "Sex cord stromal tumor",
+      "Krukenberg tumor"
+    ],
+    "correct": "B",
+    "rationale": "Ovarian cancer types: 1) EPITHELIAL (90%) - high-grade serous (most common, often BRCA-related, presumed to arise from fallopian tube fimbriae), endometrioid, clear cell, mucinous. 2) GERM CELL (5%) - dysgerminoma, teratoma (immature), yolk sac. Younger women. 3) SEX CORD STROMAL (5%) - granulosa cell (estrogen-producing), Sertoli-Leydig (androgen-producing). 4) METASTATIC (Krukenberg from GI cancer)."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "Tumor markers in ovarian cancer include:",
+    "options": [
+      "Only CA-125",
+      "CA-125 (epithelial), AFP and beta-hCG (germ cell), inhibin (granulosa cell)",
+      "PSA",
+      "CEA only"
+    ],
+    "correct": "B",
+    "rationale": "Ovarian tumor markers (cancer type specific): EPITHELIAL: CA-125 (most useful, also raised in endometriosis/PID/early pregnancy), HE4, CEA. GERM CELL: AFP (yolk sac, embryonal), beta-hCG (choriocarcinoma, embryonal), LDH (dysgerminoma). SEX CORD STROMAL: Inhibin B, AMH (granulosa cell), estradiol, testosterone. ROMA score combines CA-125 + HE4 + menopausal status to differentiate benign from malignant."
+  },
+  {
+    "section": "35: GYNECOLOGICAL MALIGNANCIES",
+    "question": "Treatment of advanced epithelial ovarian cancer involves:",
+    "options": [
+      "Radiation only",
+      "Cytoreductive surgery (debulking) + platinum-based chemotherapy (carboplatin + paclitaxel)",
+      "Chemotherapy only",
+      "Hormone therapy only"
+    ],
+    "correct": "B",
+    "rationale": "Advanced ovarian cancer: 1) Cytoreductive (debulking) surgery - aim for no residual disease (R0). Includes TAH+BSO + omentectomy + pelvic/para-aortic lymphadenectomy + peritoneal stripping. Option of neoadjuvant chemo if not optimally debulkable. 2) PLATINUM-BASED CHEMOTHERAPY - carboplatin + paclitaxel x 6 cycles. Maintenance: PARP inhibitors (BRCA+/HRD) or bevacizumab. Recurrence common; subsequent lines based on platinum sensitivity."
   }
 ];
