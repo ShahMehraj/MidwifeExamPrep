@@ -11,6 +11,15 @@ function exportToPDF() {
             const { jsPDF } = window.jspdf;
             const doc = new jsPDF({ unit: 'mm', format: 'a4' });
 
+            // Active subject metadata (from manifest); falls back gracefully.
+            const subjMeta = (window.SUBJECTS || []).find(s => s.id === currentSubject) || {};
+            const subjName = subjMeta.name || 'Nursing';
+            const safeFile = subjName.replace(/[^A-Za-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
+            // jsPDF standard fonts are latin-1 only; map glyphs used in MCQ text.
+            const s = (t) => String(t || '')
+                .replace(/▶/g, '>>').replace(/[–—]/g, '-')
+                .replace(/[’‘]/g, "'").replace(/[“”]/g, '"');
+
             // Page constants
             const pageW = doc.internal.pageSize.getWidth();   // 210
             const pageH = doc.internal.pageSize.getHeight();  // 297
@@ -39,11 +48,11 @@ function exportToPDF() {
                 doc.setFont('helvetica', 'bold');
                 doc.setFontSize(11);
                 doc.setTextColor(0, 51, 102);
-                doc.text('Obstetric & Maternal Health Nursing - MCQs', margin, margin + 5);
+                doc.text(`${s(subjName)} - MCQs`, margin, margin + 5);
                 doc.setFont('helvetica', 'italic');
                 doc.setFontSize(8);
                 doc.setTextColor(120, 120, 120);
-                doc.text(`Section: ${sectionTitle}`, pageW - margin, margin + 5, { align: 'right' });
+                doc.text(`Section: ${s(sectionTitle)}`, pageW - margin, margin + 5, { align: 'right' });
                 doc.setDrawColor(0, 51, 102);
                 doc.setLineWidth(0.4);
                 doc.line(margin, margin + 8, pageW - margin, margin + 8);
@@ -86,14 +95,14 @@ function exportToPDF() {
             // First page header
             drawHeader(questions[0].section);
 
-            const letters = ['A', 'B', 'C', 'D'];
+            const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
             let currentSection = '';
 
             // Title at very top of first column
             doc.setFont('helvetica', 'bold');
             doc.setFontSize(13);
             doc.setTextColor(0, 51, 102);
-            doc.text('OBG MCQs - Practice Set', getX(), getY() + 5);
+            doc.text(`${s(subjName)} - Practice Set`, getX(), getY() + 5);
             setY(getY() + 10);
             doc.setFont('helvetica', 'normal');
             doc.setFontSize(8);
@@ -111,7 +120,7 @@ function exportToPDF() {
                     doc.setFont('helvetica', 'bold');
                     doc.setFontSize(9);
                     doc.setTextColor(153, 0, 0);
-                    const sectLines = doc.splitTextToSize(currentSection, colW);
+                    const sectLines = doc.splitTextToSize(s(currentSection), colW);
                     doc.text(sectLines, getX(), getY());
                     setY(getY() + sectLines.length * 4);
                     doc.setDrawColor(153, 0, 0);
@@ -123,13 +132,13 @@ function exportToPDF() {
                 // Compute size needed
                 doc.setFont('helvetica', 'bold');
                 doc.setFontSize(8.5);
-                const qLines = doc.splitTextToSize(`Q${i+1}. ${q.question}`, colW);
+                const qLines = doc.splitTextToSize(`Q${i+1}. ${s(q.question)}`, colW);
 
                 doc.setFont('helvetica', 'normal');
                 doc.setFontSize(8);
                 let optsTotal = 0;
                 const optLinesArr = q.options.map((opt, idx) => {
-                    const txt = `${letters[idx]}. ${opt}`;
+                    const txt = `${letters[idx] || '?'}. ${s(opt)}`;
                     const lines = doc.splitTextToSize(txt, colW - 3);
                     optsTotal += lines.length * 3.5;
                     return lines;
@@ -137,7 +146,7 @@ function exportToPDF() {
 
                 doc.setFont('helvetica', 'italic');
                 doc.setFontSize(7);
-                const expLines = doc.splitTextToSize(`Explanation: ${q.rationale}`, colW - 3);
+                const expLines = doc.splitTextToSize(`Explanation: ${s(q.rationale)}`, colW - 3);
 
                 // Total block height
                 const blockHeight = qLines.length * 3.5
@@ -196,7 +205,7 @@ function exportToPDF() {
             });
 
             drawFooter();
-            doc.save('OBG_MCQs_RabiyaBlack.pdf');
+            doc.save(`${safeFile}_MCQs.pdf`);
         } catch (err) {
             alert('Error exporting PDF: ' + err.message);
             console.error(err);

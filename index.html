@@ -15,6 +15,7 @@
             <div>
                 <h1>Obstetric & Maternal Health Nursing</h1>
                 <p class="subtitle">Multiple Choice Questions for Rabiya Black</p>
+                <p class="subject-heading" id="subject-heading"></p>
             </div>
             <div class="header-actions">
                 <button class="btn btn-icon" id="theme-toggle" title="Dark Mode">🌙<span class="icon-label">Dark Mode</span></button>
@@ -61,17 +62,27 @@
     <div class="container">
         <!-- Sidebar Navigation -->
         <nav class="sidebar" id="sidebar">
+            <div class="subject-box">
+                <h4>Subject</h4>
+                <div class="subject-dropdown" id="subject-dropdown">
+                    <button class="subject-toggle" id="subject-toggle" aria-haspopup="listbox" aria-expanded="false">
+                        <span class="subject-toggle-label" id="subject-toggle-label">Select subject</span>
+                        <span class="subject-toggle-caret">▾</span>
+                    </button>
+                    <ul class="subject-list" id="subject-list" role="listbox"></ul>
+                </div>
+            </div>
             <h3>Sections</h3>
             <ul id="section-list"></ul>
 
             <div class="filter-box">
                 <h4>Filter</h4>
-                <select id="filter-select">
-                    <option value="all">All Questions</option>
-                    <option value="unanswered">Unanswered Only</option>
-                    <option value="incorrect">Incorrect Only</option>
-                    <option value="bookmarked">Bookmarked Only</option>
-                </select>
+                <div class="filter-pills" id="filter-pills">
+                    <button class="filter-pill active" data-filter="all">All</button>
+                    <button class="filter-pill" data-filter="unanswered">Unanswered</button>
+                    <button class="filter-pill" data-filter="incorrect">Incorrect</button>
+                    <button class="filter-pill" data-filter="bookmarked">Bookmarked</button>
+                </div>
             </div>
 
             <div class="progress-box">
@@ -118,7 +129,7 @@
     <canvas id="confetti-canvas"></canvas>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-    <script src="questions.js"></script>
+    <script src="data/manifest.js"></script>
     <script src="pdf_generator.js"></script>
     <script src="app.js"></script>
 </body>

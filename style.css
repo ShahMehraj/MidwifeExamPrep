@@ -64,6 +64,148 @@ header .subtitle {
     opacity: 0.85;
 }
 
+header .subject-heading {
+    font-size: 0.8rem;
+    opacity: 0.75;
+    margin-top: 0.15rem;
+    font-weight: 600;
+}
+
+/* Subject picker (sidebar) */
+.subject-box {
+    margin-bottom: 1rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 2px solid var(--border);
+}
+
+.subject-box h4 {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 0.4rem;
+}
+
+/* Subject dropdown (custom, so we control the popup styling) */
+.subject-dropdown {
+    position: relative;
+}
+
+.subject-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 0.55rem 0.7rem;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--card-bg);
+    color: var(--text);
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: border-color 0.15s;
+}
+
+.subject-toggle:hover {
+    border-color: var(--accent);
+}
+
+.subject-toggle-label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.subject-toggle-caret {
+    flex-shrink: 0;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    transition: transform 0.2s;
+}
+
+.subject-dropdown.open .subject-toggle-caret {
+    transform: rotate(180deg);
+}
+
+.subject-dropdown.open .subject-toggle {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(0, 77, 153, 0.12);
+}
+
+.subject-list {
+    list-style: none;
+    display: none;
+    flex-direction: column;
+    gap: 0.25rem;
+    position: absolute;
+    top: calc(100% + 0.35rem);
+    left: 0;
+    right: 0;
+    z-index: 50;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 0.35rem;
+    box-shadow: 0 8px 24px var(--shadow);
+    max-height: 340px;
+    overflow-y: auto;
+}
+
+.subject-dropdown.open .subject-list {
+    display: flex;
+}
+
+.subject-list .subject-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 0.5rem 0.6rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.82rem;
+    border: 1px solid transparent;
+    transition: all 0.15s;
+    color: var(--text);
+}
+
+.subject-list .subject-item:hover {
+    background: var(--primary-light);
+    color: var(--primary);
+}
+
+.subject-list .subject-item.active {
+    background: var(--primary);
+    color: #fff;
+    font-weight: 600;
+}
+
+.subject-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.subject-count {
+    flex-shrink: 0;
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 0.1rem 0.45rem;
+    border-radius: 20px;
+    background: var(--border);
+    color: var(--text-muted);
+}
+
+.subject-item:hover .subject-count {
+    background: rgba(0, 51, 102, 0.15);
+    color: var(--primary);
+}
+
+.subject-item.active .subject-count {
+    background: rgba(255, 255, 255, 0.25);
+    color: #fff;
+}
+
 .header-actions {
     display: flex;
     gap: 0.5rem;
@@ -105,7 +247,7 @@ header .subtitle {
 
 .container {
     display: flex;
-    max-width: 1200px;
+    max-width: 1320px;
     margin: 0 auto;
     padding: 1.5rem;
     gap: 1.5rem;
@@ -113,7 +255,7 @@ header .subtitle {
 
 /* Sidebar */
 .sidebar {
-    width: 260px;
+    width: 320px;
     flex-shrink: 0;
     background: var(--card-bg);
     border-radius: 12px;
@@ -170,14 +312,35 @@ header .subtitle {
     margin-bottom: 0.4rem;
 }
 
-.filter-box select {
-    width: 100%;
-    padding: 0.5rem;
-    border-radius: 6px;
+.filter-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+}
+
+.filter-pill {
+    flex: 1 1 auto;
+    padding: 0.4rem 0.6rem;
+    border-radius: 20px;
     border: 1px solid var(--border);
     background: var(--card-bg);
-    color: var(--text);
-    font-size: 0.82rem;
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+}
+
+.filter-pill:hover {
+    border-color: var(--accent);
+    color: var(--primary);
+}
+
+.filter-pill.active {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: #fff;
 }
 
 .progress-box {
@@ -448,6 +611,11 @@ header .subtitle {
 
 .option-text {
     padding-top: 0.35rem;
+}
+
+/* SATA (Select All That Apply): square markers to signal multi-select */
+.option.sata .option-letter {
+    border-radius: 6px;
 }
 
 /* Result Box */
